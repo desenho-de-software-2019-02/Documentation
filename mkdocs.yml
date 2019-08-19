@@ -1,0 +1,18 @@
+﻿site_name: Desnho de Software
+site_description: Documentaão
+repo_url: https://https://github.com/desenho-de-software-2019-02/Document-o
+site_dir: site
+dev_addr: ‘0.0.0.0:8000
+theme:
+  name: 'material'
+  logo: 'images/icon.jpeg'
+  favicon: 'images/icon.jpeg'
+  palette:
+    primary: 'blue'
+  language: 'pt'
+
+plugins:
+  - search
+nav:
+  - Home: 'doc/index.md'
+  
