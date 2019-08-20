@@ -1,6 +1,6 @@
 ﻿site_name: Desnho de Software
-site_description: Documentaão
-repo_url: https://https://github.com/desenho-de-software-2019-02/Document-o
+site_description: Repositório da disciplina de Desenho de software
+repo_url: https://github.com/desenho-de-software-2019-02/Document-o
 site_dir: site
 dev_addr: ‘0.0.0.0:8000
 theme:
@@ -14,5 +14,5 @@ theme:
 plugins:
   - search
 nav:
-  - Home: 'doc/index.md'
+  - Home: 'docs/index.md'
   

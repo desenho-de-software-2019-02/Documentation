@@ -1,7 +1,7 @@
 ﻿# Documentação 
 ## Surte para RPG
 
-Repositório para a disciplina de desenho de software.
+Repositório para a disciplina de desenho de software com o intuito de centralizar a documentação do projeto.
 
 Desenvolvido pela discente Milena Serrano da Universidade de Brasília. 
 

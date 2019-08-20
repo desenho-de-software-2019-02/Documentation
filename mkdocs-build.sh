@@ -12,4 +12,3 @@ mkdocs gh-deploy --clean --remote-name gh-token;
 
 echo "Completed deploying documentation"
 
-desenho-de-software-2019-02/Document-o
