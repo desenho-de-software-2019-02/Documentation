@@ -1,7 +1,7 @@
+#
+# *RPG - Nome a definir*
 
-# *Nome a definir*
-
-> Repositório da disciplina de desenho de Software.
+ Repositório da disciplina de desenho de Software.
 
 ## Equipe
 

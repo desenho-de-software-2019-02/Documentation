@@ -13,8 +13,8 @@ theme:
 
 plugins:
   - search
-nav:
-  - Home: 'docs/index.md'
-  - Definições de projeto: 
-    - Discução de tema: 'docs/discucao_tema.md'
+page:
+- Home : 'docs/index.md'
+- Definições de projeto: 
+  - Discução de tema: 'docs/discucao_tema.md'
   

@@ -9,21 +9,32 @@ Os temas sugeridos foram:
 * Ideia 3 : Plataforma para mecanica
 * Ideia 4 : Game
 
-Após à apresentação de todos os temas e os membros tirarem suas duvidas passamos por todos os temas e colocando os pontos positivos e as observações julgadas necessárias, isto pode ser visto nas imagens abaixo.
+Todos os temas foram apresentados do e os membros tiraram suas duvidas, lodo depois passamos por todos os temas e colocando os pontos positivos e negativos e as observações julgadas necessárias, isto pode ser visto nas imagens abaixo.
 
-## Ideia 1
+## Ideia 1 
 
-[(./img/discucao_tema/ideia_1.jpg)](./img/discucao_tema/ideia_1.jpg)
+![(./../img/discucao_tema/ideia_1.jpg)](./../img/discucao_tema/ideia_1.jpg)
+
+Sugerida por Artuhr Rodrigues
 
 ## Ideia 2
 
-[(./img/discucao_tema/ideia_2.jpg)](./img/discucao_tema/ideia_2.jpg)
+![(./../img/discucao_tema/ideia_2.jpg)](./../img/discucao_tema/ideia_2.jpg)
 
-## Ideia 3
 
-[(./img/discucao_tema/ideia_3.jpg)](./img/discucao_tema/ideia_3.jpg)
+Sugerida por Lucas Machado
 
+## Ideia 3 
+
+![(./../img/discucao_tema/ideia_3.jpg)](./../img/discucao_tema/ideia_3.jpg)
+
+Sugerida por André Eduardo
 ## Ideia 4
 
-[(./img/discucao_tema/ideia_4.jpg)](./img/discucao_tema/ideia_4.jpg)
+![(./../img/discucao_tema/ideia_4.jpg)](./../img/discucao_tema/ideia_4.jpg)
 
+Sugerida por Guilherme de Lyra
+
+## Conclusão
+
+Após analisar todos os possíveis projetos por maioria de votos e indicações externas o tema 2 foi escolhido pela maioria.
