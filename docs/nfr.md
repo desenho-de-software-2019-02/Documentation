@@ -2,4 +2,4 @@
 
 ## NFR - Confiabilidade
 
-![../img/nfr_confiabilidade.png](nfr confiabilidade)
+![nfr confiabilidade](../img/nfr_confiabilidade.png)
