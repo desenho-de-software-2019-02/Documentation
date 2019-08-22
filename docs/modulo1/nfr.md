@@ -1,7 +1,7 @@
 
 ## NFR - Confiabilidade
 
-![nfr confiabilidade](../../img/nfr_confiabilidade.png)
+![nfr confiabilidade](./../img/nfr_confiabilidade.png)
 
 |**Objeto**|**NFR**|
 |--|--|

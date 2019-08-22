@@ -1,7 +1,7 @@
 # Mapa mental do projeto
 
 ## Versão atual
-![Versão 2](../../img/mindmap/mindmapv2.png)
+![Versão 2](./../img/mindmap/mindmapv2.png)
 
 ## Versões anteriores
 
