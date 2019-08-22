@@ -1,5 +1,3 @@
-# Master of Puptets
-
 
 ## Rich Picture
 
@@ -11,4 +9,4 @@
 
 ### Andre Bargas v1
 
-![rich picture andre v1](../img/rich_picture_andre_bargas.png)
+![rich picture andre v1](https://raw.githubusercontent.com/desenho-de-software-2019-02/Doc/devel/img/rich_picture_andre_bargas.png)
