@@ -15,7 +15,7 @@
 | Arthur José Benedito |  |
 | Eduardo Rodrigues Yoshida |  |
 | Gustavo Duarte Moreira |  |
-| João Pedro de Aquino |  |
+| João Pedro de Aquino |  [@jpmartins201](https://github.com/jpmartins201)|
 | Lucas Machado | [@lmmLucasMachado](https://github.com/lmmLucasMachado) |
 | Mateus Nóbrega |  |
 

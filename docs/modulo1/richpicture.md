@@ -28,3 +28,12 @@
 | **Descrição** | richpicture da aplicação **Master of Puppets** |
 | **Data** | 21/08/2019 |
 
+
+![rich picture ](https://raw.githubusercontent.com/desenho-de-software-2019-02/Doc/devel/img/richpicture_concorrencia.png)
+|**Objeto**|**Rich Picture**|
+|--|--|
+|**Versões anteriores**| - |
+|**Versão**| 1.0 |
+|**Autor**|João Pedro|
+| **Descrição** | richpicture da concorrência **Master of Puppets** |
+| **Data** | 21/08/2019 |
