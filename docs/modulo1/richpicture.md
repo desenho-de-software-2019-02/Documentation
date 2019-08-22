@@ -5,7 +5,7 @@
 
 ### Ações do Jogador
 
-![rich picture andre v1](./../img/rich_pictures/rich_picture_final_player_v1.jpg)
+![rich picture andre v1](Doc/img/rich_pictures/rich_picture_final_player_v1.jpg)
 
 |**Objeto**|**Rich Picture**|
 |--|--|
@@ -18,7 +18,7 @@
 
 ### Ações do Mestre
 
-![rich picture andre v1](./../img/rich_pictures/rich_picture_final_mestre_v1.jpg)
+![rich picture andre v1](Doc/img/rich_pictures/rich_picture_final_mestre_v1.jpg)
 
 |**Objeto**|**Rich Picture**|
 |--|--|
