@@ -6,6 +6,6 @@
 
 [Mapa Mental](./mapa_mental.md)
 
-[Rich Pictures](./richpictures.md)
+[Rich Pictures](./richpicture.md)
 
 [NFR](./nfr.md)
