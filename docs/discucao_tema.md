@@ -15,7 +15,7 @@ Todos os temas foram apresentados do e os membros tiraram suas duvidas, lodo dep
 
 ![(./../img/discucao_tema/ideia_1.jpg)](./../img/discucao_tema/ideia_1.jpg)
 
-Sugerida por Artuhr Rodrigues
+Sugerida por Arthur Rodrigues
 
 ## Ideia 2
 
