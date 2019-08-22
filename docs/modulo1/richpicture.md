@@ -36,4 +36,4 @@
 |**Versão**| 1.0 |
 |**Autor**|João Pedro|
 | **Descrição** | richpicture da concorrência **Master of Puppets** |
-| **Data** | 21/08/2019 |
+| **Data** | 22/08/2019 |
