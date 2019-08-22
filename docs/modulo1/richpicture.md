@@ -61,3 +61,13 @@
 |**Autor**|Eduardo Yoshida|
 | **Descrição** | richpicture da aplicação **Master of Puppets** |
 | **Data** | 20/08/2019 |
+
+![rich picture Gustavo v1](./../img/rich_pictures/rich_picture_individual_gustavo.png)
+
+|**Objeto**|**Rich Picture**|
+|--|--|
+|**Versões anteriores**| - |
+|**Versão**| 1.0 |
+|**Autor**|Gustavo Moreira|
+| **Descrição** | richpicture visão da aplicação a partir do mestre de RPG **Master of Puppets** |
+| **Data** | 20/08/2019 |
