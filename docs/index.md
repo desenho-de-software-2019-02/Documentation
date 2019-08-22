@@ -10,7 +10,7 @@
 | André Eduardo |   |
 | André Bargas | [@andrebargas](https://github.com/andrebargas) |
 | Arthur Alves Rodrigues | [@arthurarp](https://github.com/arthurarp) |
-| Arthur José Benedito |  |
+| Arthur Assis | [@arthur0496](https://github.com/arthur0496) |
 | Eduardo Rodrigues Yoshida |  |
 | Guilherme de Lyra | [@guilhermedelyra](https://github.com/guilhermedelyra) |
 | Gustavo Duarte Moreira |  |

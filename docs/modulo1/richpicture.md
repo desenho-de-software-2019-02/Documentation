@@ -71,3 +71,14 @@
 |**Autor**|Gustavo Moreira|
 | **Descrição** | richpicture visão da aplicação a partir do mestre de RPG **Master of Puppets** |
 | **Data** | 20/08/2019 |
+
+
+![rich picture Arthur Assis v1](./../img/rich_pictures/rich_picture_individual_arthur_assis.png)
+
+|**Objeto**|**Rich Picture**|
+|--|--|
+|**Versões anteriores**| - |
+|**Versão**| 1.0 |
+|**Autor**|Arthur Assis|
+| **Descrição** | richpicture com base em como o processo ocorre sem a aplicação |
+| **Data** | 20/08/2019 |
