@@ -12,6 +12,7 @@
 | Arthur Alves Rodrigues | [@arthurarp](https://github.com/arthurarp) |
 | Arthur José Benedito |  |
 | Eduardo Rodrigues Yoshida |  |
+| Guilherme de Lyra | [@guilhermedelyra](https://github.com/guilhermedelyra) |
 | Gustavo Duarte Moreira |  |
 | João Pedro de Aquino |  |
 | Lucas Machado | [@lmmLucasMachado](https://github.com/lmmLucasMachado) |
