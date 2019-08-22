@@ -13,25 +13,25 @@ Todos os temas foram apresentados do e os membros tiraram suas duvidas, lodo dep
 
 ## Ideia 1 
 
-![(./../img/discucao_tema/ideia_1.jpg)](./../img/discucao_tema/ideia_1.jpg)
+<a href="https://imgur.com/FIwPP9O"><img src="https://i.imgur.com/FIwPP9O.jpg" title="source: imgur.com" /></a>
 
 Sugerida por Arthur Rodrigues
 
 ## Ideia 2
 
-![(./../img/discucao_tema/ideia_2.jpg)](./../img/discucao_tema/ideia_2.jpg)
-
+<a href="https://imgur.com/iCAehfR"><img src="https://i.imgur.com/iCAehfR.jpg" title="source: imgur.com" /></a>
 
 Sugerida por Lucas Machado
 
 ## Ideia 3 
 
-![(./../img/discucao_tema/ideia_3.jpg)](./../img/discucao_tema/ideia_3.jpg)
+<a href="https://imgur.com/0pYdAZW"><img src="https://i.imgur.com/0pYdAZW.jpg" title="source: imgur.com" /></a>
 
 Sugerida por André Eduardo
+
 ## Ideia 4
 
-![(./../img/discucao_tema/ideia_4.jpg)](./../img/discucao_tema/ideia_4.jpg)
+<a href="https://imgur.com/Hcde0nk"><img src="https://i.imgur.com/Hcde0nk.jpg" title="source: imgur.com" /></a>
 
 Sugerida por Guilherme de Lyra
 

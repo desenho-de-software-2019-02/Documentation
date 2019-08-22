@@ -1,5 +1,6 @@
-#
-# *RPG - Nome a definir*
+#  
+
+# *RPG -  Master of Puppets*
 
  Repositório da disciplina de desenho de Software.
 
