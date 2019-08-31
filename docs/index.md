@@ -6,7 +6,7 @@
 
 | Nome | GitHub|
 |--|--|
-| André de Sousa Costa |  |
+| André de Sousa Costa | [@andre-filho](https://github.com/andre-filho) |
 | André Eduardo |   |
 | André Bargas | [@andrebargas](https://github.com/andrebargas) |
 | Arthur Alves Rodrigues | [@arthurarp](https://github.com/arthurarp) |
@@ -22,4 +22,5 @@
 
 ## Modulos
 
-[Artefatos Genéricos](./modulo1/index.md)
+- [Artefatos genéricos](./modulo1/index.md)
+- [Documentos de gerência](./gerencia/index.md)
