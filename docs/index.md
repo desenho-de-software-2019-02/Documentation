@@ -16,7 +16,7 @@
 | Gustavo Duarte Moreira |  |
 | João Pedro de Aquino |  |
 | Lucas Machado | [@lmmLucasMachado](https://github.com/lmmLucasMachado) |
-| Mateus Nóbrega |  |
+| Mateus Nóbrega | [@mateusnr](https://github.com/mateusnr) |
 
 
 
