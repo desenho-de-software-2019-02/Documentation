@@ -1,4 +1,22 @@
 
 ## NFR - Confiabilidade
 
-![nfr confiabilidade](https://raw.githubusercontent.com/desenho-de-software-2019-02/Doc/devel/img/nfr_confiabilidade.png)
+![nfr confiabilidade](./../img/nfr_confiabilidade.png)
+
+|**Objeto**|**NFR**|
+|--|--|
+|**Versões anteriores**| - |
+|**Versão**| 1.0 |
+| **Descrição** | NFR sobre a confiabilidade da aplicação **Master of Puppets**|
+| **Autor** | André Bargas |
+| **Data** | 22/08/2019 |
+
+![nfr usabilidade](./../img/nfr_usabilidade.png)
+
+|**Objeto**|**NFR**|
+|--|--|
+|**Versões anteriores**| - |
+|**Versão**| 1.0 |
+| **Descrição** | NFR sobre a usabilidade da aplicação **Master of Puppets**|
+| **Autor** | Arthur Assis |
+| **Data** | 22/08/2019 |
