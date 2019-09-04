@@ -1,8 +1,6 @@
-#  
+# Master of Puppets
 
-# *RPG -  Master of Puppets*
-
- Repositório da disciplina de desenho de Software.
+ Repositório do projeto Master of Puppets, desenvolvido na matéria Desenho e Arquitetura de Software, ministrada pela Universidade de Brasília campus Gama (UNB Fga).
 
 ## Equipe
 
@@ -23,6 +21,8 @@
 
 
 
+
 ## Modulos
 
-[Artefatos Genéricos](./modulo1/index.md)
+- [Artefatos genéricos](./modulo1/index.md)
+- [Documentos de gerência](./gerencia/index.md)

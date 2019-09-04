@@ -15,7 +15,7 @@ Todos os temas foram apresentados do e os membros tiraram suas duvidas, lodo dep
 
 <a href="https://imgur.com/FIwPP9O"><img src="https://i.imgur.com/FIwPP9O.jpg" title="source: imgur.com" /></a>
 
-Sugerida por Artuhr Rodrigues
+Sugerida por Arthur Rodrigues
 
 ## Ideia 2
 

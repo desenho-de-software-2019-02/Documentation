@@ -5,10 +5,10 @@ site_dir: site
 dev_addr: ‘0.0.0.0:8000
 theme:
   name: 'material'
-  logo: 'images/icon.jpeg'
-  favicon: 'images/icon.jpeg'
+#  logo: '<a href="https://imgur.com/Y0SLT7T"><img src="https://i.imgur.com/Y0SLT7T.png?1" title="source: imgur.com"  width="70" height="50" /></a>'
+#  favicon: 'img/dados_verdes.png'
   palette:
-    primary: 'blue'
+    primary: ''
   language: 'pt'
 
 plugins:
