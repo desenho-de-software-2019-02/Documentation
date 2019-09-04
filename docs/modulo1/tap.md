@@ -2,7 +2,7 @@
 
 
 ## 1. Introdução
-O presente documento tem como objetivo formalizar o início do projeto Master of Puppets, descrevendo o planejamento inicial de riscos, tempo e restrições. Assim como expor os objetivos e problemas que motivaram a criação do projeto.
+O presente documento tem como objetivo formalizar o início do projeto Master of Puppets, descrevendo o planejamento inicial de riscos, tempo e restrições. Assim como expor os objetivos do projeto e problemas que motivaram sua criação.
 
 ## 2. Termos e Definições
 | Termo               | Descrição                                                                                                                       |
@@ -14,70 +14,32 @@ O presente documento tem como objetivo formalizar o início do projeto Master of
 | Sessão              | É um encontro de jogadores para jogar RPG. Pode compreender toda a aventura ou parte dela.                                      |
 
 
-**Descrição do Projeto**
+## 3. Descrição do Projeto
 
 O Master of Puppets é uma aplicação direcionada a mestres e jogadores de RPG. Idealizada por alunos da disciplina de Arquitetura e Desenho de Software, a aplicação tem como foco facilitar que jogadores e mestres organizem e gerenciem melhor suas sessões.
 
-**Justificativa do projeto:**
+## 4. Propósito e Justificativa do Projeto:
 
 Organizar e gerenciar sessões de RPG, dada a grande quantidade de informações, é uma tarefa que demanda tempo e, caso essa campanha se extenda em sessões posteriores, manter um registro dessas informações e garantir que estejam disponíveis pode se tornar um problema.
 
 Além de demandar tempo, registros físicos de fichas de personagens, eventos e outros elementos relevantes a história podem ser perdidos, afetando, de maneira significativa a continuidade da campanha.
 
-Para solucionar esse problema, propõe-se o Master of Puppets, uma aplicação que permita aos mestres gerenciar suas sessões, substituindo as fichas de personagens e funcionando como uma maneira unificada de registrar as informações e eventos relevantes que ocorram no decorrer de uma sessão.
+Para solucionar esse problema, propõe-se o Master of Puppets, uma aplicação que permita aos mestres gerenciar suas sessões, substituindo as fichas de personagens físicas e funcionando como uma maneira unificada de registrar as informações e eventos relevantes que ocorram no decorrer de uma sessão.
 
-**Objetivos**
+## 5. Objetivos
 
+* Disponibilizar uma plataforma que permita 
 * Facilitar o gerenciamento das sessões de RPG pelos mestres.
 * Possibilitar a criação e o acesso as fichas pelos players apartir dos seus equipamentos eletronicos.
 * Permitir buscar dados e mudanças ocorridas em partidas anteriores.
 
-**Produtos e principais requisitos**
+## 6. Requisitos de Alto Nível
 
-* Gerenciar sessão
-* Criar fichas de personagem
-* Manter fichas de personagem
+* O sistema deve ser de fácil utilização
+* O sistema deve ser capaz de registrar o log das partidas
 * Portabilidade
-* Log das partidas
 
-**Marcos**
-
-* Definição de todos os requisitos
-* Entrega do prototipo
-* Finalização do backlog
-* Entrega do do projeto completo
-
-**Premissas**
-
-Acredita-se que todo o escopo do projeto sera entregue até dezembro de 2019, supondo que a equipe ira se dedicar e se comprometer para que isso seja realizado.
-
-**Equipe**
-
-* André Bargas
-* André de Sousa Costa Filho
-* André Eduardo Souza de Oliveira
-* Arthur Rodrigues
-* Arthur José Benedito de Oliveira Assis
-* Eduardo Yoshida
-* Guilherme de Lyra
-* Gustavo Duarte Moreira
-* João Pedro de Aquino Corrêa Martins
-* Lucas Machado Martins
-* Mateus Nóbrega
-
-**Stakeholders**
-
-* Equipe
-* Jogadores de RPG
-* Professora Milene
-* Entusiastas dos games
-
-**Restrições**
-
-* Todo o projeto deve estar pronto até dezembro de 2019.
-* E necessário implentar alguns determinados padrões de projeto.
-
-**Riscos**
+## 7. Riscos
 
 | Riscos | Impacto | Medidas Preventivas                                                                                                                                    |
 |--|--|--|
@@ -88,9 +50,33 @@ Acredita-se que todo o escopo do projeto sera entregue até dezembro de 2019, su
 |Falta de disponibilidade dos membros da equipe|Falhas nas nas entregas| Estabelecer uma boa comunicação com a equipe e planjar bem as sprints|
 |Integração das partes feitas pelas duas frentes|O projeto não se fazer tudo oque foi planejado|Alocar um membro da equipe que tem como principal responsabilidade fazer a integração |
 
-**Orçamento**
 
-Projeto feito a principio sem orçamento
+## 8. Cronograma de Marcos
+
+* Definição de todos os requisitos
+* Entrega do prototipo
+* Finalização do backlog
+* Entrega do do projeto completo
+
+## 9. Lista das Partes Interessadas
+* Equipe: alunos do curso de Engenharia de Software da Universidade de Brasília(UnB) cursando a disciplina de Arquitetura e Desenho de Software que serão responsáveis pelo desenvolvimento da aplicação.
+
+    * André Bargas
+    * André de Sousa Costa Filho
+    * André Eduardo Souza de Oliveira
+    * Arthur Rodrigues
+    * Arthur José Benedito de Oliveira Assis
+    * Eduardo Yoshida
+    * Guilherme de Lyra
+    * Gustavo Duarte Moreira
+    * João Pedro de Aquino Corrêa Martins
+    * Lucas Machado Martins
+    * Mateus Nóbrega
+
+## 10. Restrições
+
+* O escopo definido deve ser entregue até a data estabelecida pela disciplina.
+* As implementações devem seguir os padrões de projeto determinados.
 
 
 |**Objeto**|**Termo de Abertura de Prjeto - TAP**|
