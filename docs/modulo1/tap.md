@@ -28,7 +28,10 @@ Para solucionar esse problema, propõe-se o Master of Puppets, uma aplicação q
 
 **Marcos**
 
---
+* Definição de todos os requisitos
+* Entrega do prototipo
+* Finalização do backlog
+* Entrega do do projeto completo
 
 **Premissas**
 
