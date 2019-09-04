@@ -115,5 +115,3 @@
 |**Autor**|João Pedro|
 | **Descrição** | richpicture da concorrência **Master of Puppets** |
 | **Data** | 22/08/2019 |
-|**Autor**|Arthur Assis|
-| **Descrição** | richpicture com base em como o processo ocorre sem a aplicação |
