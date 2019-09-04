@@ -2,6 +2,6 @@
 
 [Discução do Tema](./discucao_tema.md)
 
-
-[NFR](./nfr.md)
-[Brainstorm](./brainstorm.md)
+* [5w2h](./5w2h.md)
+* [NFR](./nfr.md)
+* [Brainstorm](./brainstorm.md)
