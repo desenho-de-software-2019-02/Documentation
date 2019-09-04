@@ -1,5 +1,19 @@
 ## **Termo de Abertura de Projeto**
 
+
+## 1. Introdução
+O presente documento tem como objetivo formalizar o início do projeto Master of Puppets, descrevendo o planejamento inicial de riscos, tempo e restrições. Assim como expor os objetivos e problemas que motivaram a criação do projeto.
+
+## 2. Termos e Definições
+| Termo               | Descrição                                                                                                                       |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| Aventura            | Uma história criada pelo mestre, contendo um desafio a ser solucionado pelos jogadores.                                         |
+| Campanha            | Uma sucessão de aventuras, envolvendo uma história de um grupo de personagens                                                   |
+| Ficha de Personagem | Uma planilha responsável por documentar as características de cada personagem                                                   |
+| Mestre              | É o jogador responsável pelas regras do jogo, atuando como árbitro, narrador e é responsável por controlar os personagens NPCS. |
+| Sessão              | É um encontro de jogadores para jogar RPG. Pode compreender toda a aventura ou parte dela.                                      |
+
+
 **Descrição do Projeto**
 
 O Master of Puppets é uma aplicação direcionada a mestres e jogadores de RPG. Idealizada por alunos da disciplina de Arquitetura e Desenho de Software, a aplicação tem como foco facilitar que jogadores e mestres organizem e gerenciem melhor suas sessões.
