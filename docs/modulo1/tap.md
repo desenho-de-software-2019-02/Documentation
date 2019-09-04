@@ -28,7 +28,7 @@ Para solucionar esse problema, propõe-se o Master of Puppets, uma aplicação q
 
 ## 5. Objetivos
 
-* Disponibilizar uma plataforma que permita 
+* Disponibilizar uma plataforma que permita
 * Facilitar o gerenciamento das sessões de RPG pelos mestres.
 * Possibilitar a criação e o acesso as fichas pelos players apartir dos seus equipamentos eletronicos.
 * Permitir buscar dados e mudanças ocorridas em partidas anteriores.
@@ -50,15 +50,39 @@ Para solucionar esse problema, propõe-se o Master of Puppets, uma aplicação q
 |Falta de disponibilidade dos membros da equipe|Falhas nas nas entregas| Estabelecer uma boa comunicação com a equipe e planjar bem as sprints|
 |Integração das partes feitas pelas duas frentes|O projeto não se fazer tudo oque foi planejado|Alocar um membro da equipe que tem como principal responsabilidade fazer a integração |
 
+## 8. Custos Estimados do Projeto
+### 8.1 Custos de Ferramentas
+| Ferramenta                 | Finalidade                        | Custo                           |
+|----------------------------|-----------------------------------|---------------------------------|
+| Slack                      | Comunicação da equipe             |  R$ 0                           |
+| Editor de Texto            | Elaboração de código e documentos | R$ 0                            |
+| Git e Github               | Ferramenta de versionamento       | R$ 0                            |
+| Python, Flask, Typescript  | Tecnologias de desenvolvimento    | R$ 0                            |
+| Notebooks*                 | Desenvolvimento da aplicação      | R$ 2.200,00 * 11 = R$ 24.200,00 |
+\* Preço estimado por pesquisa realizada em 04/09/2019 considerando as seguintes características: Processador Core i5, memória RAM de 8GB
 
-## 8. Cronograma de Marcos
+### 8.2 Custos com Recursos Humanos
+| Cargo                     | Salário 160h mensais | Salário Hora | Custo Mensal*                  |
+|---------------------------|----------------------|--------------|-------------------------------|
+| Desenvolvedor Júnior      | R$ 3.250,00          | R$ 20,30     | R$ 649,92 * 10 = R$ 6.499,20  |
+| Gerente de Projeto Júnior | R$ 6.000,00          | R$ 37,50     | R$ 1.200,00 * 1 = R$ 1.200,00 |
+\* Os cálculos foram realizados considerando uma dedicação de 8 horas semanais por cada membro a disciplina, considerando reuniões, tempo gasto com desenvolvimento, gerencia, etc.
+
+### 8.3 Custos Totais
+| Descrição        | Valor*       |
+|------------------|--------------|
+| Recursos Humanos | R$ 7.799,20 * 3 = R$ 23,397,60 |
+| Ferramentas      | R$ 24.200,00 |
+| Total            | R$ 47,797,60 |
+\* Estimando a duração do projeto em 3 meses(Entre o início de Setembro e fim de Novembro)
+## 9. Cronograma de Marcos
 
 * Definição de todos os requisitos
 * Entrega do prototipo
 * Finalização do backlog
 * Entrega do do projeto completo
 
-## 9. Lista das Partes Interessadas
+## 10. Lista das Partes Interessadas
 * Equipe: alunos do curso de Engenharia de Software da Universidade de Brasília(UnB) cursando a disciplina de Arquitetura e Desenho de Software que serão responsáveis pelo desenvolvimento da aplicação.
 
     * André Bargas
@@ -73,7 +97,7 @@ Para solucionar esse problema, propõe-se o Master of Puppets, uma aplicação q
     * Lucas Machado Martins
     * Mateus Nóbrega
 
-## 10. Restrições
+## 11. Restrições
 
 * O escopo definido deve ser entregue até a data estabelecida pela disciplina.
 * As implementações devem seguir os padrões de projeto determinados.
