@@ -1,9 +1,7 @@
 # Sprint 01
 
 <h6>Objetivo: documentação inicial</h6>
-
 <h6>Período: 28 AGO - 04 SET de 2019</h6>
-
 ---
 
 ## Divisão de tarefas
