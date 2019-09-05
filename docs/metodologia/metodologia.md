@@ -11,9 +11,9 @@
 [2. Organição Geral](#2-organizacao-geral) <br>
 [3. Relatórios e Gravações](#3-relatorios-e-gravacoes) <br>
 [4. Gerência](#4-gerencia) <br>
-[5. Repositórios](#6-repositorios)<br>
-[6. Issues](#7-issues)<br>
-[7. Referências ](#8-referencias)
+[5. Repositórios](#5-repositorios)<br>
+[6. Issues](#6-issues)<br>
+[7. Referências ](#7-referencias)
 
 ## 1. Introdução
 
@@ -23,7 +23,7 @@ A metodologia que será usada ao longo do projeto foi elaborada pelo grupo e dec
 
 O grupo decidiu se organizar em duas equipes de trabalho(tribos), cada uma conta com um gerente(lider técnico) e mais quatro integrantes. Também foi definido um Gerente geral para garantir a organização do trabalho e o andamento das demandas ao longo do andamento do projeto. 
 
-![organizacao](./../img/organizacao.jpg)
+![organizacao](./../img/organizacao.png)
 
 ## 3. Organização das Tribos
 
