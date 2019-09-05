@@ -16,21 +16,18 @@
 
 [7 - Membros do Projeto](#7---Membros-do-Projeto)
 
-#### Palavras-chave
-> X, Y, Z...
-
 #### Glossário
 | Termo | Sinônimo | Descrição |
-| ----- | -------- | --------- |
-|  RPG  | Role Playing Game | tipo de jogo em que os jogadores assumem papéis de personagens e criam narrativas colaborativamente |
-| Mestre | Mestre de Mesa, Mestre de Jogo, Dungeon Master (D&D) | jogador responsável por conduzir o jogo, narrando as situações que acontecem com os personagens de outros jogadores |
+| :-----: | :--------: | :---------: |
+|  RPG  | Role Playing Game | Tipo de jogo em que os jogadores assumem papéis de personagens e criam narrativas colaborativamente |
+| Mestre | Mestre de Mesa, Mestre de Jogo, Dungeon Master (D&D) | Jogador responsável por conduzir o jogo, narrando as situações que acontecem com os personagens de outros jogadores |
 | D&D | Dungeons & Dragons | Um RPG de alta fantasia desenvolvido em 1974. Considerado como a origem dos RPG's modernos |
-| Mesa | |  A forma original de RPG, às vezes chamada de RPG de mesa (tabletop RPG em inglês), é conduzida através de discussões |
-| Sessão | | Cada sessão de RPG pode ser chamada de uma aventura. |
-| Campanha | | Uma sucessão de aventuras onde se usam os mesmos personagens mantendo a continuidade dos eventos. |
-| NPC's | Non-playable character | |
-| Storyline | | |
-| PWA | Progressive Web-App | |
+| Mesa | - |  A forma original de RPG, às vezes chamada de RPG de mesa (tabletop RPG em inglês), é conduzida através de discussões |
+| Sessão | Partida | Cada sessão de RPG pode ser chamada de uma aventura. |
+| Campanha | - | Uma sucessão de aventuras onde se usam os mesmos personagens mantendo a continuidade dos eventos. |
+| NPC's | Non-player character | Personagem que não é controlado por nenhum jogador, apenas pelo Mestre de Mesa. Via de regra, se comporta como um coadjuvante (ex: um lojista que venderá um item para algum jogador) |
+| Storyline | Enredo | O contexto/história onde o jogo se passa |
+| PWA | Progressive Web App (aplicativo progressivo para a web) | Pode ser visto como uma evolução híbrida entre as páginas da web regulares (ou sites) e um aplicativo móvel.  |
 
 
 ## 1 - Introdução
@@ -47,8 +44,6 @@ Os propósitos desse documento são:
 #### 1.2 Escopo
 O escopo do projeto está limitado ao auxilio de sessões de RPG presenciais.
 
-#### 1.2 Referências extras (?)
-
 ## 2 - Constatação do Problema
 | O problema é: | Afetando | Tendo como impacto |
 | ---------- | ----- | ------------------- |
@@ -57,7 +52,6 @@ O escopo do projeto está limitado ao auxilio de sessões de RPG presenciais.
 #### Uma solução de sucesso deveria prover ao usuário:
 * Uma sessão de RPG mais fluída
 * Uma sessão de RPG mais consistente
-
 
 ## 3 - Features do Produto
 | A possabilidade de manipular | Incluindo |
@@ -79,7 +73,7 @@ O sistema utilizará as linguagens/ferramentas acordadas pela equipe, incluindo:
 * TypeScript/Angular
 * MongoDB
 
-O sistema deve ser multiplataforma e rodar nos navegadores mais comuns: Google Chrome, Mozilla Firefox, Opera, Edge e Safari.
+O sistema deve ser multiplataforma e rodar nos navegadores mais comuns: Google Chrome e Mozilla Firefox.
 
 Além disso, deve ser um PWA -- ou seja, se comportar da mesma forma independente de estar sendo utilizado num celular ou num computador.
 ##### 4.1.2 Features dispostas como Serviços
@@ -108,12 +102,12 @@ Possíveis riscos para uma implementação de sucesso (mas não limitados a):
 
 ## 7 - Membros do Projeto
 | Membro | Responsabilidades | Area Representada |
-| ------ | ---------------- | ----------------- |
+| ------ | ---------------- | ----------------- | ----------------- |
 | André Bargas | <li>Evoluir e Manutenir o Software/Sistema</li><li>Gerenciar a Tribo Miranha</li>  | Software e Planejamento |
 | André de Sousa Costa Filho | <li>Evoluir e Manutenir o Software/Sistema</li><li>Gerenciar os gerentes das Tribos</li> | Software e Planejamento |
 | André Eduardo Souza de Oliveira | Evoluir e Manutenir o Software/Software | Software |
 | Arthur Rodrigues | Evoluir e Manutenir o Software/Sistema | Software |
-| Arthur José Benedito de Oliveira Assis | <li>Evoluir e Manutenir o Software/Sistema</li><li>Gerenciar a Tribo Homem-Macaco</li> | Software e Planejamento |
+| Arthur José Benedito de Oliveira Assis | <li>Evoluir e Manutenir o Software/Sistema</li><li>Gerenciar a Tribo Miranha</li> | Software e Planejamento |
 | Eduardo Yoshida | Evoluir e Manutenir o Software/Sistema | Software |
 | Guilherme de Lyra | Evoluir e Manutenir o Software/Sistema | Software |
 | Gustavo Duarte Moreira | Evoluir e Manutenir o Software/Sistema | Software |
