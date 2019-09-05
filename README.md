@@ -1,5 +1,6 @@
-﻿# Documentação 
-## Surte para RPG
+﻿# Master of puppets (documentação)
+
+## Suporte para RPG
 
 Repositório para a disciplina de desenho de software com o intuito de centralizar a documentação do projeto.
 
