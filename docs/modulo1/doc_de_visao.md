@@ -113,7 +113,7 @@ Possíveis riscos para uma implementação de sucesso (mas não limitados a):
 | André de Sousa Costa Filho | <li>Evoluir e Manutenir o Software/Sistema</li><li>Gerenciar os gerentes das Tribos</li> | Software e Planejamento |
 | André Eduardo Souza de Oliveira | Evoluir e Manutenir o Software/Software | Software |
 | Arthur Rodrigues | Evoluir e Manutenir o Software/Sistema | Software |
-| Arthur José Benedito de Oliveira Assis | <li>Evoluir e Manutenir o Software/Sistema</li><li>Gerenciar a Tribo Miranha</li> | Software e Planejamento |
+| Arthur José Benedito de Oliveira Assis | <li>Evoluir e Manutenir o Software/Sistema</li><li>Gerenciar a Tribo Homem-Macaco</li> | Software e Planejamento |
 | Eduardo Yoshida | Evoluir e Manutenir o Software/Sistema | Software |
 | Guilherme de Lyra | Evoluir e Manutenir o Software/Sistema | Software |
 | Gustavo Duarte Moreira | Evoluir e Manutenir o Software/Sistema | Software |
