@@ -1,4 +1,4 @@
-# Modulo 1 - Artefatos Genéricos
+# Módulo 1 - Artefatos Genéricos
 
 [Discução do Tema](./discucao_tema.md)
 
