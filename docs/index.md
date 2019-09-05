@@ -24,3 +24,4 @@
 
 - [Artefatos genéricos](./modulo1/index.md)
 - [Documentos de gerência](./gerencia/index.md)
+- [Metodologia](./metodologia/index.md)
