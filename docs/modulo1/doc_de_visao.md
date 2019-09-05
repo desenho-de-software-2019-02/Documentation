@@ -108,7 +108,7 @@ Possíveis riscos para uma implementação de sucesso (mas não limitados a):
 
 ## 7 - Membros do Projeto
 | Membro | Responsabilidades | Area Representada |
-| ------ | ---------------- | ----------------- | ----------------- |
+| ------ | ---------------- | ----------------- |
 | André Bargas | <li>Evoluir e Manutenir o Software/Sistema</li><li>Gerenciar a Tribo Miranha</li>  | Software e Planejamento |
 | André de Sousa Costa Filho | <li>Evoluir e Manutenir o Software/Sistema</li><li>Gerenciar os gerentes das Tribos</li> | Software e Planejamento |
 | André Eduardo Souza de Oliveira | Evoluir e Manutenir o Software/Software | Software |
