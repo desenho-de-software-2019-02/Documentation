@@ -2,6 +2,8 @@
 
 Inicialmente foi comentado com o grupo e pedido para que todos os membros do grupo trouxessem ideias para que depois todo grupo escolher um dos temas.
 
+- [5w2h](./5w2h.md)
+
 Os temas sugeridos foram:
     
 * Ideia 1 : Cenários e Lexícos
