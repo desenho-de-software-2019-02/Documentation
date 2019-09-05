@@ -60,80 +60,16 @@ O escopo do projeto está limitado ao auxilio de sessões de RPG presenciais.
 
 
 ## 3 - Features do Produto
-#### 3.1 A possibilidade de manipular fichas de **personagens**, incluindo isto:
-1. Perícia
-2. Índole
-3. Informações básicas
-   - Nome
-   - História
-   - Idade, etc
-4. **Classe**
-5. **Raça**
-6. **Itens**
-7. **Skills**
-8. Experiência (levels)
-9. Atributos
-10. HP
-11. Equipamentos
-
-#### 3.2 A possibilidade de manipular itens, incluindo isto:
-1. Informações básicas
-   * Nome
-   * Breve descrição
-   * Status do item
-2. Tipo
-3. Preço
-4. Peso
-5. Efeito
-
-#### 3.3 A possibilidade de manipular skills, incluindo isto:
-1. Informações básicas
-   * Nome da skill
-   * Breve descrição sobre a mesma
-2. Classe
-3. Efeito
-4. Cargas
-
-#### 3.4 A possibilidade de manipular classes, incluindo isto:
-1. Informações básicas
-   * Nome da classe
-   * Descrição
-2. Efeito
-3. Skills
-4. Restrições
-
-#### 3.5 A possibilidade de manipular Usuários, incluindo isto:
-1. Nome de Usuário
-2. Senha
-3. Email
-4. Personagens
-5. Itens
-6. Skills
-7. Raças
-
-#### 3.6 A possibilidade de manipular Eventos, incluindo isto:
-1. Hora/data
-2. Partida
-3. Descrição
-4. Envolvidos
-5. Efeito
-
-#### 3.7 A possibilidade de manipular Raças, incluindo isto:
-1. Informações básicas
-   * Nome
-   * Descrição
-2. Efeito
-3. Skills
-4. Restrições
-
-#### 3.8 A possibilidade de manipular Partidas, incluindo isto:
-1. Informações
-2. Regras
-3. Jogadores
-4. Mestre de Mesa
-5. Eventos
-6. Personagens
-7. Estado
+| A possabilidade de manipular | Incluindo |
+| :-: | - |
+| **Personagens** | <li>Perícia</li><li>Índole</li><li>Informações básicas</li><ul><li>Nome</li><li>História</li><li>Idade, etc</li></ul><li>**Classe**</li><li>**Raça**</li><li>**Itens**</li><li>**Skills**</li><li>Experiência (levels)</li><li>Atributos</li><li>HP</li><li>Equipamentos</li> |
+| **Itens** | <li>Informações básicas</li><ul><li>Nome</li><li>Descrição</li><li>Status do item</li></ul><li>Tipo</li><li>Preço</li><li>Peso</li><li>Efeito</li> |
+| **Skills** | <li>Informações básicas</li><ul><li>Nome</li><li>Descrição</li></ul><li>Classe</li><li>Efeito</li><li>Cargas</li> |
+| **Classes** | <li>Informações básicas</li><ul><li>Nome</li><li>Descrição</li></ul><li>Efeito</li><li>Skills</li><li>Restrições</li> |
+| **Usuários** | <li>Nome de Usuário</li><li>Senha</li><li>Email</li><li>Personagens</li><li>Itens</li><li>Skills</li><li>Raças</li> |
+| **Eventos** | <li>Hora/data</li><li>Partida</li><li>Descrição</li><li>Envolvidos</li><li>Efeito</li> |
+| **Raças** | <li>Informações básicas</li><ul><li>Nome</li><li>Descrição</li></ul><li>Efeito</li><li>Skills</li><li>Restrições</li> |
+| **Partidas** | <li>Informações</li><li>Regras</li><li>Jogadores</li><li>Mestre de Mesa</li><li>Eventos</li><li>Personagens</li><li>Estado</li> |
 
 ## 4 - Restrições
 #### 4.1 Restrições de Arquitetura/Desenho
@@ -155,7 +91,8 @@ Possíveis riscos para uma implementação de sucesso (mas não limitados a):
 - Sistema não "amigável" pro usuário
 - Exigências que a disciplina porventura possa exigir que confrontem o ~flow natural de desenvolvimento
 - Mudanças nos requisitos básicos já previamente definidos
-
+- Impactos na produtividade por conta de fatores externos à disciplina
+  
 ## 6 - Stakeholders e Descrição dos Usuários
 #### 6.1 Stakeholders
 | Nome | Representa | Papel no Projeto |
