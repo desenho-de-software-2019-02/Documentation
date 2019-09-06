@@ -6,7 +6,6 @@
 |:--------:|:--------:|:----------------------:|:---------------------------:|
 |05/09/2019|   0.1    | Criação do documento       |   Gustavo Duarte Moreira  |
 
-
 ## Sumário
 
 [1. Introdução](#1-introducao) <br>
@@ -16,7 +15,7 @@
 ## 1. Introdução
 
 
-A notação Business Process Model and Notation (BPMN ou em português Modelo e Notação de Processos de Negócio), foi utilizada para descrever o processo de metodologia adotado a escolha do tema, organização do projeto. Por ser padronizada facilita o entendimento as pessoas envolvidas no projeto.
+A notação Business Process Model and Notation (BPMN ou em português *Modelo e Notação de Processos de Negócio*), foi utilizada para descrever o processo de metodologia adotado a escolha do tema, organização do projeto. Por ser padronizada facilita o entendimento as pessoas envolvidas no projeto.
 
 ## 2. Business Process Model and Notation
 
