@@ -16,7 +16,6 @@
 [4. Organização das tribos e gerência](#4-organização-das-tribos-e-gerencia) <br>
 [5. Repositórios](#5-repositorios)<br>
 [6. Issues](#6-issues)<br>
-[7. Referências ](#7-referencias)
 
 ## 1. Introdução
 
@@ -81,7 +80,3 @@ A arquitetura decidida para o projeto de baseia no sistema arquitetural de servi
 ## 6. Issues
 
 Cada serviço terá seu conjunto de issues, e as mesmas serão documentadas em cada repositório pr consequência. Para facilitar a vizualização e acompanhamento das issues em andamento, será utilizado um quadro do ZenHub com todas as issues da organização presente no Github.
-
-## 7. Referências
-
-[]()
