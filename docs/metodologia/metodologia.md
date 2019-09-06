@@ -6,13 +6,14 @@
 |05/09/2019|   0.1    | Iniciando o documento       |   Gustavo Duarte Moreira  |
 |05/09/2019| 0.2 | Revisão e justificativa | André de Sousa |
 |05/09/2019| 0.3 | Organização geral | André de Sousa |
+|05/09/2019| 1 | Organização tribos e issues | André de Sousa |
 
 
 ## Sumário
 [1. Introdução](#1-introducao) <br>
-[2. Organição Geral](#2-organizacao-geral) <br>
-[3. Relatórios e Gravações](#3-relatorios-e-gravacoes) <br>
-[4. Gerência](#4-gerencia) <br>
+[2. Justificativa](#2-justificativa) <br>
+[3. Organição Geral](#3-relatorios-e-gravacoes) <br>
+[4. Organização das tribos e gerência](#4-organização-das-tribos-e-gerencia) <br>
 [5. Repositórios](#5-repositorios)<br>
 [6. Issues](#6-issues)<br>
 [7. Referências ](#7-referencias)
@@ -50,7 +51,24 @@ Outros rituais importantes que possuímos são:
 
 ## 4. Organização das Tribos e Gerência
 
-A idéia da organização em tribos é conseguir se ter uma melhor comunicação e flexibilidade de rituais
+A idéia da organização em tribos é conseguir se ter uma melhor comunicação e flexibilidade de rituais que envolvem a tribo. Tentar acertar horários diários entre 5 pessoas é mais simples que entre 11 no final das contas. O SAFE não espera que a metodologia de tribos seja utilizada em uma equipe de 11 pessoas, mas por experiências anteriores de membros da equipe, foi optado por fazer desta forma.
+
+Foram criados 2 perfis de gerência, nos quais foram feitos ‘paralelos’ com a cultura indigena:
+
+> Duas figuras importantes na organização das tribos são o pajé e o  
+> cacique. O pajé é o sacerdote da tribo, pois conhece todos os rituais e 
+> recebe  as mensagens dos deuses. Ele também é o curandeiro, pois conhece
+> todos os chás  e ervas para curar doenças. Ele que faz o ritual da 
+> pajelança, onde evoca os  deuses da floresta e dos ancestrais para 
+> ajudar na cura.
+>
+> O cacique, também  importante na vida tribal, faz o 
+> papel de chefe, pois organiza e orienta os  índios.
+>
+> [Fonte](https://www.sohistoria.com.br/ef2/indios/p1.php)
+
+- **Gerente geral (pajé): **opera o escopo macro da aplicação e gerencia ambas as equipes. Responsável por integrar as partes e conduzir a equipe, mitigando quaisquer riscos que venham a acontecer. Tambem é responsável por priorizar as features e monitorar o desempenho das equipes.
+- **Gerente de tribo (cacique):** coordena os desenvolvedores e trata de problemas internos à sua equipe, junto ao gerente geral, trata das questões de priorização e solução de problemas.
 
 
 
@@ -58,11 +76,11 @@ A idéia da organização em tribos é conseguir se ter uma melhor comunicação
 
 ## 5. Repositórios
 
-A arquitetura decidida para o projeto de baseia no sistema arquitetural de serviços, abrangendo tanto micro-serviços, serviços externos e serviços internos. Foi decidido pela equipe que cada serviço teria seu próprio repositório, de forma a melhor poder dividir o trabalho.
+A arquitetura decidida para o projeto de baseia no sistema arquitetural de serviços, abrangendo tanto micro-serviços, serviços externos e serviços internos. Foi decidido pela equipe que cada serviço teria seu próprio repositório, de forma a melhor poder dividir e organizar o trabalho.
 
 ## 6. Issues
 
-Organização das Issues. 
+Cada serviço terá seu conjunto de issues, e as mesmas serão documentadas em cada repositório pr consequência. Para facilitar a vizualização e acompanhamento das issues em andamento, será utilizado um quadro do ZenHub com todas as issues da organização presente no Github.
 
 ## 7. Referências
 
