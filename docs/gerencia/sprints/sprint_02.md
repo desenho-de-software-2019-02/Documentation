@@ -25,6 +25,8 @@ Inicialmente a equipe dividiu as tarefas da seguinte forma:
 ### Extras
 
 - Preparação de ambiente para codificação do backend
+- Criação de identidade visual
+- Criação de políticas gerais de repositório
 ---
 ### Anexos
 - [Planejamento tribo miranha](../tribo_miranha/sprint_1/inicio_sprint_2.md)
