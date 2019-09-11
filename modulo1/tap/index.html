@@ -1,0 +1,1416 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+        <meta name="description" content="Repositório da disciplina de Desenho de software">
+      
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="Copiar para área de transferência">
+      
+        <meta name="lang:clipboard.copied" content="Copiado para área de transferência">
+      
+        <meta name="lang:search.language" content="pt">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="Nenhum resultado encontrado">
+      
+        <meta name="lang:search.result.one" content="1 resultado encontrado">
+      
+        <meta name="lang:search.result.other" content="# resultados encontrados">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.1.0">
+    
+    
+      
+        <title>Tap - Master of Puppets</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/application.11e41852.css">
+      
+      
+    
+    
+      <script src="../../assets/javascripts/modernizr.20ef595d.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../../assets/fonts/material-icons.css">
+    
+    
+    
+  </head>
+  
+    <body dir="ltr">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+          <svg xmlns="http://www.w3.org/2000/svg" width="416" height="448"
+    viewBox="0 0 416 448" id="__github">
+  <path fill="currentColor" d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" />
+</svg>
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="#termo-de-abertura-de-projeto" tabindex="1" class="md-skip">
+        Ir para o conteúdo
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href="../.." title="Master of Puppets" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                Master of Puppets
+              </span>
+              <span class="md-header-nav__topic">
+                Tap
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Digite para iniciar a busca
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+        <div class="md-flex__cell md-flex__cell--shrink">
+          <div class="md-header-nav__source">
+            
+
+
+  
+
+
+  <a href="https://github.com/desenho-de-software-2019-02/Documentation/" title="Ir ao repositório" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      GitHub
+    </div>
+  </a>
+
+          </div>
+        </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href="../.." title="Master of Puppets" class="md-nav__button md-logo">
+      
+        <i class="md-icon"></i>
+      
+    </a>
+    Master of Puppets
+  </label>
+  
+    <div class="md-nav__source">
+      
+
+
+  
+
+
+  <a href="https://github.com/desenho-de-software-2019-02/Documentation/" title="Ir ao repositório" class="md-source" data-md-source="github">
+    
+      <div class="md-source__icon">
+        <svg viewBox="0 0 24 24" width="24" height="24">
+          <use xlink:href="#__github" width="24" height="24"></use>
+        </svg>
+      </div>
+    
+    <div class="md-source__repository">
+      GitHub
+    </div>
+  </a>
+
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." title="Master of Puppets" class="md-nav__link">
+      Master of Puppets
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+    
+    <label class="md-nav__link" for="nav-2">
+      Gerencia
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        Gerencia
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/" title="Documentos de gerência" class="md-nav__link">
+      Documentos de gerência
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/26_ago_reuniao_geral/" title="Reunião dia 26/08 2019.2" class="md-nav__link">
+      Reunião dia 26/08 2019.2
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/29_ago_gerencia/" title="Reunião gerência 29/08 2019.2" class="md-nav__link">
+      Reunião gerência 29/08 2019.2
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/2_set_gerencia/" title="Reunião gerência 02/09 2019.2" class="md-nav__link">
+      Reunião gerência 02/09 2019.2
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/sprint_01/" title="Sprint 01" class="md-nav__link">
+      Sprint 01
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-6" type="checkbox" id="nav-2-6">
+    
+    <label class="md-nav__link" for="nav-2-6">
+      Sprints
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-6">
+        Sprints
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/sprints/sprint_01/" title="Sprint 01" class="md-nav__link">
+      Sprint 01
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-7" type="checkbox" id="nav-2-7">
+    
+    <label class="md-nav__link" for="nav-2-7">
+      Templates
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-7">
+        Templates
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/templates/template_final_sprint/" title="Relatório da Sprint X" class="md-nav__link">
+      Relatório da Sprint X
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/templates/template_inicio_sprint/" title="Sprint X" class="md-nav__link">
+      Sprint X
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/templates/template_reuniao_geral/" title="Reunião dia dd/mm 2019.2" class="md-nav__link">
+      Reunião dia dd/mm 2019.2
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/templates/template_reuniao_gerentes/" title="Reunião gerência DD/MM 2019.2" class="md-nav__link">
+      Reunião gerência DD/MM 2019.2
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-7-5" type="checkbox" id="nav-2-7-5">
+    
+    <label class="md-nav__link" for="nav-2-7-5">
+      Tribos
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+      <label class="md-nav__title" for="nav-2-7-5">
+        Tribos
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/templates/tribos/template_final_sprint/" title="Relatório da Sprint X - Tribo X" class="md-nav__link">
+      Relatório da Sprint X - Tribo X
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/templates/tribos/template_inicio_sprint/" title="Sprint X - Tribo X" class="md-nav__link">
+      Sprint X - Tribo X
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-8" type="checkbox" id="nav-2-8">
+    
+    <label class="md-nav__link" for="nav-2-8">
+      Tribo miranha
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-2-8">
+        Tribo miranha
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2-8-1" type="checkbox" id="nav-2-8-1">
+    
+    <label class="md-nav__link" for="nav-2-8-1">
+      Sprint0
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+      <label class="md-nav__title" for="nav-2-8-1">
+        Sprint0
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/tribo_miranha/sprint0/template_final_sprint/" title="Relatório da Sprint 0" class="md-nav__link">
+      Relatório da Sprint 0
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../gerencia/tribo_miranha/sprint0/template_inicio_sprint/" title="Sprint 1" class="md-nav__link">
+      Sprint 1
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Metodologia
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Metodologia
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../metodologia/" title="Modulo 1 - Artefatos Genéricos de metodologia" class="md-nav__link">
+      Modulo 1 - Artefatos Genéricos de metodologia
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../metodologia/bizagi/" title="Desenho da Metodologia" class="md-nav__link">
+      Desenho da Metodologia
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../metodologia/metodologia/" title="Metodologia de desenvolvimento" class="md-nav__link">
+      Metodologia de desenvolvimento
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" checked>
+    
+    <label class="md-nav__link" for="nav-4">
+      Modulo1
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-4">
+        Modulo1
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../" title="Módulo 1 - Artefatos Genéricos" class="md-nav__link">
+      Módulo 1 - Artefatos Genéricos
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../5w2h/" title="5W2H do projeto" class="md-nav__link">
+      5W2H do projeto
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../brainstorm/" title="**Brainstorm**" class="md-nav__link">
+      **Brainstorm**
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../discucao_tema/" title="Discução de temas" class="md-nav__link">
+      Discução de temas
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../doc_de_visao/" title="Documento de Visão - Master of Puppets" class="md-nav__link">
+      Documento de Visão - Master of Puppets
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../mapa_mental/" title="Mapa mental do projeto" class="md-nav__link">
+      Mapa mental do projeto
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../nfr/" title="Nfr" class="md-nav__link">
+      Nfr
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../richpicture/" title="Rich Pictures" class="md-nav__link">
+      Rich Pictures
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Tap
+      </label>
+    
+    <a href="./" title="Tap" class="md-nav__link md-nav__link--active">
+      Tap
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">Índice</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#termo-de-abertura-de-projeto" title="Termo de Abertura de Projeto" class="md-nav__link">
+    Termo de Abertura de Projeto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" title="1. Introdução" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-termos-e-definicoes" title="2. Termos e Definições" class="md-nav__link">
+    2. Termos e Definições
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-descricao-do-projeto" title="3. Descrição do Projeto" class="md-nav__link">
+    3. Descrição do Projeto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-proposito-e-justificativa-do-projeto" title="4. Propósito e Justificativa do Projeto:" class="md-nav__link">
+    4. Propósito e Justificativa do Projeto:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-objetivos" title="5. Objetivos" class="md-nav__link">
+    5. Objetivos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-requisitos-de-alto-nivel" title="6. Requisitos de Alto Nível" class="md-nav__link">
+    6. Requisitos de Alto Nível
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-riscos" title="7. Riscos" class="md-nav__link">
+    7. Riscos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-custos-estimados-do-projeto" title="8. Custos Estimados do Projeto" class="md-nav__link">
+    8. Custos Estimados do Projeto
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#81-custos-de-ferramentas" title="8.1 Custos de Ferramentas" class="md-nav__link">
+    8.1 Custos de Ferramentas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#82-custos-com-recursos-humanos" title="8.2 Custos com Recursos Humanos" class="md-nav__link">
+    8.2 Custos com Recursos Humanos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#83-custos-totais" title="8.3 Custos Totais" class="md-nav__link">
+    8.3 Custos Totais
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10-lista-das-partes-interessadas" title="10. Lista das Partes Interessadas" class="md-nav__link">
+    10. Lista das Partes Interessadas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#11-restricoes" title="11. Restrições" class="md-nav__link">
+    11. Restrições
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-10" type="checkbox" id="nav-4-10">
+    
+    <label class="md-nav__link" for="nav-4-10">
+      Old
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+      <label class="md-nav__title" for="nav-4-10">
+        Old
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../old/5w2hv1/" title="5w2h RPG" class="md-nav__link">
+      5w2h RPG
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">Índice</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#termo-de-abertura-de-projeto" title="Termo de Abertura de Projeto" class="md-nav__link">
+    Termo de Abertura de Projeto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" title="1. Introdução" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-termos-e-definicoes" title="2. Termos e Definições" class="md-nav__link">
+    2. Termos e Definições
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-descricao-do-projeto" title="3. Descrição do Projeto" class="md-nav__link">
+    3. Descrição do Projeto
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-proposito-e-justificativa-do-projeto" title="4. Propósito e Justificativa do Projeto:" class="md-nav__link">
+    4. Propósito e Justificativa do Projeto:
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-objetivos" title="5. Objetivos" class="md-nav__link">
+    5. Objetivos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-requisitos-de-alto-nivel" title="6. Requisitos de Alto Nível" class="md-nav__link">
+    6. Requisitos de Alto Nível
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-riscos" title="7. Riscos" class="md-nav__link">
+    7. Riscos
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-custos-estimados-do-projeto" title="8. Custos Estimados do Projeto" class="md-nav__link">
+    8. Custos Estimados do Projeto
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#81-custos-de-ferramentas" title="8.1 Custos de Ferramentas" class="md-nav__link">
+    8.1 Custos de Ferramentas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#82-custos-com-recursos-humanos" title="8.2 Custos com Recursos Humanos" class="md-nav__link">
+    8.2 Custos com Recursos Humanos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#83-custos-totais" title="8.3 Custos Totais" class="md-nav__link">
+    8.3 Custos Totais
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10-lista-das-partes-interessadas" title="10. Lista das Partes Interessadas" class="md-nav__link">
+    10. Lista das Partes Interessadas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#11-restricoes" title="11. Restrições" class="md-nav__link">
+    11. Restrições
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/desenho-de-software-2019-02/Documentation/edit/master/docs/modulo1/tap.md" title="Editar esta página" class="md-icon md-content__icon">&#xE3C9;</a>
+                
+                
+                  <h1>Tap</h1>
+                
+                <h2 id="termo-de-abertura-de-projeto"><strong>Termo de Abertura de Projeto</strong></h2>
+<h2 id="1-introducao">1. Introdução</h2>
+<p>O presente documento tem como objetivo formalizar o início do projeto Master of Puppets, descrevendo o planejamento inicial de riscos, tempo e restrições. Assim como expor os objetivos do projeto e problemas que motivaram sua criação.</p>
+<h2 id="2-termos-e-definicoes">2. Termos e Definições</h2>
+<table>
+<thead>
+<tr>
+<th>Termo</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Aventura</td>
+<td>Uma história criada pelo mestre, contendo um desafio a ser solucionado pelos jogadores.</td>
+</tr>
+<tr>
+<td>Campanha</td>
+<td>Uma sucessão de aventuras, envolvendo uma história de um grupo de personagens</td>
+</tr>
+<tr>
+<td>Ficha de Personagem</td>
+<td>Uma planilha responsável por documentar as características de cada personagem</td>
+</tr>
+<tr>
+<td>Mestre</td>
+<td>É o jogador responsável pelas regras do jogo, atuando como árbitro, narrador e é responsável por controlar os personagens NPCS.</td>
+</tr>
+<tr>
+<td>Sessão</td>
+<td>É um encontro de jogadores para jogar RPG. Pode compreender toda a aventura ou parte dela.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="3-descricao-do-projeto">3. Descrição do Projeto</h2>
+<p>O Master of Puppets é uma aplicação direcionada a mestres e jogadores de RPG. Idealizada por alunos da disciplina de Arquitetura e Desenho de Software, a aplicação tem como foco facilitar que jogadores e mestres organizem e gerenciem melhor suas sessões.</p>
+<h2 id="4-proposito-e-justificativa-do-projeto">4. Propósito e Justificativa do Projeto:</h2>
+<p>Organizar e gerenciar sessões de RPG, dada a grande quantidade de informações, é uma tarefa que demanda tempo e, caso essa campanha se extenda em sessões posteriores, manter um registro dessas informações e garantir que estejam disponíveis pode se tornar um problema.</p>
+<p>Além de demandar tempo, registros físicos de fichas de personagens, eventos e outros elementos relevantes a história podem ser perdidos, afetando, de maneira significativa a continuidade da campanha.</p>
+<p>Para solucionar esse problema, propõe-se o Master of Puppets, uma aplicação que permita aos mestres gerenciar suas sessões, substituindo as fichas de personagens físicas e funcionando como uma maneira unificada de registrar as informações e eventos relevantes que ocorram no decorrer de uma sessão.</p>
+<h2 id="5-objetivos">5. Objetivos</h2>
+<ul>
+<li>Disponibilizar uma plataforma que permita</li>
+<li>Facilitar o gerenciamento das sessões de RPG pelos mestres.</li>
+<li>Possibilitar a criação e o acesso as fichas pelos players apartir dos seus equipamentos eletronicos.</li>
+<li>Permitir buscar dados e mudanças ocorridas em partidas anteriores.</li>
+</ul>
+<h2 id="6-requisitos-de-alto-nivel">6. Requisitos de Alto Nível</h2>
+<ul>
+<li>O sistema deve ser de fácil utilização</li>
+<li>O sistema deve ser capaz de registrar o log das partidas</li>
+<li>Portabilidade</li>
+</ul>
+<h2 id="7-riscos">7. Riscos</h2>
+<table>
+<thead>
+<tr>
+<th>Riscos</th>
+<th>Impacto</th>
+<th>Medidas Preventivas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Equipe muito grande dado o contexto da disciplina</td>
+<td>Dificuldade na gerência da equipe</td>
+<td>Dividir a equipe em tribos menores</td>
+</tr>
+<tr>
+<td>Membros da equipe abandonarem a disciplina</td>
+<td>Sobrecarga dos membros restantes</td>
+<td>Evitar que fatores internos possam causar abandono por parte de membros da equipe.</td>
+</tr>
+<tr>
+<td>Tribos desalinhadas entre si</td>
+<td>Entrega do produto pode ser prejudicada</td>
+<td>Definir uma gerência central, responsável por acompanhar as tribos e mantê-las alinhadas tanto em relação a visão de produto quanto ao desenvolvimento</td>
+</tr>
+<tr>
+<td>Falta de comunicação</td>
+<td>Dificuldade na gerência da equipe</td>
+<td>Definir rituais e ferramentas de comunicação. Criar uma cultura de troca de informações e comunicação dentro da equipe.</td>
+</tr>
+<tr>
+<td>Falta de disponibilidade dos membros da equipe</td>
+<td>Falhas nas nas entregas</td>
+<td>Estabelecer uma boa comunicação com a equipe e planjar bem as sprints</td>
+</tr>
+<tr>
+<td>Integração das partes feitas pelas duas frentes</td>
+<td>O projeto não se fazer tudo oque foi planejado</td>
+<td>Alocar um membro da equipe que tem como principal responsabilidade fazer a integração</td>
+</tr>
+</tbody>
+</table>
+<h2 id="8-custos-estimados-do-projeto">8. Custos Estimados do Projeto</h2>
+<h3 id="81-custos-de-ferramentas">8.1 Custos de Ferramentas</h3>
+<table>
+<thead>
+<tr>
+<th>Ferramenta</th>
+<th>Finalidade</th>
+<th>Custo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Slack</td>
+<td>Comunicação da equipe</td>
+<td>R$ 0</td>
+</tr>
+<tr>
+<td>Editor de Texto</td>
+<td>Elaboração de código e documentos</td>
+<td>R$ 0</td>
+</tr>
+<tr>
+<td>Git e Github</td>
+<td>Ferramenta de versionamento</td>
+<td>R$ 0</td>
+</tr>
+<tr>
+<td>Python, Flask, Typescript</td>
+<td>Tecnologias de desenvolvimento</td>
+<td>R$ 0</td>
+</tr>
+<tr>
+<td>Notebooks*</td>
+<td>Desenvolvimento da aplicação</td>
+<td>R$ 2.200,00 * 11 = R$ 24.200,00</td>
+</tr>
+<tr>
+<td>* Preço estimado por pesquisa realizada em 04/09/2019 considerando as seguintes características: Processador Core i5, memória RAM de 8GB</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="82-custos-com-recursos-humanos">8.2 Custos com Recursos Humanos</h3>
+<table>
+<thead>
+<tr>
+<th>Cargo</th>
+<th>Salário 160h mensais</th>
+<th>Salário Hora</th>
+<th>Custo Mensal*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Desenvolvedor Júnior</td>
+<td>R$ 3.250,00</td>
+<td>R$ 20,30</td>
+<td>R$ 649,92 * 10 = R$ 6.499,20</td>
+</tr>
+<tr>
+<td>Gerente de Projeto Júnior</td>
+<td>R$ 6.000,00</td>
+<td>R$ 37,50</td>
+<td>R$ 1.200,00 * 1 = R$ 1.200,00</td>
+</tr>
+<tr>
+<td>* Os cálculos foram realizados considerando uma dedicação de 8 horas semanais por cada membro a disciplina, considerando reuniões, tempo gasto com desenvolvimento, gerencia, etc.</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="83-custos-totais">8.3 Custos Totais</h3>
+<table>
+<thead>
+<tr>
+<th>Descrição</th>
+<th>Valor*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Recursos Humanos</td>
+<td>R$ 7.799,20 * 3 = R$ 23,397,60</td>
+</tr>
+<tr>
+<td>Ferramentas</td>
+<td>R$ 24.200,00</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>R$ 47,797,60</td>
+</tr>
+<tr>
+<td>* Estimando a duração do projeto em 3 meses(Entre o início de Setembro e fim de Novembro)</td>
+<td></td>
+</tr>
+<tr>
+<td>## 9. Cronograma de Marcos</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Definição de todos os requisitos</li>
+<li>Entrega do prototipo</li>
+<li>Finalização do backlog</li>
+<li>Entrega do do projeto completo</li>
+</ul>
+<h2 id="10-lista-das-partes-interessadas">10. Lista das Partes Interessadas</h2>
+<ul>
+<li>
+<p>Equipe: alunos do curso de Engenharia de Software da Universidade de Brasília(UnB) cursando a disciplina de Arquitetura e Desenho de Software que serão responsáveis pelo desenvolvimento da aplicação.</p>
+<ul>
+<li>André Bargas</li>
+<li>André de Sousa Costa Filho</li>
+<li>André Eduardo Souza de Oliveira</li>
+<li>Arthur Rodrigues</li>
+<li>Arthur José Benedito de Oliveira Assis</li>
+<li>Eduardo Yoshida</li>
+<li>Guilherme de Lyra</li>
+<li>Gustavo Duarte Moreira</li>
+<li>João Pedro de Aquino Corrêa Martins</li>
+<li>Lucas Machado Martins</li>
+<li>Mateus Nóbrega</li>
+</ul>
+</li>
+</ul>
+<h2 id="11-restricoes">11. Restrições</h2>
+<ul>
+<li>O escopo definido deve ser entregue até a data estabelecida pela disciplina.</li>
+<li>As implementações devem seguir os padrões de projeto determinados.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th><strong>Objeto</strong></th>
+<th><strong>Termo de Abertura de Prjeto - TAP</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Versões anteriores</strong></td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Versão</strong></td>
+<td>1.0</td>
+</tr>
+<tr>
+<td><strong>Autores</strong></td>
+<td>Lucas Machado<br>Eduardo Yoshida</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Criação do termo de abertura de projeto <strong>Master of Puppets</strong></td>
+</tr>
+<tr>
+<td><strong>Data</strong></td>
+<td>01/09/2019</td>
+</tr>
+</tbody>
+</table>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../richpicture/" title="Rich Pictures" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Anterior
+                </span>
+                Rich Pictures
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../old/5w2hv1/" title="5w2h RPG" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Próximo
+                </span>
+                5w2h RPG
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/application.9e1f3b71.js"></script>
+      
+        
+        
+          
+          <script src="../../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+          
+            
+              
+              
+                <script src="../../assets/javascripts/lunr/lunr.pt.js"></script>
+              
+            
+          
+          
+        
+      
+      <script>app.initialize({version:"1.0.4",url:{base:"../.."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>
