@@ -11,3 +11,5 @@ git fetch gh-token && git fetch gh-token gh-pages:gh-pages;
 mkdocs gh-deploy --clean --remote-name gh-token;
 
 echo "Completed deploying documentation"
+
+#agora vai
