@@ -30,4 +30,4 @@ Inicialmente a equipe dividiu as tarefas da seguinte forma:
 ---
 ### Anexos
 - [Planejamento tribo miranha](../tribo_miranha/sprint_1/inicio_sprint_2.md)
-- [Planejamento tribo homem-macaco](../tribo_homem_macaco/sprint_1/inicio_sprint_2.md)
+- [Planejamento tribo homem-macaco](../tribo_homem_macaco/sprint_2/inicio_sprint_2.md)
