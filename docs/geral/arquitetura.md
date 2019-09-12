@@ -11,7 +11,7 @@ Neste documento serão descritos os componentes de software, padrões arquitetur
 
 ### 1.3 Definições, Acrônimos e Abreviações
 * API: Sigla para "Application Programming Interface", pode ser entendido como um conjunto de rotinas e padrões de programação para acesso a um aplicativo de software ou plataforma baseado na Web.
-* MVC: model-view-controller
+* MVC: Model-view-controller
 * Back-end: Camada de serviços da aplicação
 * Front-end: Camada de apresentação da aplicação
 * RPG: Role-playing Game
@@ -69,7 +69,7 @@ Na camada de persistencia foi escolhido o banco de dados NoSQL MongoDB. Esta fer
 
 ### 5.1 Visão Geral do Arquitetura
 
-![Diagrama Visão geral da arquitetura](../img/visao_geral_arquitetura.png)
+![Diagrama Visão geral da arquitetura](../img/doc_arquitetura/visao_geral_arquitetura.png)
 
 
 ### 5.2 Serviços
