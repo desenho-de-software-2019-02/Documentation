@@ -14,15 +14,5 @@ theme:
 plugins:
   - search
 page:
-- Home : 'docs/index.md'
-- Documentação: 
-  - Definições de projeto: 
-  - Discução de tema: 'docs/discucao_tema.md'
-  - NFR's: 'docs/nfr.md'
-  - Richpicture: 'docs/richpicture.md'
-  - 5W2h: 'docs/5w2h.md'
-  - 5W2h: 'docs/brainstorm.md'
-  - Mapa mental: 'docs/mapa_mental.md'
-  - TAP: 'docs/tap.md'
-  
+- Home: 'docs/index.md'
 

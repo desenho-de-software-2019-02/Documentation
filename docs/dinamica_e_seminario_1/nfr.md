@@ -1,7 +1,7 @@
 
 ## NFR - Confiabilidade
 
-![nfr confiabilidade](./../img/nfr_confiabilidade.png)
+![nfr confiabilidade](../../img/nfr_confiabilidade.png)
 
 |**Objeto**|**NFR**|
 |--|--|
@@ -11,7 +11,7 @@
 | **Autor** | André Bargas |
 | **Data** | 22/08/2019 |
 
-![nfr usabilidade](./../img/nfr_usabilidade.png)
+![nfr usabilidade](../../img/nfr_usabilidade.png)
 
 |**Objeto**|**NFR**|
 |--|--|
