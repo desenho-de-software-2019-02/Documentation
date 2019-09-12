@@ -14,7 +14,7 @@ Neste documento serão descritos os componentes de software, padrões arquitetur
 * MVC: model-view-controller
 * Back-end: Camada de serviços da aplicação
 * Front-end: Camada de apresentação da aplicação
-* RPG: Role Play Game
+* RPG: Role-playing Game
 
 ### 1.4 Visão Geral
 O presente documento faz o detalhamento e descrição de características da arquitetura escolhidas pela equipe de desenvolvimento para a solução no software do projeto Master of Puppets. Nele estará presente: Representação da Arquitetura, Metas e Restrições de Arquitetura, Visão de Implantação, Visão de Implementação, Visão de Dados.
