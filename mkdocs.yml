@@ -1,6 +1,6 @@
 ﻿site_name:  Master of Puppets
 site_description: Repositório da disciplina de Desenho de software
-repo_url: https://github.com/desenho-de-software-2019-02/Document-o
+repo_url: https://github.com/desenho-de-software-2019-02/Documentation
 site_dir: site
 dev_addr: ‘0.0.0.0:8000
 theme:
@@ -14,9 +14,5 @@ theme:
 plugins:
   - search
 page:
-- Home : 'docs/index.md'
-- Documentação: 
-  - Definições de projeto: 
-  - Discução de tema: 'docs/discucao_tema.md'
-  - NFR's: 'docs/nfr.md'
-  - Richpicture: 'docs/richpicture.md'
+- Home: 'docs/index.md'
+
