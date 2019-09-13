@@ -9,14 +9,14 @@
 ### Tribo miranha - cacique Bargas
 
 | Tarefa | Feita |
-| ------ | ----- |
+| ------ | :---: |
 |        |       |
 
- 
+
 
 ### Tribo homem-macaco - cacique Assis
 | Tarefa | Feita |
-| ------ | ----- |
+| ------ | :---: |
 |        |       |
 
 ---
@@ -25,9 +25,13 @@
 
 ### Análise da qualidade da sprint
 
-| Pontos positivos | Pontos negativos | Pontos a melhorar |
-| ---------------- | ---------------- | ----------------- |
-|                  |                  |                   |
+- Pontos positivos
+  - x
+- Pontos negativos
+  - xx
+- Pontos a melhorar
+  - xxx
+
 
 ### Decisões tomadas
 

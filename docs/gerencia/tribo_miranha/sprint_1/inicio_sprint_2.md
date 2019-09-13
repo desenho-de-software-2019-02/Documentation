@@ -1,4 +1,4 @@
-# Sprint 1
+# Sprint 2
 
 <h6>Objetivo: Inicio de codificação de front-end</h6>
 <h6>Período: 05 09 - 14 09 de 2019</h6>
