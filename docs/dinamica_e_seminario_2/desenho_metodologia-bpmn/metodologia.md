@@ -7,15 +7,8 @@
 |05/09/2019| 0.2 | Revisão e justificativa | André de Sousa |
 |05/09/2019| 0.3 | Organização geral | André de Sousa |
 |05/09/2019| 1 | Organização tribos e issues | André de Sousa |
+|05/09/2019| 1.1 | Retirando Sumário | Lucas Machado |
 
-
-## Sumário
-[1. Introdução](#1-introducao) <br>
-[2. Justificativa](#2-justificativa) <br>
-[3. Organição Geral](#3-relatorios-e-gravacoes) <br>
-[4. Organização das tribos e gerência](#4-organização-das-tribos-e-gerencia) <br>
-[5. Repositórios](#5-repositorios)<br>
-[6. Issues](#6-issues)<br>
 
 ## 1. Introdução
 
@@ -29,7 +22,7 @@ Tendo estes problemas em mente, a equipe pensou em adotar uma metodologia basead
 
 ## 3. Organização geral
 
-O grupo decidiu se organizar em duas equipes de trabalho(tribos), cada uma conta com um gerente(lider técnico) e mais quatro integrantes. Também foi definido um Gerente geral para garantir a organização do trabalho e o andamento das demandas ao longo do andamento do projeto. 
+O grupo decidiu se organizar em duas equipes de trabalho(tribos), cada uma conta com um gerente (líder técnico) e mais quatro integrantes. Também foi definido um Gerente geral para garantir a organização do trabalho e o andamento das demandas ao longo do andamento do projeto. 
 
 No diagrama abaixo, está ilustrado como se dá o processo de trabalho durante uma sprint comum dentro da nossa metodologia. Ele ocorre da seguinte maneira:
 
@@ -41,7 +34,7 @@ No diagrama abaixo, está ilustrado como se dá o processo de trabalho durante u
 6. **Integração:** neste ponto são validadas as submissões das tribos e feita a integração das mesmas. Neste ponto é elaborada a ‘entrega’, já que serviços que funcionam somente separados de nada servem para a solução final. Caso uma submissão não seja integrável, esta ficará como dívida para a próxima sprint.
 7. **Fechamento da sprint:** a última parte da sprint é a reunião de fechamento geral da sprint. Nesse documento serão documentados todas as ações e decisões feitas pela equipe ao decorrer da sprint.
 
-![Metodologia](./../img/bpmn/bpmn_metodologia.png)
+![Metodologia](./../../img/bpmn/bpmn_metodologia.jpg)
 
 Outros rituais importantes que possuímos são:
 
@@ -70,8 +63,7 @@ Foram criados 2 perfis de gerência, nos quais foram feitos ‘paralelos’ com 
 - **Gerente de tribo (cacique):** coordena os desenvolvedores e trata de problemas internos à sua equipe, junto ao gerente geral, trata das questões de priorização e solução de problemas.
 
 
-
-![organizacao](./../img/organizacao.png)
+![organizacao](./../../img/organizacao.png)
 
 ## 5. Repositórios
 

@@ -24,6 +24,5 @@
 
 ## Módulos
 
-- [Artefatos genéricos](./modulo1/index.md)
 - [Documentos de gerência](./gerencia/index.md)
-- [Metodologia](./metodologia/index.md)
+- [Metodologia](./dinamica_e_seminario_2/desenho_da_metodologia/metodologia.md)
