@@ -1,22 +1,10 @@
-# Documento de Visão - Master of Puppets
-> O projeto consiste em uma solução que visa auxiliar um mestre de uma mesa de Role Playing Game agindo na gerência de uma sessão ou aventura, e de elementos que as envolvem.
+# Documento de Visão
 
-#### Table of Contents
-[1 - Introdução](#1---Introdução)
+ O projeto consiste em uma solução que visa auxiliar um mestre de uma mesa de Role Playing Game agindo na gerência de uma sessão ou aventura, e de elementos que as envolvem.
 
-[2 - Problema](#2---Problema)
-
-[3 - Features do Produto](#3---Features-do-Produto)
-
-[4 - Restrições](#4---Restrições)
-
-[5 - Riscos](#5---Riscos)
-
-[6 - Stakeholders e Descrição dos Usuários](#6---Stakeholders-e-Descrição-dos-Usuários)
-
-[7 - Membros do Projeto](#7---Membros-do-Projeto)
 
 #### Glossário
+
 | Termo | Sinônimo | Descrição |
 | :-----: | :--------: | :---------: |
 |  RPG  | Role Playing Game | Tipo de jogo em que os jogadores assumem papéis de personagens e criam narrativas colaborativamente |
@@ -101,8 +89,9 @@ Possíveis riscos para uma implementação de sucesso (mas não limitados a):
 | Mestre de Mesa | Coordenador da Partida | Ficará encarregado de coordenar e manter o jogo. |
 
 ## 7 - Membros do Projeto
+
 | Membro | Responsabilidades | Area Representada |
-| ------ | ---------------- | ----------------- | ----------------- |
+| ------ | ---------------- | ----------------- |
 | André Bargas | <li>Evoluir e Manutenir o Software/Sistema</li><li>Gerenciar a Tribo Miranha</li>  | Software e Planejamento |
 | André de Sousa Costa Filho | <li>Evoluir e Manutenir o Software/Sistema</li><li>Gerenciar os gerentes das Tribos</li> | Software e Planejamento |
 | André Eduardo Souza de Oliveira | Evoluir e Manutenir o Software/Software | Software |
