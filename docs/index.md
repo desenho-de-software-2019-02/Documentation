@@ -26,4 +26,4 @@
 
 - [Documento de Arquitetura](./geral/arquitetura.md)
 - [Documentos de gerência](./gerencia/index.md)
-- [Metodologia](./dinamica_e_seminario_2/desenho_da_metodologia/metodologia.md)
+- [Metodologia](./dinamica_e_seminario_2/desenho_metodologia-bpmn/metodologia.md)
