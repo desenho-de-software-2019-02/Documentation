@@ -25,6 +25,5 @@
 ## Módulos
 
 - [Documento de Arquitetura](./geral/arquitetura.md)
-- [Artefatos genéricos](./modulo1/index.md)
 - [Documentos de gerência](./gerencia/index.md)
-- [Metodologia](./metodologia/index.md)
+- [Metodologia](./dinamica_e_seminario_2/desenho_metodologia-bpmn/metodologia.md)
