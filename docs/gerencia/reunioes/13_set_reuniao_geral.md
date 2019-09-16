@@ -2,17 +2,17 @@
 
 ## Presentes
 
-- [ ] André de Sousa
+- [x] André de Sousa
 - [ ] André Bargas
-- [ ] André Eduardo
-- [ ] Arthur Assis
-- [ ] Arthur Rodrigues
-- [ ] Guilherme de Lyra
-- [ ] Gustavo Duarte
-- [ ] João Martins
-- [ ] Lucas Machado
-- [ ] Eduardo Yoshida
-- [ ] Mateus Nóbrega
+- [x] André Eduardo
+- [x] Arthur Assis
+- [x] Arthur Rodrigues
+- [x] Guilherme de Lyra
+- [x] Gustavo Duarte
+- [x] João Martins
+- [x] Lucas Machado
+- [x] Eduardo Yoshida
+- [x] Mateus Nóbrega
 
 ## Pauta da reunião
 
@@ -24,6 +24,4 @@
 - Bargas vai estar ausente nessa sprint por conta do trabalho
   - Mateus Nóbrega assumirá a gerência da tribo miranha
 - Arthur Assis está com dificuldades em manter a gerência por **n + 1** fatores
-  - Eduardo Yoshida assumirá a gerência da tribo homem-macaco
-
-## Outros
+  - Ele vai se organizar com a equipe

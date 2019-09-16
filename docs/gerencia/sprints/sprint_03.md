@@ -10,27 +10,15 @@
 
 Inicialmente a equipe dividiu as tarefas da seguinte forma:
 
-### Tribo miranha - cacique ?
+### Tribo miranha - cacique Mateus
+1. Diagrama de pacotes
+1. Diagrama de componentes
+1. Diagrama de estado
 
 
-### Tribo homem-macaco - cacique ?
-
-
-
-### Extras
-- Sitemap
-- Definir identidade visual
-- Definir nome do produto
-
+### Tribo homem-macaco - cacique Assis
 1. Diagrama de classes serviço de recursos
 1. Diagrama de classes serviço de partidas
 1. Diagrama de classes serviço de usuários
 1. Diagrama de classes serviço de OAuth2
-1. Diagrama de pacotes arquitetura
-1. Diagrama de componentes arquitetura
-1. Diagramas de caso de uso para skills
-1. Diagramas de caso de uso para classes
-1. Diagramas de caso de uso para usuários
-1. Diagramas de caso de uso para eventos
-1. Diagramas de caso de uso para raças
-1. Diagramas de caso de uso para partidas
+1. Diagramas de caso de uso (dívida)
