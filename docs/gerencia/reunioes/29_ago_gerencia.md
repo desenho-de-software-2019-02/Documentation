@@ -20,7 +20,7 @@
 - Definição de sprints
   - Sprints terminam quarta e sexta integração
 - Conceito de pronto
-  - PRs devem estar merjados na devel e portanto previamente revisados.
+  - PRs devem estar merjados na devel e portanto previamente revisados. Exceto no repo de documentação, nele não existe devel para aumentar a cadência de deploy do ghpages.
 - Próximas atividades
   - divisão entre gerência (roadmap, metodologia e backlog) e dev (TAP/visão, arquitetura e protótipo)
   - Tribo homem-macaco (cacique assis): TAP e visão
