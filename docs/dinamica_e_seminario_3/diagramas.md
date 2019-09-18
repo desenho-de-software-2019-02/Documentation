@@ -1,15 +1,27 @@
 # Diagramas
 
-### O diagrama representa as classes do Master of pupppets.
+# Diagramas de classe.
+
+## Diagrama de Usuário
+
+![diagrama de classe ](../img/diagramas_de_classe/UML_usuario.png)
+
+
+## Diagrama de Recursos
 
 ![diagrama de classe ](../img/diagramas_de_classe/UML_usuario.png)
 
 ### Diagrama de autenticação
 
-![ diagrama de classe ](../img/diagramas_de_classe/UML_autenticacao.png)
+![ Versão 2 ](../img/diagramas_de_classe/UML_autenticacao_2.png)
 
-|**Data**|**Versão**|**Descrição**|**Autores**|
-|--|--|--|--|
-|15/09/2019|0.1|Criação do documento|Lucas Machado|
-|16/09/2019|0.2|Adicionando diagramas|Eduardo Yoshida|
-|16/09/2019|0.3|Adicionando diagramas|Lucas Machado|
+[ Versão 1 ](../img/diagramas_de_classe/UML_autenticacao.png)
+
+
+|**Data**|**Versão**|**Descrição**|
+|--|--|--|
+|15/09/2019|0.1|CriaçãDocumentos|
+|16/09/2019|0.2|Adicionando diagrama de recursos|
+|16/09/2019|0.3|Adicionando diagrama de autenticação|
+|17/09/2019|0.3|Adicionando nova versão diagrama de autenticação|
+
