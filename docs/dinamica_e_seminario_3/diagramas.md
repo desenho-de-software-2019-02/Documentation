@@ -11,6 +11,10 @@
 
 ![diagrama de classe ](../img/diagramas_de_classe/UML_recursos_V3.png)
 
+## Diagrama de Recursos
+
+![diagrama de classe ](../img/diagramas_de_classe/UML_partida.png)
+
 ### Diagrama de autenticação
 
 ![ Versão 2 ](../img/diagramas_de_classe/UML_autenticacao_2.png)
@@ -25,4 +29,6 @@
 |16/09/2019|0.3|Adicionando diagrama de autenticação|
 |17/09/2019|0.3|Adicionando nova versão diagrama de autenticação|
 |17/09/2019|0.3|Atualiza diagrama de recursos|
+|19/09/2019|0.4|Atualiza diagrama de recursos|
+|19/09/2019|0.5|Adicionana diagrama de partida|
 
