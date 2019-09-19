@@ -26,26 +26,26 @@
 
 ### Feature de controle de skills ou habilidades
 
-![uc_]()
+![uc_Skills_v1](../img/casos-de-uso/UC_skills_v0.png)
 
 | **Objeto** | **Diagrama UC para skills/habilidades** |
 |--|--|
 | **Versões anteriores** | N/A |
 |**Versão**| 1.0 |
-| **Autor** |  |
-| **Data** |  |
+| **Autor** | Gustavo Duarte Moreira |
+| **Data** | 19/09/2019 |
 
 
 ### Feature de controle de raças
 
-![uc_]()
+![uc_Raça_v1](../img/casos-de-uso/UC_raca_v0.png)
 
 | **Objeto** | **Diagrama UC para raças** |
 |--|--|
 | **Versões anteriores** | N/A |
 |**Versão**| 1.0 |
-| **Autor** |  |
-| **Data** |  |
+| **Autor** | Gustavo Duarte Moreira |
+| **Data** | 19/09/2019 |
 
 
 ### Feature de controle de classes
