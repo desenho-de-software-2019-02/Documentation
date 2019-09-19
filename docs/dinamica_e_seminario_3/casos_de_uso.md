@@ -26,7 +26,7 @@
 
 ### Feature de controle de skills ou habilidades
 
-![uc_Skills_v1](../img/casos-de-uso/UC_skills_v0.png)
+![uc_Skills_v1](/img/casos-de-uso/UC_skills_v0.png)
 
 | **Objeto** | **Diagrama UC para skills/habilidades** |
 |--|--|
@@ -38,7 +38,7 @@
 
 ### Feature de controle de raças
 
-![uc_fichas_v3](../img/casos-de-uso/UC_skills_v0.png)
+![uc_Raca_v1](/img/casos-de-uso/UC_skills_v0.png)
 
 | **Objeto** | **Diagrama UC para raças** |
 |--|--|
