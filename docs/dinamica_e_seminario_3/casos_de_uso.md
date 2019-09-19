@@ -2,11 +2,11 @@
 
 ### Feature de controle de fichas ou personagem
 
-![uc_fichas_v3](../img/casos-de-uso/UC_fichas_v3.png)
+![uc_fichas_v3](../img/casos-de-uso/uc_fichas_v3.png)
 
 | **Objeto** | **Diagrama UC para personagem/ficha** |
 |--|--|
-| **Versões anteriores** | [2.0](../img/casos-de-uso/UC_fichas_v2.png) [1.0](../img/casos-de-uso/UC_fichas_v1.png) |
+| **Versões anteriores** | [2.0](../img/casos-de-uso/uc_fichas_v2.png) [1.0](../img/casos-de-uso/uc_fichas_v1.png) |
 |**Versão**| 3.0 |
 | **Autor** | André de Sousa |
 | **Data** | 12/09/2019 |
@@ -14,7 +14,7 @@
 
 ### Feature de controle de itens
 
-![uc_fichas_v3](../img/casos-de-uso/UC_itens_v1.png)
+![uc_fichas_v3](../img/casos-de-uso/uc_itens_v1.png)
 
 | **Objeto** | **Diagrama UC para itens** |
 |--|--|
@@ -26,7 +26,7 @@
 
 ### Feature de controle de skills ou habilidades
 
-![uc_Skills_v1](../img/casos-de-uso/UC_skills_v0.png)
+![uc_Skills_v1](../img/casos-de-uso/uc_skills_v1.png)
 
 | **Objeto** | **Diagrama UC para skills/habilidades** |
 |--|--|
@@ -38,7 +38,7 @@
 
 ### Feature de controle de raças
 
-![uc_Raça_v1](../img/casos-de-uso/UC_raca_v0.png)
+![uc_Raça_v1](../img/casos-de-uso/uc_raca_v1.png)
 
 | **Objeto** | **Diagrama UC para raças** |
 |--|--|
@@ -50,26 +50,26 @@
 
 ### Feature de controle de classes
 
-![uc_]()
+![uc_classes](../img/casos-de-uso/uc_classes_v2.png)
 
 | **Objeto** | **Diagrama UC para classes** |
 |--|--|
-| **Versões anteriores** | N/A |
-|**Versão**| 1.0 |
-| **Autor** |  |
-| **Data** |  |
+| **Versões anteriores** | [1.0](uc_classes_v2.png) |
+|**Versão**| 2.0 |
+| **Autor** | Yoshida |
+| **Data** | 12/09/2019 |
 
 
 ### Feature de controle de usuarios
 
-![uc_]()
+![uc_usuario](../img/casos-de-uso/uc_usuario_v1.png)
 
 | **Objeto** | **Diagrama UC para usuarios** |
 |--|--|
 | **Versões anteriores** | N/A |
 |**Versão**| 1.0 |
-| **Autor** |  |
-| **Data** |  |
+| **Autor** | Assis |
+| **Data** | 13/09/2019 |
 
 
 
@@ -78,6 +78,18 @@
 ![uc_]()
 
 | **Objeto** | **Diagrama UC para partidas** |
+|--|--|
+| **Versões anteriores** | N/A |
+|**Versão**| 1.0 |
+| **Autor** |  |
+| **Data** |  |
+
+
+### Feature de controle de eventos
+
+![uc_]()
+
+| **Objeto** | **Diagrama UC para eventos** |
 |--|--|
 | **Versões anteriores** | N/A |
 |**Versão**| 1.0 |
