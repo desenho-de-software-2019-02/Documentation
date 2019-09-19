@@ -1,7 +1,12 @@
-<!-- issue-table.md -->
-  <!--title-->
-  <PREFIX><SUBID><NUMBER>**Título da issue**
-  <!--body-->
+---
+name: issue template
+about: Describe this issue template's purpose here.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
   **Descrição:**
   ---
   breve descrição
