@@ -1,8 +1,8 @@
 # Diagrama de componentes
 
-### Diagrama componentes do sistema
+## Diagrama componentes do sistema
 
-![comp](../img/component-digram/cd_full_v1.jpg)
+![comp](../img/component-diagram/cd_full_v1.jpg)
 
 | **Objeto** | **Diagrama componentes do sistema** |
 |--|--|

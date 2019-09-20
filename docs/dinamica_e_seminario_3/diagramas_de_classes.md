@@ -1,17 +1,15 @@
-# Diagramas
+# Diagramas de classe
 
-# Diagramas de classe.
+## Diagrama de classe para Usuário
 
-## Diagrama de Usuário
-
-![diagrama de classe ](../img/diagramas_de_classe/UML_usuario_V2.png)
+![diagrama de classe para classe ](../img/diagramas_de_classe/UML_usuario_V2.png)
 
 
-## Diagrama de Recursos
+## Diagrama de classe para Recursos
 
-![diagrama de classe ](../img/diagramas_de_classe/UML_recursos_V3.png)
+![diagrama de classe para classe ](../img/diagramas_de_classe/UML_recursos_V3.png)
 
-### Diagrama de autenticação
+### Diagrama de classe para Autenticação
 
 ![ Versão 3 ](../img/diagramas_de_classe/UML_autenticacao_3.png)
 
@@ -19,7 +17,7 @@
 
 [ Versão 1 ](../img/diagramas_de_classe/UML_autenticacao.png)
 
-### Diagrama de conexão com o banco
+### Diagrama de classe para conexão com o banco
 
 ![ Versão 1 ](../img/diagramas_de_classe/UML_database.png)
 
@@ -36,7 +34,6 @@
 
 
 
-### Referências
+## Referências
 
 * https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml
-
