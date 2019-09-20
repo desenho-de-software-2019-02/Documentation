@@ -1,6 +1,6 @@
 # Diagrama de sequência
 
-### Sequência de calculo de dano
+## Sequência de calculo de dano
 
 ![uc_fichas_v3](../img/diag-sequencia/sd_damage_calculus_v4.png)
 
@@ -12,7 +12,7 @@
 | **Data** | 18/09/2019 |
 
 
-### Sequência de login
+## Sequência de login
 
 ![uc_fichas_v3](../img/diag-sequencia/sd_login_v2.png)
 

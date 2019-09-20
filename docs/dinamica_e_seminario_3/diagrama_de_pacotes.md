@@ -1,4 +1,6 @@
-# Diagrama de Pacotes
+# Diagrama de pacotes
+
+## Diagrama de pacotes do sistema
 
 ![Diagrama de pacotes](../img/diagrama_pacotes/diagrama_de_pacotes.png)
 
