@@ -75,14 +75,14 @@
 
 ### Feature de controle de partidas
 
-![uc_]()
+![uc_partida](../img/casos-de-uso/uc_partida_v1.png)
 
 | **Objeto** | **Diagrama UC para partidas** |
 |--|--|
 | **Versões anteriores** | N/A |
 |**Versão**| 1.0 |
-| **Autor** |  |
-| **Data** |  |
+| **Autores** | <li>Guilherme de Lyra</li><li>Gustavo Duarte</li><li>André Filho</li> |
+| **Data** | 19/09/2019 |
 
 
 ### Feature de controle de eventos
