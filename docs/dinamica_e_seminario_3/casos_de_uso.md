@@ -87,11 +87,11 @@
 
 ### Feature de controle de eventos
 
-![uc_]()
+![uc_eventos_v1](../img/casos-de-uso/uc_eventos_v1.png)
 
 | **Objeto** | **Diagrama UC para eventos** |
 |--|--|
 | **Versões anteriores** | N/A |
 |**Versão**| 1.0 |
-| **Autor** |  |
-| **Data** |  |
+| **Autor** | Guilherme de Lyra |
+| **Data** | 15/09/2019 |
