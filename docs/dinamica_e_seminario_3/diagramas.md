@@ -4,12 +4,12 @@
 
 ## Diagrama de Usuário
 
-![diagrama de classe ](../img/diagramas_de_classe/UML_usuario.jpg)
+![diagrama de classe ](../img/diagramas_de_classe/UML_usuario_V2.png)
 
 
 ## Diagrama de Recursos
 
-![diagrama de classe ](../img/diagramas_de_classe/UML_recursos_V2.png)
+![diagrama de classe ](../img/diagramas_de_classe/UML_recursos_V3.png)
 
 ### Diagrama de autenticação
 
