@@ -13,7 +13,7 @@ Inicialmente a equipe dividiu as tarefas da seguinte forma:
 ### Tribo miranha - cacique Mateus
 1. Diagrama de pacotes
 1. Diagrama de componentes
-1. Diagrama de estado
+1. Diagrama de estados
 
 
 ### Tribo homem-macaco - cacique Assis
@@ -22,3 +22,7 @@ Inicialmente a equipe dividiu as tarefas da seguinte forma:
 1. Diagrama de classes serviço de usuários
 1. Diagrama de classes serviço de OAuth2
 1. Diagramas de caso de uso (dívida)
+
+### Anexos
+
+- [Fim de sprint da tribo miranha](../tribo_miranha/sprint_3/final_sprint_3.md)
