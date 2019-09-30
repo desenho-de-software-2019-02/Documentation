@@ -5,9 +5,13 @@
 ![diagrama de classe para classe ](../img/diagramas_de_classe/UML_usuario_V2.png)
 
 
+## Diagrama de classe para Partida
+
+![diagrama de classe para classe ](../img/diagramas_de_classe/UML_partida.png)
+Usuário
 ## Diagrama de classe para Recursos
 
-![diagrama de classe para classe ](../img/diagramas_de_classe/UML_recursos_V3.png)
+![diagrama de classe para classe ](../img/diagramas_de_classe/UML_recursos_V4.png)
 
 ### Diagrama de classe para Autenticação
 
