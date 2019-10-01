@@ -40,4 +40,4 @@ Com todas essas ideias decidimos organizá-las, e organizamos entre as ideias qu
 Dessa forma, é importante focar em cada etapa do Brainstorm, dando atenção à opinião de todos os participantes e prezando pela boa organização realizada pelo mediador, para que o resultado do processo seja enriquecedor e positivo. A utilização desta técnica se mostrou fundamental para as definições iniciais do escopo do projeto, assim como funcionalidades principais.
 
 # 5. Referências
-BRAINSTORMING THAT WORKS. Alex Osborn “brainstorming” – He coined the word. BRAINSTORMING THAT WORKS. Disponível em <http://bit.ly/1uGac2S>. Acesso em: 4 out 2014.
+BRAINSTORMING THAT WORKS. Alex Osborn “brainstorming” – He coined the word. BRAINSTORMING THAT WORKS. Disponível em <http://bit.ly/1uGac2S>. Acesso em: 30 set 2019.
