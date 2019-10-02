@@ -1,13 +1,5 @@
 # Brainstorm
 
-# Sumário
-1. [Introdução](#Introdução)
-2. [Objetivo](#Objetivo)
-3. [Brainstorming](#Brainstorming)
-4. [Conclusão](#Conclusão)
-5. [Referências](#Referências)
-
-
 # 1. Introdução
 A famosa "tempestade de idéias", também conhecida como brainstorming, pode ser definida como a geração contínua de idéias, independente do número de pessoas que esteja envolvido na ação. É baseada na necessidade de ter fatos, gerar ideias e encontrar soluções. Desenvolvido por Alex F. Osborn, então diretor daBBD&O¹, o processo é descrito por ele como "usar o cérebro para atacar um problema criativo". Cada stormer – nome dado aos participantes do processo – usa a criatividade e audácia para atacar o mesmo objeto de estudo. Dessa forma, "a criatividade é encorajada e não é permitido que as idéias sejam avaliadas e discutidas até que todos tenham opinado. Todas as idéias são consideradas legítimas, e até mesmo as mais bobas ou ridículas podem vir a ser as mais férteis. Um brainstorming estruturado produz inúmeras idéias criativas sobre qualquer
 questão central" (BBDO).
