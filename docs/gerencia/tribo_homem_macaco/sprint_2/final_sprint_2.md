@@ -1,6 +1,6 @@
-# Relatório da Sprint 1 - Tribo Homen Macaco
+# Relatório da Sprint 2 - Tribo Homen Macaco
 
-###### Período: 28 AGO - 04 SET de 2019
+###### Período: 05 SET - 11 SET de 2019
 
 ------
 
