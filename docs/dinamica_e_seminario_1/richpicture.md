@@ -1,15 +1,5 @@
 
 # Rich Pictures
-## Sumário
-1. [Introdução](#1-Introdução)
-
-2. [Objetivo](#2-Objetivo)
-
-3. [Metodologia](#3-Metodologia)
-
-4. [Rich-Pictures-Gerais](#4-Rich-Pictures-Gerais)
-
-5. [Referências](#5-Referências)
 
 ## 1. Introdução
 
