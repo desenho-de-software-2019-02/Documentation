@@ -19,4 +19,4 @@ Inicialmente a equipe dividiu as tarefas da seguinte forma:
 1. CRUDs de partida
 
 ## Observações
-- André de Sousa alocado para a tribo miranha
+- André de Sousa ajudará na equipe miranha
