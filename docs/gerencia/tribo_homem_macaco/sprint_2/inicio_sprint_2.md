@@ -1,4 +1,4 @@
-# Sprint 1 - Tribo Homem Macaco
+# Sprint 2 - Tribo Homem Macaco
 
 <h6>Objetivo: Desenvolvimento de Casos de Uso, Backlog e Dojos</h6>
 <h6>Período: 05 set - 11 set de 2019</h6>

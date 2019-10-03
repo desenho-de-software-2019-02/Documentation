@@ -40,3 +40,4 @@
 ---
 ### Anexos
 - [Fim de sprint tribo miranha](../tribo_miranha/sprint_1/final_sprint_1.md)
+- [Fim de sprint tribo homem macaco](../tribo_homem_macaco/sprint_1/final_sprint_1.md)
