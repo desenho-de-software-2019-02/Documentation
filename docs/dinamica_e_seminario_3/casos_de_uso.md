@@ -3,6 +3,7 @@
 ## Feature de controle de fichas ou personagem
 
 ![uc_fichas_v3](../img/casos-de-uso/uc_fichas_v3.png)
+[Visualizar em tamanho maior](../img/casos-de-uso/uc_fichas_v3.png)
 
 | **Objeto** | **Diagrama UC para personagem/ficha** |
 |--|--|
@@ -15,6 +16,7 @@
 ## Feature de controle de itens
 
 ![uc_fichas_v3](../img/casos-de-uso/uc_itens_v1.png)
+[Visualizar em tamanho maior](../img/casos-de-uso/uc_itens_v1.png)
 
 | **Objeto** | **Diagrama UC para itens** |
 |--|--|
@@ -27,6 +29,7 @@
 ## Feature de controle de skills ou habilidades
 
 ![uc_Skills_v1](../img/casos-de-uso/uc_skills_v1.png)
+[Visualizar em tamanho maior](../img/casos-de-uso/uc_skills_v1.png)
 
 | **Objeto** | **Diagrama UC para skills/habilidades** |
 |--|--|
@@ -39,6 +42,7 @@
 ## Feature de controle de raças
 
 ![uc_Raça_v1](../img/casos-de-uso/uc_raca_v1.png)
+[Visualizar em tamanho maior](../img/casos-de-uso/uc_raca_v1.png)
 
 | **Objeto** | **Diagrama UC para raças** |
 |--|--|
@@ -51,6 +55,7 @@
 ## Feature de controle de classes
 
 ![uc_classes](../img/casos-de-uso/uc_classes_v2.png)
+[Visualizar em tamanho maior](../img/casos-de-uso/uc_classes_v2.png)
 
 | **Objeto** | **Diagrama UC para classes** |
 |--|--|
@@ -63,6 +68,7 @@
 ## Feature de controle de usuarios
 
 ![uc_usuario](../img/casos-de-uso/uc_usuario_v1.png)
+[Visualizar em tamanho maior](../img/casos-de-uso/uc_usuario_v1.png)
 
 | **Objeto** | **Diagrama UC para usuarios** |
 |--|--|
@@ -76,6 +82,7 @@
 ## Feature de controle de partidas
 
 ![uc_partida](../img/casos-de-uso/uc_partida_v1.png)
+[Visualizar em tamanho maior](../img/casos-de-uso/uc_partida_v1.png)
 
 | **Objeto** | **Diagrama UC para partidas** |
 |--|--|
@@ -88,6 +95,7 @@
 ## Feature de controle de eventos
 
 ![uc_eventos_v1](../img/casos-de-uso/uc_eventos_v1.png)
+[Visualizar em tamanho maior](../img/casos-de-uso/uc_eventos_v1.png)
 
 | **Objeto** | **Diagrama UC para eventos** |
 |--|--|

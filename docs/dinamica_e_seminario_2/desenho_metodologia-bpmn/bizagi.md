@@ -16,12 +16,14 @@ A notação Business Process Model and Notation (BPMN ou em português *Modelo e
 ### 2.1 Escolha do tema
 
 ![Escolha do tema](./../../img/bpmn/bpmn_escolhadotema.jpg)
+[Visualizar em tamanho maior do tema](./../../img/bpmn/bpmn_escolhadotema.jpg)
 
 Fluxograma com a notação BPMN para descrever as relacionadas à escolha do tema do projeto.
 
 ### 2.2 Metodologia
 
 ![Metodologia](./../../img/bpmn/bpmn_metodologia.jpg)
+[Visualizar em tamanho maior](./../../img/bpmn/bpmn_metodologia.jpg)
 
 Fluxograma com a notação BPMN para descrever as etapas de desenvolvimento do projeto, envolvendo planejamento, desenvolvimento e homologação.
 

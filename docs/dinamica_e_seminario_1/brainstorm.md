@@ -18,14 +18,17 @@ Com todas essas ideias decidimos organizá-las, e organizamos entre as ideias qu
 ## Escopo do projeto
 
 ![ Escopo projeto ](../../img/escopo_projeto.jpg)
+[ Visualizar em tamanho maior ](../../img/escopo_projeto.jpg)
 
 ## Escopo a para versão online
 
 ![ Escopo projeto ](../../img/escopo_projeto_online.jpg)
+[ Visualizar em tamanho maior ](../../img/escopo_projeto_online.jpg)
 
 ## Escopo do projeto
 
 ![ Escopo projeto ](../../img/ecopo_outros.jpg)
+[ Visualizar em tamanho maior ](../../img/ecopo_outros.jpg)
 
 # 4. Conclusão
 

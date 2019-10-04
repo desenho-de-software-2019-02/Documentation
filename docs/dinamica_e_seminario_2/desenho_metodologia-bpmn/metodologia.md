@@ -22,7 +22,7 @@ Tendo estes problemas em mente, a equipe pensou em adotar uma metodologia basead
 
 ## 3. Organização geral
 
-O grupo decidiu se organizar em duas equipes de trabalho(tribos), cada uma conta com um gerente (líder técnico) e mais quatro integrantes. Também foi definido um Gerente geral para garantir a organização do trabalho e o andamento das demandas ao longo do andamento do projeto. 
+O grupo decidiu se organizar em duas equipes de trabalho(tribos), cada uma conta com um gerente (líder técnico) e mais quatro integrantes. Também foi definido um Gerente geral para garantir a organização do trabalho e o andamento das demandas ao longo do andamento do projeto.
 
 No diagrama abaixo, está ilustrado como se dá o processo de trabalho durante uma sprint comum dentro da nossa metodologia. Ele ocorre da seguinte maneira:
 
@@ -35,6 +35,7 @@ No diagrama abaixo, está ilustrado como se dá o processo de trabalho durante u
 7. **Fechamento da sprint:** a última parte da sprint é a reunião de fechamento geral da sprint. Nesse documento serão documentados todas as ações e decisões feitas pela equipe ao decorrer da sprint.
 
 ![Metodologia](./../../img/bpmn/bpmn_metodologia.jpg)
+[Visualizar em tamanho maior](./../../img/bpmn/bpmn_metodologia.jpg)
 
 Outros rituais importantes que possuímos são:
 
@@ -47,14 +48,14 @@ A idéia da organização em tribos é conseguir se ter uma melhor comunicação
 
 Foram criados 2 perfis de gerência, nos quais foram feitos ‘paralelos’ com a cultura indigena:
 
-> Duas figuras importantes na organização das tribos são o pajé e o  
-> cacique. O pajé é o sacerdote da tribo, pois conhece todos os rituais e 
+> Duas figuras importantes na organização das tribos são o pajé e o
+> cacique. O pajé é o sacerdote da tribo, pois conhece todos os rituais e
 > recebe  as mensagens dos deuses. Ele também é o curandeiro, pois conhece
-> todos os chás  e ervas para curar doenças. Ele que faz o ritual da 
-> pajelança, onde evoca os  deuses da floresta e dos ancestrais para 
+> todos os chás  e ervas para curar doenças. Ele que faz o ritual da
+> pajelança, onde evoca os  deuses da floresta e dos ancestrais para
 > ajudar na cura.
 >
-> O cacique, também  importante na vida tribal, faz o 
+> O cacique, também  importante na vida tribal, faz o
 > papel de chefe, pois organiza e orienta os  índios.
 >
 > [Fonte](https://www.sohistoria.com.br/ef2/indios/p1.php)
@@ -64,6 +65,7 @@ Foram criados 2 perfis de gerência, nos quais foram feitos ‘paralelos’ com 
 
 
 ![organizacao](./../../img/organizacao.png)
+[Visualizar em tamanho maior](./../../img/organizacao.png)
 
 ## 5. Repositórios
 
