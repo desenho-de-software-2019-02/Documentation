@@ -1,7 +1,7 @@
 # Diagramas de caso de uso
 
 ## 1. Introdução
-Os diagramas comportamentais na notação UML documenta o sistema do ponto de vista do usuário. Em outras palavras, ele descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com os usuários do mesmo sistema.
+Os diagramas comportamentais na notação UML documenta o sistema do ponto de vista do usuário. Em outras palavras, ele descreve as principais funcionalidades do sistema e a interação dessas funcionalidades com os usuários do mesmo sistema. Também corresponde a uma visão externa do sistema e representa graficamente os atores, os casos de uso, e os relacionamentos entre estes elementos. Ele tem como objetivo ilustrar em um nível alto de abstração quais elementos externos interagem com que funcionalidades do sistema, ou seja, a finalidade de um diagrama de caso de uso é apresentar um tipo de diagrama de contexto que apresenta os elementos externos de um sistema e as maneiras segundo as quais eles as utilizam.
 
 ## 2. Objetivos
 A execução dos diagramas de caso de uso tem como objetivo aplicar a modelagem de requisitos e descrever o uso de uma funcionalidade do sistema, apresentando as características ou comportamentos da aplicação Master of Puppets.
@@ -104,3 +104,7 @@ O desenvolvimento da atividade se constituiu na seguinte metodologia: via Slack,
 |**Versão**| 1.0 |
 | **Autor** | Guilherme de Lyra |
 | **Data** | 15/09/2019 |
+
+
+## 5. Referências
+* Vazquez, Carlos; Simões, Guilherme (2016). Engenharia de Requisitos: Software Orientado ao Negócio.
