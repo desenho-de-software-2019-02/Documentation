@@ -335,8 +335,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../../dinamica_e_seminario_1/nfr/" title="Nfr" class="md-nav__link">
-      Nfr
+    <a href="../../dinamica_e_seminario_1/nfr/" title="NFR" class="md-nav__link">
+      NFR
     </a>
   </li>
 
@@ -1725,7 +1725,7 @@
                 <h1 id="documento-de-arquitetura-master-of-puppets">Documento de Arquitetura - Master of Puppets</h1>
 <h2 id="1-introducao">1. Introdução</h2>
 <h3 id="11-finalidade">1.1 Finalidade</h3>
-<p>Este documento apresenta uma visão geral abrangente da arquitetura do projeto Master of Puppets, buscando ilustrar os mais diversos aspectos do sistema. O documento permitirá um maior entendimento do sistema em si, do comportamento do mesmo e como ele irá se comunicar com as outras aplicações do projeto. Este projeto fora desenvolvido na disciplina Arquitetura e Desenho de Software, e possui como principal foco a comunidade academica da Universidade de Brasília campus Gama.  </p>
+<p>Este documento apresenta uma visão geral abrangente da arquitetura do projeto Master of Puppets, buscando ilustrar os mais diversos aspectos do sistema. O documento permitirá um maior entendimento do sistema em si, do comportamento do mesmo e como ele irá se comunicar com as outras aplicações do projeto. Este projeto fora desenvolvido na disciplina Arquitetura e Desenho de Software, e possui como principal foco a comunidade academica da Universidade de Brasília campus Gama.</p>
 <h3 id="12-escopo">1.2 Escopo</h3>
 <p>Neste documento serão descritos os componentes de software, padrões arquiteturais adotados e frameworks escolhidos para o desenvolvimento do projeto. O objetivo do projeto é a criação de portal capaz de axuliar jogadores de RPGs a gerenciarem fichas e recursos do jogo durante suas partidas, sendo possivel também a reutilização de recursos e compartilhamento de componentes criado por terceiros usuários.</p>
 <h3 id="13-definicoes-acronimos-e-abreviacoes">1.3 Definições, Acrônimos e Abreviações</h3>
@@ -1779,7 +1779,8 @@
 <p>O frontend será escrito em Angular e ficará responsável apenas por receber os dados que virão dos microsserviços que compõem a aplicação. Nesta camada também é as possiveis interações do usuário com a aplicação.</p>
 <p>Na camada de persistencia foi escolhido o banco de dados NoSQL MongoDB. Esta ferramenta foi escolhida devido a familiaridade da equipe com a técnologia e sua boa integração com outras ferramentas do projeto. As coleções para cada servilo serão idenpendetes e conversarão apenas com seu respectivo serviço, com execeção da coleção de dados de usuário que conversara com o serviço de autenticação e de gerenciamento de usuário.</p>
 <h3 id="51-visao-geral-do-arquitetura">5.1 Visão Geral do Arquitetura</h3>
-<p><img alt="Diagrama Visão geral da arquitetura" src="../../img/doc_arquitetura/visao_geral_arquitetura.png" /></p>
+<p><img alt="Diagrama Visão geral da arquitetura" src="../../img/doc_arquitetura/visao_geral_arquitetura.png" />
+<a href="../../img/doc_arquitetura/visao_geral_arquitetura.png">Visualizar em tamanho maior</a></p>
 <h3 id="52-servicos">5.2 Serviços</h3>
 <h4 id="521-servico-de-recursos">5.2.1 Serviço de Recursos</h4>
 <p>Esta  fronteira é responsável pelo gerenciamento dos recursos básicos da aplicação, estabelecendo  uma intermediação entre o banco de dados e os outros serviços.</p>
@@ -1788,7 +1789,7 @@
 <h4 id="523-servico-de-gerenciamento-de-usuarios">5.2.3 Serviço de Gerenciamento de Usuários</h4>
 <p>Fica a cargo desse serviço o gerenciamento dos dados dos usuários dentro da aplicação.</p>
 <h4 id="523-servico-de-gerenciamento-de-usuarios_1">5.2.3 Serviço de Gerenciamento de Usuários</h4>
-<p>Este serviço é responsável por autenticar usuários e aplicações que desejam acessar recursos protegidos. Está autenticação será feita pelo padrão OAuth2.  </p>
+<p>Este serviço é responsável por autenticar usuários e aplicações que desejam acessar recursos protegidos. Está autenticação será feita pelo padrão OAuth2.</p>
 <h2 id="6-visao-de-dados">6. Visão de Dados</h2>
 <h2 id="7-visao-de-implantacao">7. Visão de Implantação</h2>
 <h2 id="8-visao-de-implementacao">8. Visão de Implementação</h2>
