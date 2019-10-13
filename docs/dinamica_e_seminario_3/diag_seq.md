@@ -16,6 +16,7 @@
 ## Sequência de login
 
 ![uc_fichas_v3](../img/diag-sequencia/sd_login_v2.png)
+
 [Visualizar em tamanho maior](../img/diag-sequencia/sd_login_v2.png)
 
 | **Objeto** | **Diagrama de sequência de login** |
