@@ -4,7 +4,7 @@
 ## 1. Introdução
 
 ### 1.1 Finalidade
-Este documento apresenta uma visão geral abrangente da arquitetura do projeto Master of Puppets, buscando ilustrar os mais diversos aspectos do sistema. O documento permitirá um maior entendimento do sistema em si, do comportamento do mesmo e como ele irá se comunicar com as outras aplicações do projeto. Este projeto fora desenvolvido na disciplina Arquitetura e Desenho de Software, e possui como principal foco a comunidade academica da Universidade de Brasília campus Gama.  
+Este documento apresenta uma visão geral abrangente da arquitetura do projeto Master of Puppets, buscando ilustrar os mais diversos aspectos do sistema. O documento permitirá um maior entendimento do sistema em si, do comportamento do mesmo e como ele irá se comunicar com as outras aplicações do projeto. Este projeto fora desenvolvido na disciplina Arquitetura e Desenho de Software, e possui como principal foco a comunidade academica da Universidade de Brasília campus Gama.
 
 ### 1.2 Escopo
 Neste documento serão descritos os componentes de software, padrões arquiteturais adotados e frameworks escolhidos para o desenvolvimento do projeto. O objetivo do projeto é a criação de portal capaz de axuliar jogadores de RPGs a gerenciarem fichas e recursos do jogo durante suas partidas, sendo possivel também a reutilização de recursos e compartilhamento de componentes criado por terceiros usuários.
@@ -70,6 +70,7 @@ Na camada de persistencia foi escolhido o banco de dados NoSQL MongoDB. Esta fer
 ### 5.1 Visão Geral do Arquitetura
 
 ![Diagrama Visão geral da arquitetura](../img/doc_arquitetura/visao_geral_arquitetura.png)
+[Visualizar em tamanho maior](../img/doc_arquitetura/visao_geral_arquitetura.png)
 
 
 ### 5.2 Serviços
@@ -89,7 +90,7 @@ Fica a cargo desse serviço o gerenciamento dos dados dos usuários dentro da ap
 
 #### 5.2.3 Serviço de Gerenciamento de Usuários
 
-Este serviço é responsável por autenticar usuários e aplicações que desejam acessar recursos protegidos. Está autenticação será feita pelo padrão OAuth2.  
+Este serviço é responsável por autenticar usuários e aplicações que desejam acessar recursos protegidos. Está autenticação será feita pelo padrão OAuth2.
 
 
 ## 6. Visão de Dados

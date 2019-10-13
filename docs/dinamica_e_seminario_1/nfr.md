@@ -1,7 +1,9 @@
+# NFR
 
 ## NFR - Confiabilidade
 
 ![nfr confiabilidade](../../img/nfr_confiabilidade.png)
+[Visualizar em tamanho maior](../../img/nfr_confiabilidade.png)
 
 |**Objeto**|**NFR**|
 |--|--|
@@ -12,6 +14,7 @@
 | **Data** | 22/08/2019 |
 
 ![nfr usabilidade](../../img/nfr_usabilidade.png)
+[Visualizar em tamanho maior](../../img/nfr_usabilidade.png)
 
 |**Objeto**|**NFR**|
 |--|--|

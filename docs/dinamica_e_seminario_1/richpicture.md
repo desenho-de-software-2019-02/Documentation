@@ -3,8 +3,8 @@
 
 ## 1. Introdução
 
-<p align="justify">As Rich Pictures foram desenvolvidas como parte da Soft Systems Methodology, de Peter Checkland, para reunir informações sobre uma situação complexa. A ideia de usar desenhos ou figuras para pensar sobre problemas é comum em vários métodos de resolução de problemas ou de pensamento criativo (incluindo terapia) porque nossa consciência intuitiva se comunica mais facilmente em impressões e símbolos do que em palavras. Desenhos podem evocar e registrar _insights_ sobre uma situação e diferentes técnicas de visualização, como braistorming visual, manipulação de imagens e sonhos criativos, foram desenvolvidas enfatizando uma dessas duas finalidades sobre a outra. 
-Estes desenhos são realizados durante o estágio de pré-análise (como artefato de pré-rastreabilidade), antes que se saiba claramente quais partes da situação devem ser consideradas como processo ou como estrutura. 
+<p align="justify">As Rich Pictures foram desenvolvidas como parte da Soft Systems Methodology, de Peter Checkland, para reunir informações sobre uma situação complexa. A ideia de usar desenhos ou figuras para pensar sobre problemas é comum em vários métodos de resolução de problemas ou de pensamento criativo (incluindo terapia) porque nossa consciência intuitiva se comunica mais facilmente em impressões e símbolos do que em palavras. Desenhos podem evocar e registrar _insights_ sobre uma situação e diferentes técnicas de visualização, como braistorming visual, manipulação de imagens e sonhos criativos, foram desenvolvidas enfatizando uma dessas duas finalidades sobre a outra.
+Estes desenhos são realizados durante o estágio de pré-análise (como artefato de pré-rastreabilidade), antes que se saiba claramente quais partes da situação devem ser consideradas como processo ou como estrutura.
 </p>
 
 ## 2. Objetivo
@@ -25,6 +25,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 ### Ações do Jogador
 
 ![rich picture ](../img/rich_pictures/rich_picture_final_player_v1.jpg)
+[Visualizar em tamanho maior](../img/rich_pictures/rich_picture_final_player_v1.jpg)
 
 |**Objeto**|**Rich Picture**|
 |--|--|
@@ -38,6 +39,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 ### Ações do Mestre
 
 ![rich picture ](../img/rich_pictures/rich_picture_final_mestre_v1.jpg)
+[Visualizar em tamanho maior](../img/rich_pictures/rich_picture_final_mestre_v1.jpg)
 
 |**Objeto**|**Rich Picture**|
 |--|--|
@@ -50,6 +52,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 ### Fluxo de Incio de Jogo
 
 ![rich picture andre v1](../img/rich_pictures/rich_picture_final_fluxo_inicio.png)
+[Visualizar em tamanho maior](../img/rich_pictures/rich_picture_final_fluxo_inicio.png)
 
 |**Objeto**|**Rich Picture**|
 |--|--|
@@ -63,6 +66,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 
 
 ![rich picture andre v1](../img/rich_pictures/rich_picture_individual_andre_bargas.png)
+[Visualizar em tamanho maior](../img/rich_pictures/rich_picture_individual_andre_bargas.png)
 
 |**Objeto**|**Rich Picture**|
 |--|--|
@@ -74,6 +78,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 
 
 ![rich picture andre filho v1](../img/rich_pictures/rich_picture_individual_andre_filho.jpg)
+[Visualizar em tamanho maior](../img/rich_pictures/rich_picture_individual_andre_filho.jpg)
 
 |**Objeto**|**Rich Picture**|
 |--|--|
@@ -86,6 +91,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 <!-- adicionado no repositório dia 31 ago, sry -->
 
 ![rich picture yoshida v1](../img/rich_pictures/rich_picture_individual_yoshida.jpg)
+[Visualizar em tamanho maior](../img/rich_pictures/rich_picture_individual_yoshida.jpg)
 
 |**Objeto**|**Rich Picture**|
 |--|--|
@@ -96,6 +102,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 | **Data** | 20/08/2019 |
 
 ![rich picture Gustavo v1](../img/rich_pictures/rich_picture_individual_gustavo.png)
+[Visualizar em tamanho maior](../img/rich_pictures/rich_picture_individual_gustavo.png)
 
 |**Objeto**|**Rich Picture**|
 |--|--|
@@ -107,6 +114,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 
 
 ![rich picture Arthur Assis v1](../img/rich_pictures/rich_picture_individual_arthur_assis.png)
+[Visualizar em tamanho maior](../img/rich_pictures/rich_picture_individual_arthur_assis.png)
 
 |**Objeto**|**Rich Picture**|
 |--|--|
@@ -118,6 +126,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 
 
 ![rich picture Lucas V1 ](../img/rich_pictures/rich_picture_rpg.png)
+[Visualizar em tamanho maior](../img/rich_pictures/rich_picture_rpg.png)
 
 |**Objeto**|**Rich Picture**|
 |--|--|
@@ -129,6 +138,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 
 
 ![rich picture ](../img/rich_pictures/richpicture_concorrencia.png)
+[Visualizar em tamanho maior](../img/rich_pictures/richpicture_concorrencia.png)
 
 |**Objeto**|**Rich Picture**|
 |--|--|

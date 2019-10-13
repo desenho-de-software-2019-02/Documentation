@@ -9,6 +9,7 @@ A confecção do diagrama de sequência tem como finalidade descrever a interaç
 ## 3. Diagrama componentes do sistema
 
 ![comp](../img/component-diagram/cd_full_v1.jpg)
+[Visualizar em tamanho maior](../img/component-diagram/cd_full_v1.jpg)
 
 | **Objeto** | **Diagrama componentes do sistema** |
 |--|--|

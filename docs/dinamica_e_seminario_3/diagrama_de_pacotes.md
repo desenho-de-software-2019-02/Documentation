@@ -3,6 +3,7 @@
 ## Diagrama de pacotes do sistema
 
 ![Diagrama de pacotes](../img/diagrama_pacotes/diagrama_de_pacotes.png)
+[Visualizar em tamanho maior](../img/diagrama_pacotes/diagrama_de_pacotes.png)
 
 |**Objeto**|**Diagrama de pacotes**|
 |--|--|

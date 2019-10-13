@@ -2,7 +2,7 @@
 
 Inicialmente foi comentado com o grupo e pedido para que todos os membros do grupo trouxessem ideias para que depois todo grupo escolher um dos temas.
 
-- [5w2h](./5w2h.md)
+- [5W2H](./5w2h.md)
 
 Os temas sugeridos foram:
     
@@ -39,4 +39,4 @@ Sugerida por Guilherme de Lyra
 
 ## Conclusão
 
-Após analisar todos os possíveis projetos por maioria de votos e indicações externas o tema 2 foi escolhido pela maioria.
+Após analisar todos os possíveis projetos por maioria de votos e indicações externas, a ideia 2 foi escolhida pela maioria.
