@@ -1,6 +1,6 @@
 # Relatório da Sprint 5
 
-###### Período: 04 OUT - 12 OUT de 2019
+###### Período: 04 OUT - 19 OUT de 2019
 
 ------
 
@@ -22,10 +22,10 @@
 ## Review da sprint
 
 ### Análise da qualidade da sprint
-- Pontos positivos
-  - Começaram a sair as tarefas
-- Pontos negativos
-  - Entregas atrasadas
+##### Pontos positivos
+  * Começaram a sair as tarefas
+##### Pontos negativos
+  * Entregas atrasadas
 
 ---
 ### Anexos
