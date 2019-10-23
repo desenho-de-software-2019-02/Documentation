@@ -22,10 +22,10 @@
 ## Review da sprint
 
 ### Análise da qualidade da sprint
-- Pontos positivos
-  - Começaram a sair as tarefas
-- Pontos negativos
-  - Entregas atrasadas
+##### Pontos positivos
+  * Começaram a sair as tarefas
+##### Pontos negativos
+  * Entregas atrasadas
 
 ---
 ### Anexos
