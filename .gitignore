@@ -1,3 +1,4 @@
 /site
+*.asta.lock
 .DS_Store
 .directory
