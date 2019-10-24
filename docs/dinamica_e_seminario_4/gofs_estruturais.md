@@ -5,7 +5,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -35,7 +35,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -45,7 +45,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 Provavelmente, seria interessante a sua implementação nos maiores módulos do sistema.
 
 ---
@@ -56,7 +56,7 @@ Provavelmente, seria interessante a sua implementação nos maiores módulos do 
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -66,7 +66,7 @@ Provavelmente, seria interessante a sua implementação nos maiores módulos do 
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 Sim, utilizando a ferramenta [Nginx](https://docs.nginx.com/nginx/).
 
 ---
@@ -77,7 +77,7 @@ Sim, utilizando a ferramenta [Nginx](https://docs.nginx.com/nginx/).
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 

@@ -5,7 +5,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -35,7 +35,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -45,7 +45,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -55,7 +55,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
  -->
@@ -64,9 +64,13 @@
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Object_pool1.png)
 
 ### Estudo viabilidade
+- A maior vantagem do object pool é o aumento de desempenho através do 'caching' de objetos.
+- Interessante de se anialisar caso tenhamos problema de desempenho com a relação partida-jogador-personagem
+- Interessante para casos de factory que precisem de tracking de objetos apos ser criados
 
-### Será implementado
-
+### Implementação
+- Pode valer a pena caso venha a dar problema de desempenho futuro aqui:
+![imsd](../img/diagramas_de_classe/classes_match_v2.png)
 ---
 
 ## Referências:

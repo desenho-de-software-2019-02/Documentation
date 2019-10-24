@@ -5,7 +5,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -35,7 +35,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -45,7 +45,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -55,7 +55,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -65,7 +65,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -85,7 +85,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -95,7 +95,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -105,7 +105,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
@@ -115,7 +115,7 @@
 
 ### Estudo viabilidade
 
-### Será implementado
+### Implementação
 
 ---
 
