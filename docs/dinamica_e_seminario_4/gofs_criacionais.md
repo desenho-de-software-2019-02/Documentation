@@ -1,7 +1,7 @@
 # Análise de viabilidade dos GoFs criacionais
 
 ## Factory method
-![ex_padrao]()
+![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Factory_Method.png)
 
 ### Estudo viabilidade
 
@@ -11,7 +11,7 @@
 
 
 ## Abstract factory
-![ex_padrao]()
+![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Abstract_Factory.png)
 
 ### Estudo viabilidade
 
@@ -21,7 +21,7 @@
 
 
 ## Singleton
-![ex_padrao]()
+![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/singleton1.png)
 
 ### Estudo viabilidade
 
@@ -31,7 +31,7 @@
 
 
 ## Builder
-![ex_padrao]()
+![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Builder.png)
 
 ### Estudo viabilidade
 
@@ -41,7 +41,7 @@
 
 
 ## Prototype
-![ex_padrao]()
+![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Prototype.png)
 
 ### Estudo viabilidade
 
@@ -50,7 +50,7 @@
 ---
 
 
-## Multiton
+<!-- ## Multiton
 ![ex_padrao]()
 
 ### Estudo viabilidade
@@ -58,13 +58,16 @@
 ### Será implementado
 
 ---
-
+ -->
 
 ## Object pool
-![ex_padrao]()
+![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Object_pool1.png)
 
 ### Estudo viabilidade
 
 ### Será implementado
 
 ---
+
+## Referências:
+- Source Making. 2019. Design patterns. [ONLINE] Available at: https://sourcemaking.com/design_patterns/. [Accessed 24 October 2019].
