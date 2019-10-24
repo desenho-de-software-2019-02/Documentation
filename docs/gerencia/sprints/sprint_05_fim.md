@@ -1,6 +1,6 @@
 # Relatório da Sprint 5
 
-###### Período: 04 OUT - 12 OUT de 2019
+###### Período: 04 OUT - 19 OUT de 2019
 
 ------
 
