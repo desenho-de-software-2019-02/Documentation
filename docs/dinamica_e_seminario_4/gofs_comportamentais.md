@@ -4,8 +4,11 @@
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Strategy1.png)
 
 ### Estudo viabilidade
+- Define uma família de algoritmos e os encapsula
+- Pode
 
 ### Implementação
+
 
 ---
 
@@ -24,8 +27,13 @@
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Command.png)
 
 ### Estudo viabilidade
+- Repassa operações recebidas sem saber sobre a mesma.
+- Requisições encapsuladas como objetos.
+- Separação de interfaces
+- Separação de requests por tempo
 
 ### Implementação
+- Sem implementações viáveis no momento
 
 ---
 
@@ -94,8 +102,14 @@
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Chain_of_responsibility__.png)
 
 ### Estudo viabilidade
+- Cria uma cadeia de objetos até chegar no qual a requisição se destina.
+- Interessante para sistemas orientados à middleware.
+- Interessante para tratamento de excessões.
+- Assim como _observer_, _command_ e _mediator_ trabalham com o desacoplamento de receptores e despachantes.
+- Geralmente implementado em conjunto com o _composite_.
 
 ### Implementação
+- Ainda a decidir se será necessário um tratamento de excessões robusto deste nível.
 
 ---
 
