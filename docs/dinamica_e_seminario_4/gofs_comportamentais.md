@@ -103,6 +103,7 @@
 ### Estudo viabilidade
 
 ### Implementação
+- Sem implementações viáveis no momento
 
 ---
 
