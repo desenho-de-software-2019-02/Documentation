@@ -121,3 +121,5 @@
 
 ## Referências:
 - Source Making. 2019. Design patterns. [ONLINE] Available at: https://sourcemaking.com/design_patterns/. [Accessed 24 October 2019].
+
+- 
