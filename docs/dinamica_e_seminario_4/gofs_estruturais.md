@@ -73,7 +73,7 @@
 ### Implementação
 - Frequentemente combinado com o padrão Composite.
 - Remoção dos estados extrínsecos
-- Pode ser aplicado em character, porém pelo fato do custo de armazenamento ser alto opitamos por não implementar esse método.
+- Pode ser aplicado em character, entretanto, como o custo de armazenamento de nossos serviços não é alto, optamos por não implementá-lo.
 
 ---
 
@@ -83,7 +83,7 @@
 ### Estudo viabilidade
 - Fornece um substituto ou espaço reservado para outro objeto para controlar o acesso a ele.
 ### Implementação
-- Sim, utilizando a ferramenta [Nginx](https://docs.nginx.com/nginx/).
+- Utilizando a ferramenta [Nginx](https://docs.nginx.com/nginx/).
 
 ---
 

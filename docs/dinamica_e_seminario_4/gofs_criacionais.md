@@ -10,6 +10,7 @@
 
 ### Implementação
 - Implementação na geração de itens, especialistas ou não.
+- Implementação na geração de skills.
 
 ---
 
@@ -24,7 +25,6 @@
 
 ### Implementação
 - Caso se mostre necessário no futuro, por conta de precisar de maior flexibilidade, substituir o Factory
-- Implementação na geração de skills.
 
 ---
 
@@ -69,6 +69,7 @@
 
 ### Implementação
 - Até o momento, não foram encontrados pontos de implementação.
+
 ---
 
 

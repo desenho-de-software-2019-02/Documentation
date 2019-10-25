@@ -112,9 +112,11 @@
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Memento.png)
 
 ### Estudo viabilidade
-- Possibilidade de voltar uma ação dentro do log
+- Optou-se pela implementação do padrão memento na ficha de personagem, pois esta é constantemente alterada ao longo da partida, torna-se, portanto, interessante permitir que essas alterações possam ser revertidas caso ocorra alguma alteração indesejada ou errônea no decorrer da partida.
+
 ### Implementação
-- Sem implementações viáveis no momento
+- Foi realizada a implementação do padrão de memento na classe character_sheet do serviço de resources.
+
 ---
 
 
@@ -151,4 +153,3 @@
 ## Referências:
 - Source Making. 2019. Design patterns. [ONLINE] Available at: https://sourcemaking.com/design_patterns/. [Accessed 24 October 2019].
 
-- 
