@@ -102,9 +102,9 @@
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Memento.png)
 
 ### Estudo viabilidade
-
+- Possibilidade de voltar uma ação dentro do log
 ### Implementação
-
+- Sem implementações viáveis no momento
 ---
 
 
