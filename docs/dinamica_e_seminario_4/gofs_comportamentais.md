@@ -72,8 +72,12 @@
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Observer.png)
 
 ### Estudo viabilidade
+- Atualiza objetos dependentes de forma automática
+- Compete com mediator
+- Muito bom para dependencias de objetos ou de web-components - Observables no Vue, etc
 
 ### Implementação
+- Era para ser utilizada no sistema de 'Eventos' mas o sistema de eventos não dispara eventos -> É mais um sistema de log/checkpoints
 
 ---
 
@@ -82,8 +86,13 @@
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/State1.png)
 
 ### Estudo viabilidade
+- Permite mudança de comportamento de acordo com mudanças internas
+- Bom pra implementar máquinas de estado
+- Geralmente os objetos são singletons
+- Similar ao strategy, mas a intenção do padrão muda
 
 ### Implementação
+- Talvez seja interessante implementar caso haja dinâmica de turnos
 
 ---
 
@@ -128,20 +137,12 @@
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Null_Object1.png)
 
 ### Estudo viabilidade
+- Impede que se chegue em NULL, gerando um objeto que toma o lugar da referência nula
+- Pode ser usado com Visitor para tratar a situação de null em uma hierarquia
+- Assume o lugar d eum objeto real
 
 ### Implementação
-
----
-
-
-## Visitor
-![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Visitor1.png)
-
-### Estudo viabilidade
-
-
-### Implementação
-
+- Sem implementações viáveis no momento
 
 ---
 
