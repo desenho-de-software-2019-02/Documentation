@@ -5,10 +5,11 @@
 
 ### Estudo viabilidade
 - Define uma família de algoritmos e os encapsula
-- Pode
+- Permite alterações de "implementação" em tempo de execução.
+- Difere do decorator por mudar 'funcionalidade' e não 'aparência'
 
 ### Implementação
-
+- Possível implementação no sistema de dano.
 
 ---
 
@@ -17,8 +18,12 @@
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Template_Method.png)
 
 ### Estudo viabilidade
+- Usa herança para variar partes de algoritmo.
+- Parecido com strategy porém mais granular
+- Interessante para algoritmos que mudam pouco em heranças.
 
 ### Implementação
+- Ainda não foram vistas oportunidades de implementação.
 
 ---
 
@@ -44,6 +49,7 @@
 ### Estudo viabilidade
 
 ### Implementação
+- Sem implementações viáveis no momento
 
 ---
 
@@ -52,8 +58,12 @@
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Mediator___1.png)
 
 ### Estudo viabilidade
+- Interessante para comunicação entre objetos por peers
+- Define comportamentos de um conjunto de objetos em um só objeto
+- É um facade de comunicação de objetos
 
 ### Implementação
+- Sem implementações viáveis no momento
 
 ---
 
@@ -129,9 +139,12 @@
 
 ### Estudo viabilidade
 
+
 ### Implementação
 
+
 ---
+
 
 ## Referências:
 - Source Making. 2019. Design patterns. [ONLINE] Available at: https://sourcemaking.com/design_patterns/. [Accessed 24 October 2019].
