@@ -111,9 +111,9 @@
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Memento.png)
 
 ### Estudo viabilidade
-
+- Possibilidade de voltar uma ação dentro do log
 ### Implementação
-
+- Sem implementações viáveis no momento
 ---
 
 
@@ -149,3 +149,5 @@
 
 ## Referências:
 - Source Making. 2019. Design patterns. [ONLINE] Available at: https://sourcemaking.com/design_patterns/. [Accessed 24 October 2019].
+
+- 
