@@ -45,11 +45,12 @@
 ## Decorator
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Decorator_.png)
 ### Estudo viabilidade
-- Permite adicionar responsabilidades a objetos individuais sem interferir nos outros objetos.
-- Permite que responsabilidades possam ser removidas
+- Deve-se, primeiramente, realizar a distinção entre o design pattern Decorator e os decorators em Python, linguagem utilizada pelo backend do projeto:
+  - Decorator Design Pattern: permite que sejam adicionados comportamentos a objetos dinamicamente, adicionando comportamentos em tempo de execução, sem alterar os demais objetos.
+  - Python Decorators: Decorators implementados em python adicionam funcionalidades a funções em tempo de definição.
+  
 ### Implementação
-- Tem que haver conformidade entre as interfaces
-- Acreditamos que não se aplica para a nossa aplicação.
+- 
 
 ---
 
@@ -57,7 +58,7 @@
 ## Facade
 ![ex_padrao](https://sourcemaking.com/files/v2/content/patterns/Facade1.png)
 ### Estudo viabilidade
-- Fornece uma interface unificada para um conjunto de interfaces em um subsistema
+- Fornece uma interface unificada para um conjunto de interfaces em um subsistema.
 - Fornece uma interface mais simples a um subsistema complexo
 ### Implementação
 - Provavelmente, seria interessante a sua implementação nos maiores módulos do sistema, como por exemplo o character e o matches.
