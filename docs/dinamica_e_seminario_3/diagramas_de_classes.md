@@ -8,8 +8,8 @@
 
 ## Diagrama de classe para Partida
 
-![diagrama de classe para classe ](../img/diagramas_de_classe/UML_partida.png)
-[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_partida.png)
+![diagrama de classe para classe ](../img/diagramas_de_classe/classes_match_v2.png)
+[Visualizar em tamanho maior](../img/diagramas_de_classe/classes_match_v2.png)
 
 
 ## Diagrama de classe para Recursos
@@ -44,7 +44,8 @@
 |19/09/2019|0.6|Atualiza diagrama de recursos|Arthur assis|
 |19/09/2019|1.0|Adicionando diagrama de banco de dados|Lucas Machado|
 |23/09/2019|1.1|Atualizando diagramas|Lucas Machado|
-|04/010/2019|1.2|Links para imagens maiores|André de Sousa|
+|04/10/2019|1.2|Links para imagens maiores|André de Sousa|
+|24/10/2019|1.3|Atualizando diagrama de classes do sistema de partidas com nomenclatura certas|André de Sousa|
 
 
 
