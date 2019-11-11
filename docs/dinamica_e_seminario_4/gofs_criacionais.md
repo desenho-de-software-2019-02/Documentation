@@ -41,7 +41,7 @@
 
 ### Implementação
 - Caso seja implementada uma _facade_ abrangindo o sistema de recursos, ela será implementada como um singleton.
-
+- Teria sido implementado no sistema de batalhas junto à um _facade_, porém foi visto que não seria necessário.
 ---
 
 
@@ -55,6 +55,7 @@
 
 ### Implementação
 - Extremamente viável para a construção de fichas de personagem, onde se muda as informações agregadas, mas o processo se mantém.
+<!-- - Implementação adaptada no sistema de batalha com a criação de turnos. -->
 
 ---
 
