@@ -13,6 +13,8 @@
 | **Autor** | André Bargas |
 | **Data** | 22/08/2019 |
 
+## NFR - Usuabilidade
+
 ![nfr usabilidade](../../img/nfr_usabilidade.png)
 [Visualizar em tamanho maior](../../img/nfr_usabilidade.png)
 

@@ -2,10 +2,10 @@
 
 ## Versão atual
 ![Versão 2](../img/mindmap/mindmapv2.png)
+
 [Visualizar em tamanho maior](../img/mindmap/mindmapv2.png)
 
 ## Versões anteriores
-
 
 | **Objeto** | **Mapa mental** |
 |--|--|
