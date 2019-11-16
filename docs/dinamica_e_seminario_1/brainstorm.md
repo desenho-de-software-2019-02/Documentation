@@ -6,10 +6,22 @@
 O brainstorming é muito utilizado para conseguir gerar um número grande de ideias em um espaço de tempo determinado, e, embora seja usado por muitas pessoas que trabalham diretamente com a criatividade, a aplicação deste método pode ir além disso. É sabido que esse processo é usado em agências de publicidade, agências de comunicação, departamentos de jornalismo e em grandes corporações que precisam constantemente gerar soluções para que o processo de resolução dos problemas seja otimizado e haja um número maior de ideias, o que
 pode acarretar um número maior de soluções criativas. (Osborn,1987, p.206)
 
-## 2. Objetivo
+## 2. Integrantes Participantes
+
+- André de Sousa Costa
+- André Eduardo
+- Arthur Alves Rodrigues
+- Arthur Assis
+- Eduardo Rodrigues Yoshida
+- Guilherme de Lyra
+- João Pedro de Aquino
+- Lucas Machado
+- Mateus Nóbrega
+
+## 3. Objetivo
 Este documento tem por finalidade apresentar os as definições iniciais elicitadas pela técnica de brainstorming. Após a decisão do tema, o resultado foi anotado em post-its e foram colocados em uma mesa como pode ser visto nas imagens abaixo.
 
-## 3. Brainstorming
+## 4. Brainstorming
 
 ![Resultado Brainstorm ](../../img/resultado_brainstorm.jpg)
 
@@ -33,6 +45,10 @@ Com todas essas ideias decidimos organizá-las, e organizamos entre as ideias qu
 ## 4. Conclusão
 
 Dessa forma, é importante focar em cada etapa do Brainstorm, dando atenção à opinião de todos os participantes e prezando pela boa organização realizada pelo mediador, para que o resultado do processo seja enriquecedor e positivo. A utilização desta técnica se mostrou fundamental para as definições iniciais do escopo do projeto, assim como funcionalidades principais.
+
+|   Data   |  Versão  |        Descrição       |          Autor(es)          |
+|:--------:|:--------:|:----------------------:|:---------------------------:|
+| 22/08/2019 |   0.1    | Criação do documento       |   Lucas Machado |
 
 ## 5. Referências
 BRAINSTORMING THAT WORKS. Alex Osborn “brainstorming” – He coined the word. BRAINSTORMING THAT WORKS. Disponível em <http://bit.ly/1uGac2S>. Acesso em: 30 set 2019.
