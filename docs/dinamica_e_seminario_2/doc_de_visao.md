@@ -2,7 +2,6 @@
 
  O projeto consiste em uma solução que visa auxiliar um mestre de uma mesa de Role Playing Game agindo na gerência de uma sessão ou aventura, e de elementos que as envolvem.
 
-
 #### Glossário
 
 | Termo | Sinônimo | Descrição |
@@ -19,6 +18,7 @@
 
 
 ## 1 - Introdução
+
 #### 1.1 Propósito do Documento
 Esse documento delineia a visão do sistema Master of Puppets.
 Os propósitos desse documento são:
@@ -33,11 +33,28 @@ Os propósitos desse documento são:
 O escopo do projeto está limitado ao auxilio de sessões de RPG presenciais.
 
 ## 2 - Constatação do Problema
-| O problema é: | Afetando | Tendo como impacto |
-| ---------- | ----- | ------------------- |
-| O mestre de mesa é responsável pela<li>Administração de fichas de<ul><li>Jogadores</li><li>Monstros</li><li>NPC's</li></ul></li><li>A definição e elaboração de quests</li><li>Manteneção da storyline do jogo</li>O que tende à ser muito burocrático e maçante | A fluidez das sessões, e consistência da própria história. | Sessões demasiadamente longas (por conta da ineficácia instrínseca à gerência das mesmas), que torna-as menos prazerosas; além de, dessa forma, atrapalhar no "agendamento" de outras sessões já que há de se reservar muito tempo para que estas ocorram |
 
-#### Uma solução de sucesso deveria prover ao usuário:
+**O problema é:**
+
+O mestre de mesa é responsável diversas operações dentre elas:
+    <li>Administração de fichas de
+    <ul><li>Jogadores</li>
+    <li>Monstros</li>
+    <li>NPC's</li></ul></li>
+    <li>A definição e elaboração de questões</li>
+    <li>Manteneção da storyline do jogo</li>
+Esses trabalho tendem a dificultar **grande parte do RPG** em si.
+
+**Afeta:**
+
+A fluidez das sessões, e consistência da própria história.
+
+**Tendo como impacto**
+
+Sessões demasiadamente longas (por conta da ineficácia instrínseca à gerência das mesmas), que torna-as menos prazerosas; além de, dessa forma, atrapalhar no "agendamento" de outras sessões já que há de se reservar muito tempo para que estas ocorram
+
+
+### Uma solução de sucesso deveria prover ao usuário:
 * Uma sessão de RPG mais fluída
 * Uma sessão de RPG mais consistente
 
@@ -54,7 +71,9 @@ O escopo do projeto está limitado ao auxilio de sessões de RPG presenciais.
 | **Partidas** | <li>Informações</li><li>Regras</li><li>Jogadores</li><li>Mestre de Mesa</li><li>Eventos</li><li>Personagens</li><li>Estado</li> |
 
 ## 4 - Restrições
+
 #### 4.1 Restrições de Arquitetura/Desenho
+
 ##### 4.1.1 Multiplataformas
 O sistema utilizará as linguagens/ferramentas acordadas pela equipe, incluindo:
 * Python/Flask
@@ -64,6 +83,7 @@ O sistema utilizará as linguagens/ferramentas acordadas pela equipe, incluindo:
 O sistema deve ser multiplataforma e rodar nos navegadores mais comuns: Google Chrome e Mozilla Firefox.
 
 Além disso, deve ser um PWA -- ou seja, se comportar da mesma forma independente de estar sendo utilizado num celular ou num computador.
+
 ##### 4.1.2 Features dispostas como Serviços
 Onde for possível, o sistema será desenvolvido de forma que as features listadas acima estejam dispostas como serviços.
 
@@ -76,6 +96,7 @@ Possíveis riscos para uma implementação de sucesso (mas não limitados a):
 - Impactos na produtividade por conta de fatores externos à disciplina
   
 ## 6 - Stakeholders e Descrição dos Usuários
+
 #### 6.1 Stakeholders
 | Nome | Representa | Papel no Projeto |
 | ---- | ---------- | ---------------- |
@@ -89,7 +110,6 @@ Possíveis riscos para uma implementação de sucesso (mas não limitados a):
 | Mestre de Mesa | Coordenador da Partida | Ficará encarregado de coordenar e manter o jogo. |
 
 ## 7 - Membros do Projeto
-
 | Membro | Responsabilidades | Area Representada |
 | ------ | ---------------- | ----------------- |
 | André Bargas | <li>Evoluir e Manutenir o Software/Sistema</li><li>Gerenciar a Tribo Miranha</li>  | Software e Planejamento |
@@ -103,3 +123,9 @@ Possíveis riscos para uma implementação de sucesso (mas não limitados a):
 | João Pedro de Aquino Corrêa Martins | Evoluir e Manutenir o Software/Sistema | Software |
 | Lucas Machado Martins | Evoluir e Manutenir o Software/Sistema | Software |
 | Mateus Nóbrega | Evoluir e Manutenir o Software/Sistema | Software |
+
+|   Data   |  Versão  |        Descrição       |          Autor(es)          |
+|:--------:|:--------:|:----------------------:|:---------------------------:|
+|18/09/2019| 1.1 | Criação do documento       |   Guilherme de Lyra  |
+|24/09/2019| 1.2 | Revisão e justificativa | Lucas Machado |
+|16/11/2019| 1.3 | Atualizando documento | Eduardo Yoshida |

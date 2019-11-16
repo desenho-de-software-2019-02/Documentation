@@ -2,14 +2,17 @@
 
 ## Histórico de revisões
 
-|   Data   |  Versão  |        Descrição       |          Autor(es)          |
-|:--------:|:--------:|:----------------------:|:---------------------------:|
-|05/09/2019|   0.1    | Criação do documento       |   Gustavo Duarte Moreira  |
+|   Data   |  Versão    |        Descrição           |          Autor(es)               |
+|:--------: | :--------:|:----------------------:    |:---------------------------:     |
+|05/09/2019 |   0.1     | Criação do documento       |   Gustavo Duarte Moreira         |
+|18/09/2019|   0.2      | Adicionando diagramas      |  Andre Filho e Lucas Machado     |
+|16/11/2019|   0.3      | Atualizando o documento    |  Eduardo Yoshida e Lucas Machado |
 
 
 ## 1. Introdução
 
 A notação Business Process Model and Notation (BPMN ou em português *Modelo e Notação de Processos de Negócio*), foi utilizada para descrever o processo de metodologia adotado a escolha do tema, organização do projeto. Por ser padronizada facilita o entendimento as pessoas envolvidas no projeto.
+
 
 ## 2. Business Process Model and Notation
 
@@ -27,6 +30,8 @@ Fluxograma com a notação BPMN para descrever as relacionadas à escolha do tem
 
 Fluxograma com a notação BPMN para descrever as etapas de desenvolvimento do projeto, envolvendo planejamento, desenvolvimento e homologação.
 
+
 ## 3. Referências
 * <http://www.ifbaiano.edu.br/reitoria/wp-content/uploads/2014/06/Curso-Mapeamento-BPMN-Bizagi-Total.pdf> <br>
 * <http://www.sgc.goias.gov.br/upload/arquivos/2017-04/manual-de-modelagem-de-processos-usando-bizagi.pdf>
+
