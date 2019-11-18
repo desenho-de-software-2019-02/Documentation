@@ -10,36 +10,32 @@
 - [Versão 1](../img/diagramas_de_classe/UML_usuario.png)
 
 
----
+ ---
 
 ## Diagrama de classe para Partida
 
 ![diagrama de classe para classe ](../img/diagramas_de_classe/classes_match_v3.png)
-
 [Visualizar em tamanho maior](../img/diagramas_de_classe/classes_match_v3.png)
 
 - [Versão 2](../img/diagramas_de_classe/classes_match_v2.png)
 - [Versão 1](../img/diagramas_de_classe/UML_partida.png)
 
-
----
+ ---
 
 ## Diagrama de classe para Recursos
 
 ![diagrama de classe para classe ](../img/diagramas_de_classe/UML_recursos_V4.png)
-
 [Visualizar em tamanho maior](../img/diagramas_de_classe/UML_recursos_V4.png)
 
 - [Versão 3](../img/diagramas_de_classe/UML_recursos_V3.png)
 - [Versão 2](../img/diagramas_de_classe/UML_recursos_V2.png)
 - [Versão 1](../img/diagramas_de_classe/UML_recursos_V1.png)
 
----
+ ---
 
 <!-- ### Diagrama de classe para Autenticação
 
 ![ Versão 4 ](../img/diagramas_de_classe/UML_autenticacao_4.png)
-
 [Visualizar em tamanho maior](../img/diagramas_de_classe/UML_autenticacao_4.png)
 
 - [ Versão 3 ](../img/diagramas_de_classe/UML_autenticacao_3.png)
@@ -51,9 +47,15 @@
 ### Diagrama de conexão com o banco
 
 ![ Versão 1 ](../img/diagramas_de_classe/UML_database.png)
-
 [Visualizar em tamanho maior](../img/diagramas_de_classe/UML_database.png)
 
+
+### Diagrama de Classe do Sistema de Cálculo de Dano
+
+![ Versão 1 ](../img/diagramas_de_classe/UML_dano.png)
+[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_dano.png)
+
+## Tabela de Versionamento 
 
 |**Data**|**Versão**|**Descrição**|**Autores**|
 |--|--|--|--|
@@ -69,9 +71,8 @@
 | 24/10/2019 | 1.3 | Atualizando diagrama de classes do sistema de partidas com nomenclatura certas | André de Sousa |
 | 11/11/2019 | 1.4 | Atualizando diagrama de classes do sistema de partidas com modelagem de combate | André de Sousa |
 | 11/11/2019 | 1.5 | Adiciona versões passadas dos diagramas de classe | André de Sousa |
-| 18/11/2019 | 1.6 | Adiciona versão | André de Sousa; André Bargas |
-
-
+| 17/11/2019 | 1.6 |Adiciona diagrama de classe do sistema de cálculo de dano|Eduardo Yoshida|
+| 18/11/2019 | 1.7 | Adiciona versão | André de Sousa; André Bargas |
 
 ## Referências
 

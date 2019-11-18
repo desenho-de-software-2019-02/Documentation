@@ -37,6 +37,21 @@ Sugerida por André Eduardo
 
 Sugerida por Guilherme de Lyra
 
+
 ## Conclusão
 
 Após analisar todos os possíveis projetos por maioria de votos e indicações externas, a ideia 2 foi escolhida pela maioria.
+
+##  Integrantes Participantes
+
+- André de Sousa Costa
+- André Eduardo
+- André Bargas 
+- Arthur Alves Rodrigues
+- Arthur Assis
+- Eduardo Rodrigues Yoshida
+- Guilherme de Lyra
+- Gustavo Duarte Moreira
+- João Pedro de Aquino
+- Lucas Machado
+- Mateus Nóbrega

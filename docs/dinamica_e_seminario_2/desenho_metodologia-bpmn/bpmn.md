@@ -12,6 +12,7 @@ Nesta página pode se encontrar os modelos de processo desenvolvidos pelo grupo 
 |**Versões anteriores**| - |
 |**Versão**| 1.0 |
 | **Descrição** | Bpmn divisão de tribos |
+|**Autores**| Lucas Machado <br>Andre Filho|
 | **Data** | 05/08/2019 |
 
 **Modelo de processo - Discução temas**
@@ -24,6 +25,7 @@ Nesta página pode se encontrar os modelos de processo desenvolvidos pelo grupo 
 |**Versões anteriores**| - |
 |**Versão**| 1.0 |
 | **Descrição** | Bpmn discução temas |
+|**Autores**| Todos os membros |
 | **Data** | 03/08/2019 |
 
 
@@ -37,9 +39,10 @@ Nesta página pode se encontrar os modelos de processo desenvolvidos pelo grupo 
 |**Versões anteriores**| - |
 |**Versão**| 1.0 |
 | **Descrição** | Bpmn escolha temas |
+|**Autor**| Arthur Assis |
 | **Data** | 04/08/2019 |
 
-**Modelo de processo - Documentação **
+**Modelo de processo - Documentação**
 
 ![BPMN dinamica 1 ](./../../img/bpmn/bpmn_dinamica1.png)
 [Visualizar em tamanho maior](./../../img/bpmn/bpmn_dinamica1.png)
@@ -49,6 +52,7 @@ Nesta página pode se encontrar os modelos de processo desenvolvidos pelo grupo 
 |**Versões anteriores**| - |
 |**Versão**| 1.0 |
 | **Descrição** | Bpmn documentação |
+|**Autor**| Arthur Assis |
 | **Data** | 04/08/2019 |
 
 
@@ -59,21 +63,9 @@ Nesta página pode se encontrar os modelos de processo desenvolvidos pelo grupo 
 
 |**Objeto**|**BPMN**|
 |--|--|
-|**Versões anteriores**| - |
-|**Versão**| 1.0 |
+|**Versões anteriores**| [1.0 ](./../../img/bpmn/bpmn_sprint.png) |
+|**Versão**| 2.0 |
 | **Descrição** | Bpmn metodologia |
+|**Autores**| Gustavo <br> Arthur Assis |
 | **Data** | 04/08/2019 |
 
-
-
-**Modelo de processo - Metodologia**
-
-![BPMN Sprint ](./../../img/bpmn/bpmn_sprint.png)
-[Visualizar em tamanho maior](./../../img/bpmn/bpmn_sprint.png)
-
-|**Objeto**|**BPMN**|
-|--|--|
-|**Versões anteriores**| - |
-|**Versão**| 1.0 |
-| **Descrição** | Bpmn da Sprint |
-| **Data** | 04/08/2019 |

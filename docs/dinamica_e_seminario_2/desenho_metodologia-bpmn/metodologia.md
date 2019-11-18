@@ -3,12 +3,12 @@
 ## Histórico de revisões
 |   Data   |  Versão  |        Descrição       |          Autor(es)          |
 |:--------:|:--------:|:----------------------:|:---------------------------:|
-|05/09/2019|   0.1    | Iniciando o documento       |   Gustavo Duarte Moreira  |
+|05/09/2019| 0.1 | Criação do documento       |   Gustavo Duarte Moreira  |
 |05/09/2019| 0.2 | Revisão e justificativa | André de Sousa |
 |05/09/2019| 0.3 | Organização geral | André de Sousa |
-|05/09/2019| 1 | Organização tribos e issues | André de Sousa |
+|05/09/2019| 1.0 | Organização tribos e issues | André de Sousa |
 |05/09/2019| 1.1 | Retirando Sumário | Lucas Machado |
-
+|16/11/2019| 1.2 | Atualizando documento | Lucas Machado <br>Eduardo Yoshida |
 
 ## 1. Introdução
 
@@ -27,11 +27,17 @@ O grupo decidiu se organizar em duas equipes de trabalho(tribos), cada uma conta
 No diagrama abaixo, está ilustrado como se dá o processo de trabalho durante uma sprint comum dentro da nossa metodologia. Ele ocorre da seguinte maneira:
 
 1. **Reunião gerencial:** a sprint começa nas **terças-feiras** com uma reunião entre os gerentes, na qual priorizam e decidem quais atividades serão realizadas assim como por quem elas serão realizadas. Desta reunião é gerado o documento de planejamento geral da sprint.
+
 2. **Validação do monitor:** o planejamento poderá ou não ser validado pelo monitor da disciplina, com essa validação (que não é necessária em todas as sprints), se obtém o documento validado de planejamento.
+
 3. **Planejamento da tribo:** este é um planejamento de sprint que ocorrerá internamente à cada uma das tribos, de forma a elas se articularem para o desenvolvimento das atividades. Com isso, cada tribo terá seu próprio planejamento, que será anexado ao planejamento geral de sprint. O planejamento individual de cada tribo visa diminuir a distribuição irregular de carga entre os membros da equipe.
+
 4. **Execução da sprint:** cada tribo executará sua sprint, sendo que *não é obrigatório que ambas sigam os mesmos rituais*, mas sim que criem os seus próprios e que os sigam, conforme eles se mostrem necessários.
+
 5. **Fechamento de sprint das tribos:** neste ponto, ambas as tribos terminam suas atividades e fazem um relatório de final de sprint, a fim de ser usado para compor o fechamento geral de sprint.
+
 6. **Integração:** neste ponto são validadas as submissões das tribos e feita a integração das mesmas. Neste ponto é elaborada a ‘entrega’, já que serviços que funcionam somente separados de nada servem para a solução final. Caso uma submissão não seja integrável, esta ficará como dívida para a próxima sprint.
+
 7. **Fechamento da sprint:** a última parte da sprint é a reunião de fechamento geral da sprint. Nesse documento serão documentados todas as ações e decisões feitas pela equipe ao decorrer da sprint.
 
 ![Metodologia](./../../img/bpmn/bpmn_metodologia.jpg)
@@ -60,7 +66,9 @@ Foram criados 2 perfis de gerência, nos quais foram feitos ‘paralelos’ com 
 >
 > [Fonte](https://www.sohistoria.com.br/ef2/indios/p1.php)
 
-- **Gerente geral (pajé): **opera o escopo macro da aplicação e gerencia ambas as equipes. Responsável por integrar as partes e conduzir a equipe, mitigando quaisquer riscos que venham a acontecer. Tambem é responsável por priorizar as features e monitorar o desempenho das equipes.
+
+- **Gerente geral (pajé):** opera o escopo macro da aplicação e gerencia ambas as equipes. Responsável por integrar as partes e conduzir a equipe, mitigando quaisquer riscos que venham a acontecer. Tambem é responsável por priorizar as features e monitorar o desempenho das equipes.
+
 - **Gerente de tribo (cacique):** coordena os desenvolvedores e trata de problemas internos à sua equipe, junto ao gerente geral, trata das questões de priorização e solução de problemas.
 
 
