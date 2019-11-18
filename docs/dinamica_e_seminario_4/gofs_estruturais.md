@@ -48,9 +48,9 @@
 - Deve-se, primeiramente, realizar a distinção entre o design pattern Decorator e os decorators em Python, linguagem utilizada pelo backend do projeto:
   - Decorator Design Pattern: permite que sejam adicionados comportamentos a objetos dinamicamente, adicionando comportamentos em tempo de execução, sem alterar os demais objetos.
   - Python Decorators: Decorators implementados em python adicionam funcionalidades a funções em tempo de definição.
-  
+
 ### Implementação
-- 
+-
 
 ---
 
@@ -85,6 +85,7 @@
 - Fornece um substituto ou espaço reservado para outro objeto para controlar o acesso a ele.
 ### Implementação
 - Utilizando a ferramenta [Nginx](https://docs.nginx.com/nginx/).
+- Implementação para o deploy em produção.
 
 ---
 

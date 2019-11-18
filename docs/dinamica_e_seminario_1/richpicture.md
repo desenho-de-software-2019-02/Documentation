@@ -32,7 +32,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 |**Versões anteriores**| - |
 |**Versão**| 1.0 |
 |**Autor**|Eduardo Yoshida|
-| **Descrição** | richpicture das ações do jogador |
+| **Descrição** | Richpicture das ações do jogador |
 | **Data** | 20/08/2019 |
 
 
@@ -46,7 +46,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 |**Versões anteriores**| - |
 |**Versão**| 1.0 |
 |**Autor**|Eduardo Yoshida|
-| **Descrição** | richpicture das ações do mestre |
+| **Descrição** | Richpicture das ações do mestre |
 | **Data** | 20/08/2019 |
 
 ### Fluxo de Incio de Jogo
@@ -59,7 +59,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 |**Versões anteriores**| - |
 |**Versão**| 1.0 |
 |**Autor**|Andre Bargas|
-| **Descrição** | richpicture do fluxo de ações para inicio da campanha |
+| **Descrição** | Richpicture do fluxo de ações para inicio da campanha |
 | **Data** | 20/08/2019 |
 
 ## Rich Pictures Individuais
@@ -76,6 +76,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 | **Descrição** | richpicture da aplicação **Master of Puppets** |
 | **Data** | 20/08/2019 |
 
+---
 
 ![rich picture andre filho v1](../img/rich_pictures/rich_picture_individual_andre_filho.jpg)
 [Visualizar em tamanho maior](../img/rich_pictures/rich_picture_individual_andre_filho.jpg)
@@ -87,6 +88,8 @@ O principal objetivo de realizar esses richpictures é identificar:
 |**Autor**|Andre de Sousa|
 | **Descrição** | richpicture da aplicação **Master of Puppets** |
 | **Data** | 20/08/2019 |
+
+---
 
 <!-- adicionado no repositório dia 31 ago, sry -->
 
@@ -101,6 +104,8 @@ O principal objetivo de realizar esses richpictures é identificar:
 | **Descrição** | richpicture da aplicação **Master of Puppets** |
 | **Data** | 20/08/2019 |
 
+---
+
 ![rich picture Gustavo v1](../img/rich_pictures/rich_picture_individual_gustavo.png)
 [Visualizar em tamanho maior](../img/rich_pictures/rich_picture_individual_gustavo.png)
 
@@ -109,9 +114,10 @@ O principal objetivo de realizar esses richpictures é identificar:
 |**Versões anteriores**| - |
 |**Versão**| 1.0 |
 |**Autor**|Gustavo Moreira|
-| **Descrição** | richpicture visão da aplicação a partir do mestre de RPG **Master of Puppets** |
+| **Descrição** | Richpicture visão da aplicação a partir do mestre de RPG **Master of Puppets** |
 | **Data** | 20/08/2019 |
 
+---
 
 ![rich picture Arthur Assis v1](../img/rich_pictures/rich_picture_individual_arthur_assis.png)
 [Visualizar em tamanho maior](../img/rich_pictures/rich_picture_individual_arthur_assis.png)
@@ -121,9 +127,10 @@ O principal objetivo de realizar esses richpictures é identificar:
 |**Versões anteriores**| - |
 |**Versão**| 1.0 |
 |**Autor**|Andre Bargas|
-| **Descrição** | richpicture da aplicação **Master of Puppets** |
+| **Descrição** | Richpicture da aplicação **Master of Puppets** |
 | **Data** | 20/08/2019 |
 
+---
 
 ![rich picture Lucas V1 ](../img/rich_pictures/rich_picture_rpg.png)
 [Visualizar em tamanho maior](../img/rich_pictures/rich_picture_rpg.png)
@@ -133,9 +140,10 @@ O principal objetivo de realizar esses richpictures é identificar:
 |**Versões anteriores**| - |
 |**Versão**| 1.0 |
 |**Autor**|Lucas Machado|
-| **Descrição** | richpicture da aplicação **Master of Puppets** |
+| **Descrição** | Richpicture da aplicação **Master of Puppets** |
 | **Data** | 21/08/2019 |
 
+---
 
 ![rich picture ](../img/rich_pictures/richpicture_concorrencia.png)
 [Visualizar em tamanho maior](../img/rich_pictures/richpicture_concorrencia.png)
@@ -145,7 +153,7 @@ O principal objetivo de realizar esses richpictures é identificar:
 |**Versões anteriores**| - |
 |**Versão**| 1.0 |
 |**Autor**|João Pedro|
-| **Descrição** | richpicture da concorrência **Master of Puppets** |
+| **Descrição** | Richpicture da concorrência **Master of Puppets** |
 | **Data** | 22/08/2019 |
 
 

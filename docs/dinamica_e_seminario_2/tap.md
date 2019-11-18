@@ -1,10 +1,11 @@
 ## **Termo de Abertura de Projeto**
 
-
 ## 1. Introdução
+
 O presente documento tem como objetivo formalizar o início do projeto Master of Puppets, descrevendo o planejamento inicial de riscos, tempo e restrições. Assim como expor os objetivos do projeto e problemas que motivaram sua criação.
 
 ## 2. Termos e Definições
+
 | Termo               | Descrição                                                                                                                       |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | Aventura            | Uma história criada pelo mestre, contendo um desafio a ser solucionado pelos jogadores.                                         |
@@ -52,6 +53,7 @@ Para solucionar esse problema, propõe-se o Master of Puppets, uma aplicação q
 
 ## 8. Custos Estimados do Projeto
 ### 8.1 Custos de Ferramentas
+
 | Ferramenta                 | Finalidade                        | Custo                           |
 |----------------------------|-----------------------------------|---------------------------------|
 | Slack                      | Comunicação da equipe             |  R$ 0                           |
@@ -62,6 +64,7 @@ Para solucionar esse problema, propõe-se o Master of Puppets, uma aplicação q
 \* Preço estimado por pesquisa realizada em 04/09/2019 considerando as seguintes características: Processador Core i5, memória RAM de 8GB
 
 ### 8.2 Custos com Recursos Humanos
+
 | Cargo                     | Salário 160h mensais | Salário Hora | Custo Mensal*                  |
 |---------------------------|----------------------|--------------|-------------------------------|
 | Desenvolvedor Júnior      | R$ 3.250,00          | R$ 20,30     | R$ 649,92 * 10 = R$ 6.499,20  |
@@ -69,12 +72,14 @@ Para solucionar esse problema, propõe-se o Master of Puppets, uma aplicação q
 \* Os cálculos foram realizados considerando uma dedicação de 8 horas semanais por cada membro a disciplina, considerando reuniões, tempo gasto com desenvolvimento, gerencia, etc.
 
 ### 8.3 Custos Totais
+
 | Descrição        | Valor*       |
 |------------------|--------------|
 | Recursos Humanos | R$ 7.799,20 * 3 = R$ 23,397,60 |
 | Ferramentas      | R$ 24.200,00 |
 | Total            | R$ 47,797,60 |
 \* Estimando a duração do projeto em 3 meses(Entre o início de Setembro e fim de Novembro)
+
 ## 9. Cronograma de Marcos
 
 * Definição de todos os requisitos
@@ -83,6 +88,7 @@ Para solucionar esse problema, propõe-se o Master of Puppets, uma aplicação q
 * Entrega do do projeto completo
 
 ## 10. Lista das Partes Interessadas
+
 * Equipe: alunos do curso de Engenharia de Software da Universidade de Brasília(UnB) cursando a disciplina de Arquitetura e Desenho de Software que serão responsáveis pelo desenvolvimento da aplicação.
 
     * André Bargas
@@ -110,3 +116,12 @@ Para solucionar esse problema, propõe-se o Master of Puppets, uma aplicação q
 |**Autores**|Lucas Machado<br>Eduardo Yoshida|
 | **Descrição** | Criação do termo de abertura de projeto **Master of Puppets** |
 | **Data** | 01/09/2019 |
+
+
+|   Data   |  Versão  |        Descrição       |          Autor(es)          |
+|:--------:|:--------:|:----------------------:|:---------------------------:|
+|28/08/2019| 1.1 | Criação do documento       |    Lucas Machado |
+|29/09/2019| 1.2 | Preenchendo lacunas | Lucas Machado |
+|01/09/2019| 1.3 | Preenchendo lacunas | Eduardo Yoshida |
+|01/09/2019| 1.4 | Preenchendo lacunas | Lucas Machado |
+|16/11/2019| 1.3 | Atualizando documento | Lucas Machado <br>Eduardo Yoshida |
