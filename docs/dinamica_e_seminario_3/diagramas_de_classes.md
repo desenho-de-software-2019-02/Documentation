@@ -52,8 +52,8 @@
 
 ### Diagrama de Classe do Sistema de Cálculo de Dano
 
-![ Versão 1 ](../img/diagramas_de_classe/UML_dano.png)
-[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_dano.png)
+![ Versão 2 ](../img/diagramas_de_classe/UML_dano_2.png)
+[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_dano_2.png)
 
 ## Tabela de Versionamento 
 
@@ -73,6 +73,7 @@
 | 11/11/2019 | 1.5 | Adiciona versões passadas dos diagramas de classe | André de Sousa |
 | 17/11/2019 | 1.6 |Adiciona diagrama de classe do sistema de cálculo de dano|Eduardo Yoshida|
 | 18/11/2019 | 1.7 | Adiciona versão | André de Sousa; André Bargas |
+| 18/11/2019 | 1.8 | Atualiza diagrama de classe do sistema de cálculo de dano | Eduardo Yoshida |
 
 ## Referências
 
