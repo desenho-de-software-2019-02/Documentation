@@ -118,9 +118,12 @@ Na camada de persistencia foi escolhido o banco de dados NoSQL MongoDB. Esta fer
 
 ### 5.1 Visão Geral do Arquitetura
 
-![Diagrama Visão geral da arquitetura](../img/doc_arquitetura/visao_geral_arquitetura.png)
-[Visualizar em tamanho maior](../img/doc_arquitetura/visao_geral_arquitetura.png)
+![Diagrama Visão geral da arquitetura](../img/diagrama_arquitetura/arquitetura_mop.png)
 
+[Visualizar em tamanho maior](../img/diagrama_arquitetura/arquitetura_mop.png)
+
+Versões passadas:
+- [Versão 01](../img/doc_arquitetura/visao_geral_arquitetura.png)
 
 ### 5.2 Serviços
 
