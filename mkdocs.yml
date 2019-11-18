@@ -3,16 +3,19 @@ site_description: Repositório da disciplina de Desenho de software
 repo_url: https://github.com/desenho-de-software-2019-02/Documentation
 site_dir: site
 dev_addr: ‘0.0.0.0:8000
+extra_css:
+- 'stylesheets/extra.css'
 theme:
   name: 'material'
-#  logo: '<a href="https://imgur.com/Y0SLT7T"><img src="https://i.imgur.com/Y0SLT7T.png?1" title="source: imgur.com"  width="70" height="50" /></a>'
-#  favicon: 'img/dados_verdes.png'
+
   palette:
-    primary: 'Blue Grey'
-  language: 'pt'
+    primary: indigo
+    accent: red
+    language: 'pt'
 
 plugins:
   - search
+
 page:
 - Home: 'docs/index.md'
 

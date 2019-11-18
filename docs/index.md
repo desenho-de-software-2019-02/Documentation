@@ -1,6 +1,11 @@
 # Master of Puppets
+<div style="margin-left: auto; margin-right: auto; width: 200px">
+<figure>
+  <p><img src="logo-mini-md.png">
+</figure>
+</div>
 
- Repositório do projeto Master of Puppets, desenvolvido na matéria Desenho e Arquitetura de Software, ministrada pela Universidade de Brasília campus Gama (UNB Fga).
+Repositório do projeto Master of Puppets, desenvolvido na matéria Desenho e Arquitetura de Software, ministrada pela Universidade de Brasília campus Gama (UNB Fga).
 
 ## Equipe
 
@@ -23,7 +28,6 @@
 
 
 ## Módulos
-
 - [Documento de Arquitetura](./geral/arquitetura.md)
 - [Documentos de gerência](./gerencia/index.md)
 - [Metodologia](./dinamica_e_seminario_2/desenho_metodologia-bpmn/metodologia.md)
