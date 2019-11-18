@@ -23,16 +23,19 @@ O presente documento faz o detalhamento e descrição de características da arq
 ## 2. Estilos Arquiteturais
 
 ### 2.1 Micro serviços
-Nosso sistema é modelado usando a arquitetura orientada a microsserviços. Escolhemos essa arquitetura por conta da facilidade de dividir os serviços entre os membros do grupo e a reusabilidade que essa arquitetura provê. Os microsserviços previstos na arquitetura são:
+### 2.1 Serviços
+Nosso sistema é modelado usando a arquitetura orientada a serviços. Escolhemos essa arquitetura por conta da facilidade de dividir os serviços entre os membros do grupo e a reusabilidade que essa arquitetura provê. Os microsserviços previstos na arquitetura são:
 
 * Serviço de recursos
 * Serviço de partidas
 * Serviço de gerência de usuários
 * Serviço de autenticação
 
+<!-- Cada serviço possui a capacidade de manter funcionalidades do seu escopo com a queda ou indisponibilidade de outros serviços, a menos que exista uma dependência muito grande. -->
+
 ## 3. Padrões de projeto
 
-### 3.1 MVC
+### 3.1 Model View Controller
 
 Cada um dos serviços será construído com a arquitetura interna no padrão MVC. No padrão MVC clássico, a aplicação é dividida em três principais componentes interconectados, sendo esses:
 
@@ -40,7 +43,53 @@ Cada um dos serviços será construído com a arquitetura interna no padrão MVC
 
 * View: é responsável pela interação com o usuário, definindo também quais são as regras de experiências de usuário desejadas. É importante ressaltar que a view possui comunicação somente com a camada Controller.
 
-* Controller: efetua a comunicação entre a Model e a View. Nessa camada são explicitadas as regras comerciais referentes a manipulação do sistema. Em resumo, é responsável por acessar os dados providos pela Model, manipulá-los e serví-los a camada View
+* Controller: efetua a comunicação entre a Model e a View. Nessa camada são explicitadas as regras comerciais referentes a manipulação do sistema. Em resumo, é responsável por acessar os dados providos pela Model, manipulá-los e serví-los a camada View.
+
+### 3.2 Proxy
+
+Nossa arquitetura prevê a existência de uma camada de proxy para a disponibilização das informações dos serviços.
+Essa camada é implementada no servidor por meio da ferramenta NGINX, presente na ferramenta de orquestrador de serviços Rancher. Falaremos com mais detalhes sobre os padrões usados nas ferramentas mais a frente.
+
+### 3.3 Singleton no banco de dados
+
+A comunicação com o banco de dados é feita a partir de um singleton criado pela biblioteca mongoengine.
+
+```python
+mongoengine.connect(
+  db='mop',
+  host='mongodb://mongo_main:27017/mop',
+  alias='campaigns_connection'
+)
+```
+
+### 3.4 Factory method
+
+A criação de `itens` e `skills` dentro do sistema é feita a partir da aplicação do padrão factory method.
+
+<!-- colocar trecho de código/diagrama -->
+
+### 3.5 Memento
+
+
+### 3.6 Padrões de projetos identificados nas ferramentas usadas
+#### 3.6.1 Flask micro-framework
+
+Foram identificados os seguintes padrões na ferramenta Flask:
+
+- Singleton: A instância da aplicação `Flask.app()` é um singleton.
+
+#### 3.6.2 Rancher
+
+- Kubernetes:
+
+#### 3.6.3 Mongo
+
+
+#### 3.6.4 NGINX
+
+- Proxy:
+- Proxy reverso:
+
 
 
 ## 4. Metas e restrições
@@ -93,8 +142,8 @@ Fica a cargo desse serviço o gerenciamento dos dados dos usuários dentro da ap
 Este serviço é responsável por autenticar usuários e aplicações que desejam acessar recursos protegidos. Está autenticação será feita pelo padrão OAuth2.
 
 
-## 6. Visão de Dados
+<!-- ## 6. Visão de Dados
 
 ## 7. Visão de Implantação
 
-## 8. Visão de Implementação
+## 8. Visão de Implementação -->
