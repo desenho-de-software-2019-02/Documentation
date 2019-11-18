@@ -2054,10 +2054,11 @@
 <li>Define uma família de algoritmos e os encapsula</li>
 <li>Permite alterações de "implementação" em tempo de execução.</li>
 <li>Difere do decorator por mudar 'funcionalidade' e não 'aparência'</li>
+<li>Apresenta-se viável sua utilização no sistema de dano pois é necessário que um mesmo sistema trate danos de diferentes fontes(itens, skills ou ataques básicos),sendo a execução realizada de formas diferentes.</li>
 </ul>
 <h3 id="implementacao">Implementação</h3>
 <ul>
-<li>Possível implementação no sistema de dano.</li>
+<li>Implementação realizada no sistema de dano.</li>
 </ul>
 <hr />
 <h2 id="template-method">Template method</h2>
@@ -2163,6 +2164,7 @@
 <li>Interessante para tratamento de excessões.</li>
 <li>Assim como <em>observer</em>, <em>command</em> e <em>mediator</em> trabalham com o desacoplamento de receptores e despachantes.</li>
 <li>Geralmente implementado em conjunto com o <em>composite</em>.</li>
+<li>Implementação possível no sistema de dano, pois o sistema de dano se divide em etapas, para cálculo do dano e para execução do dano sobre a ficha de usuário, desta forma torna-se possível a divisão de tais etapas em Handlers que passam o objeto da requisição entre si.</li>
 </ul>
 <h3 id="implementacao_9">Implementação</h3>
 <ul>
