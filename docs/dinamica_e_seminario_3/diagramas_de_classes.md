@@ -24,9 +24,10 @@
 
 ## Diagrama de classe para Recursos
 
-![diagrama de classe para classe ](../img/diagramas_de_classe/UML_recursos_V4.png)
-[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_recursos_V4.png)
+![diagrama de classe para classe ](../img/diagramas_de_classe/UML_recursos_V5.png)
+[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_recursos_V5.png)
 
+- [Versão 4](../img/diagramas_de_classe/UML_recursos_V4.png)
 - [Versão 3](../img/diagramas_de_classe/UML_recursos_V3.png)
 - [Versão 2](../img/diagramas_de_classe/UML_recursos_V2.png)
 - [Versão 1](../img/diagramas_de_classe/UML_recursos_V1.png)
@@ -74,6 +75,7 @@
 | 17/11/2019 | 1.6 |Adiciona diagrama de classe do sistema de cálculo de dano|Eduardo Yoshida|
 | 18/11/2019 | 1.7 | Adiciona versão | André de Sousa; André Bargas |
 | 18/11/2019 | 1.8 | Atualiza diagrama de classe do sistema de cálculo de dano | Eduardo Yoshida |
+| 18/11/2019 | 1.9 | Atualização diagrama de classe dos recursos | Mateus Nóbrega, André Bargas e André Filho |
 
 ## Referências
 
