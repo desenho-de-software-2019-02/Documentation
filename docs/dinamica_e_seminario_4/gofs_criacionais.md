@@ -9,9 +9,9 @@
 - Criação por **herança**.
 
 ### Implementação
-- Implementação na geração de itens, especialistas ou não.
-- Implementação na geração de skills.
-
+- [Implementação na geração de itens, especialistas ou não](https://github.com/desenho-de-software-2019-02/master_of_puppets/blob/5e339a62f04235470b5e23f21c5e56a723c6085c/services/resources/models/item.py#L7).
+- [ Implementação na geração de skills](https://github.com/desenho-de-software-2019-02/master_of_puppets/blob/5e339a62f04235470b5e23f21c5e56a723c6085c/services/resources/models/skill.py#L5
+).
 ---
 
 

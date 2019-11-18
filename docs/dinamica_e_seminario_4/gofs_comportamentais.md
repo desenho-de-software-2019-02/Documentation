@@ -7,9 +7,9 @@
 - Define uma família de algoritmos e os encapsula
 - Permite alterações de "implementação" em tempo de execução.
 - Difere do decorator por mudar 'funcionalidade' e não 'aparência'
-
+- Apresenta-se viável sua utilização no sistema de dano pois é necessário que um mesmo sistema trate danos de diferentes fontes(itens, skills ou ataques básicos),sendo a execução realizada de formas diferentes.
 ### Implementação
-- Possível implementação no sistema de dano.
+- Implementação realizada no sistema de dano.
 
 ---
 
@@ -129,6 +129,7 @@
 - Interessante para tratamento de excessões.
 - Assim como _observer_, _command_ e _mediator_ trabalham com o desacoplamento de receptores e despachantes.
 - Geralmente implementado em conjunto com o _composite_.
+- Implementação possível no sistema de dano, pois o sistema de dano se divide em etapas, para cálculo do dano e para execução do dano sobre a ficha de usuário, desta forma torna-se possível a divisão de tais etapas em Handlers que passam o objeto da requisição entre si.
 
 ### Implementação
 - Ainda a decidir se será necessário um tratamento de excessões robusto deste nível.

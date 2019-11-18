@@ -47,6 +47,11 @@
 [Visualizar em tamanho maior](../img/diagramas_de_classe/UML_database.png)
 
 
+### Diagrama de Classe do Sistema de Cálculo de Dano
+
+![ Versão 1 ](../img/diagramas_de_classe/UML_dano.png)
+[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_dano.png)
+
 ## Tabela de Versionamento 
 
 |**Data**|**Versão**|**Descrição**|**Autores**|
@@ -63,6 +68,7 @@
 | 24/10/2019 | 1.3 | Atualizando diagrama de classes do sistema de partidas com nomenclatura certas | André de Sousa |
 | 11/11/2019 | 1.4 | Atualizando diagrama de classes do sistema de partidas com modelagem de combate | André de Sousa |
 | 11/11/2019 | 1.5 | Adiciona versões passadas dos diagramas de classe | André de Sousa |
+| 17/11/2019 | 1.6 |Adiciona diagrama de classe do sistema de cálculo de dano|Eduardo Yoshida|
 
 ## Referências
 
