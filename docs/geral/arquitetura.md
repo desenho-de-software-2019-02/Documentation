@@ -90,6 +90,12 @@ Foram identificados os seguintes padrões na ferramenta Flask:
 - Proxy:
 - Proxy reverso:
 
+#### 3.6.5 Rails API
+
+- Active Record:
+- Rails API MVC: adaptação feita no Rails do padrão MVC, possuindo apenas as camadas
+de __Model__ e __Controller__.
+
 
 
 ## 4. Metas e restrições
