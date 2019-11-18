@@ -48,7 +48,7 @@ Cada um dos serviços será construído com a arquitetura interna no padrão MVC
 ### 3.2 Proxy
 
 Nossa arquitetura prevê a existência de uma camada de proxy para a disponibilização das informações dos serviços.
-Essa camada é implementada no servidor por meio da ferramenta NGINX, presente na ferramenta de orquestrador de serviços Rancher. Falaremos com mais detalhes sobre os padrões usados nas ferramentas mais a frente.
+Essa camada é implementada no servidor por meio da ferramenta NGINX, implementado através de um *plug-in* da ferramente de  orquestramento de serviços Rancher. Falaremos com mais detalhes sobre os padrões usados nas ferramentas mais a frente.
 
 ### 3.3 Singleton no banco de dados
 
@@ -62,9 +62,19 @@ mongoengine.connect(
 )
 ```
 
-### 3.4 Factory method
+Se o usuário tentar realizar essa chamada em outro lugar, a biblioteca soltará uma exceção.
 
-A criação de `itens` e `skills` dentro do sistema é feita a partir da aplicação do padrão factory method.
+### 3.4 Factory Method
+
+A criação de objetos do tipo `Item` ou `Skill` dentro do sistema é feita a partir da aplicação do padrão Factory Method. Esse método é chamado quando o usuário faz uma requisição para criar um objeto e retorna o tipo esperado baseado nos campos que o usuário passar. Abaixo um exemplo de como o *ItemFactory* funciona:
+
+Se os campos padrões forem passados, ele retornará um `CommonItem`, como demonstrado:
+
+![](../img/doc_arquitetura/exemplo_commonitem.png)
+
+Mas se os campos necessários para se criar um `Weapon` forem passados, ele retornará um `Weapon`.
+
+![](../img/doc_arquitetura/exemplo_weapon.png)
 
 <!-- colocar trecho de código/diagrama -->
 
