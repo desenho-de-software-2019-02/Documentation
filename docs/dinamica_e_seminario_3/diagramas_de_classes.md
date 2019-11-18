@@ -34,6 +34,12 @@
 [Visualizar em tamanho maior](../img/diagramas_de_classe/UML_database.png)
 
 
+### Diagrama de Classe do Sistema de Cálculo de Dano
+
+![ Versão 1 ](../img/diagramas_de_classe/UML_dano.png)
+[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_dano.png)
+
+
 |**Data**|**Versão**|**Descrição**|**Autores**|
 |--|--|--|--|
 |15/09/2019|0.1|Criação Documentos|Lucas Machado|
@@ -46,7 +52,7 @@
 |23/09/2019|1.1|Atualizando diagramas|Lucas Machado|
 |04/10/2019|1.2|Links para imagens maiores|André de Sousa|
 |24/10/2019|1.3|Atualizando diagrama de classes do sistema de partidas com nomenclatura certas|André de Sousa|
-
+|17/11/2019|1.4|Adiciona diagrama de classe do sistema de cálculo de dano|Eduardo Yoshida|
 
 
 ## Referências
