@@ -1,11 +1,12 @@
 # Diagramas de classe
 
-## Diagrama de classe para Usuário
+## Diagrama de classe para Usuário e Autenticação
 
-![diagrama de classe para classe ](../img/diagramas_de_classe/UML_usuario_V2.png)
+![diagrama de classe para classe ](../img/diagramas_de_classe/class_users_auth_v3.png)
 
-[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_usuario_V2.png)
+[Visualizar em tamanho maior](../img/diagramas_de_classe/class_users_auth_v3.png)
 
+- [Versão 2](../img/diagramas_de_classe/UML_usuario_V2.png)
 - [Versão 1](../img/diagramas_de_classe/UML_usuario.png)
 
 
@@ -35,7 +36,7 @@
 
 ---
 
-### Diagrama de classe para Autenticação
+<!-- ### Diagrama de classe para Autenticação
 
 ![ Versão 4 ](../img/diagramas_de_classe/UML_autenticacao_4.png)
 
@@ -45,7 +46,7 @@
 - [ Versão 2 ](../img/diagramas_de_classe/UML_autenticacao_2.png)
 - [ Versão 1 ](../img/diagramas_de_classe/UML_autenticacao.png)
 
----
+--- -->
 
 ### Diagrama de conexão com o banco
 
@@ -68,6 +69,7 @@
 | 24/10/2019 | 1.3 | Atualizando diagrama de classes do sistema de partidas com nomenclatura certas | André de Sousa |
 | 11/11/2019 | 1.4 | Atualizando diagrama de classes do sistema de partidas com modelagem de combate | André de Sousa |
 | 11/11/2019 | 1.5 | Adiciona versões passadas dos diagramas de classe | André de Sousa |
+| 18/11/2019 | 1.6 | Adiciona versão | André de Sousa; André Bargas |
 
 
 
