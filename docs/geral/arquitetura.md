@@ -80,6 +80,13 @@ Mas se os campos necessários para se criar um `Weapon` forem passados, ele reto
 
 ### 3.5 Memento
 
+### 3.6 Observer e Mediator
+
+O mongoengine providencia por padrão um sistema de sinais dentro do sistema de documentos, que quando ele detecta que é feita uma inserção ou remoção, ele emite um sinal e permite que você conecte esse sinal a uma função desejada. Como o sistema de eventos não fica no serviço de recursos, foi criado um mediador chamado `SignalHandler` que fica responsável por mandar todos os sinais emitidos pelas classes do serviço de recursos para o serviço de campanhas.
+
+### 3.7 Adapter
+
+Um problema enfrentado pela equipe foi o fato do mongoengine não disponibilizar uma interface para nós conectarmos uma função no caso de um objeto ser atualizado. O modo que nós encontramos para resolver esse problema foi criar uma classe abstrata chamada `BaseDocument` que sobrescreve o método que atualiza os dados de uma classe e faz a comunicação com o `SignalHandler`, citado anteriormente.
 
 ### 3.6 Padrões de projetos identificados nas ferramentas usadas
 #### 3.6.1 Flask micro-framework
@@ -102,11 +109,16 @@ Foram identificados os seguintes padrões na ferramenta Flask:
 
 #### 3.6.5 Rails API
 
-- Active Record:
-- Rails API MVC: adaptação feita no Rails do padrão MVC, possuindo apenas as camadas
-de __Model__ e __Controller__.
+##### 3.6.5.1 Active Record
+É um padrão que define uma implementação de uma tabela de
+banco de dados como uma classe. É um padrão usado por default no RoR quando iniciado com bancos de dados relacionais.
 
+##### 3.6.5.2 Adaptação do Rails API para MVC
+Adaptação feita no Rails do padrão MVC, possuindo apenas
+as camadas de __Model__ e __Controller__. Já que a manipulação de tipos no retorno das controllers para formatos comuns, como JSON e XML são feitos por um simples comando de `render :formato_escolhido`, anulando a necessidade de se implementar uma camada de serializer ou view para isso.
 
+##### 3.6.5.3 Builder e facade
+O comando `rails generate` chamado pela CLI do ruby é capaz de criar arquivos, migrações e até o stack MVC com CRUD completo de algo.
 
 ## 4. Metas e restrições
 
