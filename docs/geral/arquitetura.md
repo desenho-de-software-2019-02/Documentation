@@ -161,8 +161,44 @@ Fica a cargo desse serviço o gerenciamento dos dados dos usuários dentro da ap
 Este serviço é responsável por autenticar usuários e aplicações que desejam acessar recursos protegidos. Está autenticação será feita pelo padrão OAuth2.
 
 
-<!-- ## 6. Visão de Dados
-
+<!-- ## 6. Visão de Dados -->
 ## 7. Visão de Implantação
 
-## 8. Visão de Implementação -->
+Tendo em vista a arquitetura orientada a serviços adotada no projeto, a equipe adotou a estratégia de containerizar os serviços, com o intuito de isolar os ambientes, bem como facilitar a configuração do ambiante de deploy, para tal foram utilizadas as seguintes ferramentas:
+
+ - [docker](https://www.docker.com/)
+ - [kubernetes](https://kubernetes.io/)
+ - [rancher](https://rancher.com/)
+
+### 7.1 Rancher
+
+Rancher é uma ferramenta que é implementada com base no kubernetes, com o intuito de ser uma interface mais intuitiva e prover plugins que facilitem o deploy, orquestramento e monitoramento das aplicações. 
+
+Foi adotada a ideia de separar o projeto em *namespaces* onde foi criado um *namespace* para cada serviço, cada *namespace* cria uma subrede agrupando os componentes de um serviço e os isolando do resto. 
+
+### 7.1.1 Registry
+
+Nossa equipe subiu um registry próprio dentro do servidor que nós estamos utilizando para versionar as imagens dos serviços, facilitar o pipeline de deploy contínuo e garantir uma independencia do serviço de terceiros.
+
+### 7.1.2 Load Balancer
+
+Para lidar com a ideia de clusters de containers, o rancher utiliza um plugin que redireciona as requisições para o nó mais ocioso. Todos os serviços e seus bancos de dados foram colocados em produção em clusters de containers.
+
+
+### 7.1.3 Ingress
+
+Todos os *namespaces* possuem um ingress, que é responsavel por realizar o proxy reverso do host destinado ao serviço e atribuir o certificado TLL.
+
+
+### 7.1.4 Deploy Contínuo
+
+O deploy contínuo é feito utilizando um plugin Jenkins do rancher, que irá monitorar o repositorio conforme configurado no arquivo [.rancherpipeline.yml](https://github.com/desenho-de-software-2019-02/master_of_puppets/tree/rancher-deploy). Esse arquivo configura *runners* que fazem o update das imagens dos serviços e o deploy das mesmas.
+
+
+### 7.1.5 Diagrama de Implantação
+
+![Diagram de Implantação](../img/diagramas_de_classe/implantacao_v1.png)
+
+[Diagram de Implantação](../img/diagramas_de_classe/implantacao_v1.png)
+
+<!-- ## 8. Visão de Implementação -->
