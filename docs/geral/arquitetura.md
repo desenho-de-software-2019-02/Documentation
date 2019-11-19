@@ -109,11 +109,16 @@ Foram identificados os seguintes padrões na ferramenta Flask:
 
 #### 3.6.5 Rails API
 
-- Active Record:
-- Rails API MVC: adaptação feita no Rails do padrão MVC, possuindo apenas as camadas
-de __Model__ e __Controller__.
+##### 3.6.5.1 Active Record
+É um padrão que define uma implementação de uma tabela de
+banco de dados como uma classe. É um padrão usado por default no RoR quando iniciado com bancos de dados relacionais.
 
+##### 3.6.5.2 Adaptação do Rails API para MVC
+Adaptação feita no Rails do padrão MVC, possuindo apenas
+as camadas de __Model__ e __Controller__. Já que a manipulação de tipos no retorno das controllers para formatos comuns, como JSON e XML são feitos por um simples comando de `render :formato_escolhido`, anulando a necessidade de se implementar uma camada de serializer ou view para isso.
 
+##### 3.6.5.3 Builder e facade
+O comando `rails generate` chamado pela CLI do ruby é capaz de criar arquivos, migrações e até o stack MVC com CRUD completo de algo.
 
 ## 4. Metas e restrições
 
