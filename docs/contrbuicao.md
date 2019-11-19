@@ -43,12 +43,11 @@ O histórico de commit da equipe não representa o real trabalho que ocorreu ao 
 
 <img src="https://github.com/lmmLucasMachado/Doc/blob/master/pulse_codigo.png?raw=true">
 
+Por circunstancias externas alguns commits feitos pelo membro do Andre Bargas possui 25 commits no quadro de commit
 
 ## Repositório da Wiki
 
 ### [Wiki](https://desenho-de-software-2019-02.github.io/Documentation/)
-
-
 
 ## Repositórios do Backend
 
