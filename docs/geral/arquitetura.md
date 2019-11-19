@@ -80,6 +80,87 @@ Mas se os campos necessários para se criar um `Weapon` forem passados, ele reto
 
 ### 3.5 Memento
 
+Foi implementado o padrão de projeto memento na classe de *CharacterSheet* do serviço de recurso, onde o classe *Character* do serviço de campanha se comporta com o *Caretaker*, que cria mementos da classe de *CharacterSheet* que se comporta como *Originator*.
+
+![Diagram de classe memento](../img/diagramas_de_classe/memento_diagram.png)
+
+#### CharacterSheet
+```python
+@staticmethod
+  def backup(identifier):
+      character = Character.objects.get(id=identifier)
+      r = requests.post("http://resources:5000/character_sheet/" + character.character_sheet+"/backup")
+      r = r.json()
+      character.character_mementoes.append(r['_id']['$oid'])
+      character.save()
+      return loads(character.to_json())
+
+  @staticmethod
+  def undo(identifier):
+      character = Character.objects.get(id=identifier)
+      
+      if character.character_mementoes.__len__() == 0:
+          return
+      memento = character.character_mementoes.pop()
+      requests.post("http://resources:5000/character_sheet/" + character.character_sheet+"/undo/" + memento)
+      character.save()
+
+      return loads(character.to_json())
+
+```
+
+#### Character
+
+```python
+ @staticmethod
+  def new_memento(identifier):
+
+
+      character_sheet = CharacterSheet.objects.get(id=identifier) 
+      memento = ConcreteCharacterMemento()
+      
+      memento.hit_points = character_sheet.hit_points
+      memento.level = character_sheet.level
+      memento.experience = character_sheet.experience
+      memento.strength = character_sheet.strength
+      memento.desterity = character_sheet.desterity
+      memento.costitution = character_sheet.costitution
+      memento.intelligence = character_sheet.intelligence
+      memento.wisdom = character_sheet.wisdom
+      memento.charisma = character_sheet.charisma
+      memento.skills = character_sheet.skills
+      memento.items = character_sheet.items
+      memento.date = str(datetime.now())[:19]
+      memento.save()
+
+      return loads(memento.to_json())
+
+  @staticmethod
+  def memento_backup(identifier, memento_identifier):
+      """
+      Deletes a character memento given its id
+      """
+      character_sheet = CharacterSheet.objects.get(id=identifier)
+      memento = ConcreteCharacterMemento.objects.get(id=memento_identifier)
+      
+      character_sheet.hit_points = memento.hit_points
+      character_sheet.level = memento.level
+      character_sheet.experience = memento.experience
+      character_sheet.strength = memento.strength
+      character_sheet.desterity = memento.desterity
+      character_sheet.costitution = memento.costitution
+      character_sheet.intelligence = memento.intelligence
+      character_sheet.wisdom = memento.wisdom
+      character_sheet.charisma = memento.charisma
+      character_sheet.skills = memento.skills
+      character_sheet.items = memento.items
+
+      character_sheet.save()
+      memento.delete()
+      
+      return loads(character_sheet.to_json())
+```
+
 ### 3.6 Observer e Mediator
 
 O mongoengine providencia por padrão um sistema de sinais dentro do sistema de documentos, que quando ele detecta que é feita uma inserção ou remoção, ele emite um sinal e permite que você conecte esse sinal a uma função desejada. Como o sistema de eventos não fica no serviço de recursos, foi criado um mediador chamado `SignalHandler` que fica responsável por mandar todos os sinais emitidos pelas classes do serviço de recursos para o serviço de campanhas.
