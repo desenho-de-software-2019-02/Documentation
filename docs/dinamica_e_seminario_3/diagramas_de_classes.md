@@ -1,11 +1,14 @@
 # Diagramas de classe
-## Diagrama de classe para Usuário
 
-![diagrama de classe para classe ](../img/diagramas_de_classe/UML_usuario_V2.png)
+## Diagrama de classe para Usuário e Autenticação
 
-[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_usuario_V2.png)
+![diagrama de classe para classe ](../img/diagramas_de_classe/class_users_auth_v3.png)
 
- - [Versão 1](../img/diagramas_de_classe/UML_usuario.png)
+[Visualizar em tamanho maior](../img/diagramas_de_classe/class_users_auth_v3.png)
+
+- [Versão 2](../img/diagramas_de_classe/UML_usuario_V2.png)
+- [Versão 1](../img/diagramas_de_classe/UML_usuario.png)
+
 
  ---
 
@@ -21,16 +24,17 @@
 
 ## Diagrama de classe para Recursos
 
-![diagrama de classe para classe ](../img/diagramas_de_classe/UML_recursos_V4.png)
-[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_recursos_V4.png)
+![diagrama de classe para classe ](../img/diagramas_de_classe/UML_recursos_V5.png)
+[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_recursos_V5.png)
 
+- [Versão 4](../img/diagramas_de_classe/UML_recursos_V4.png)
 - [Versão 3](../img/diagramas_de_classe/UML_recursos_V3.png)
 - [Versão 2](../img/diagramas_de_classe/UML_recursos_V2.png)
 - [Versão 1](../img/diagramas_de_classe/UML_recursos_V1.png)
 
  ---
 
-### Diagrama de classe para Autenticação
+<!-- ### Diagrama de classe para Autenticação
 
 ![ Versão 4 ](../img/diagramas_de_classe/UML_autenticacao_4.png)
 [Visualizar em tamanho maior](../img/diagramas_de_classe/UML_autenticacao_4.png)
@@ -39,7 +43,7 @@
 - [ Versão 2 ](../img/diagramas_de_classe/UML_autenticacao_2.png)
 - [ Versão 1 ](../img/diagramas_de_classe/UML_autenticacao.png)
 
- ---
+--- -->
 
 ### Diagrama de conexão com o banco
 
@@ -49,8 +53,8 @@
 
 ### Diagrama de Classe do Sistema de Cálculo de Dano
 
-![ Versão 1 ](../img/diagramas_de_classe/UML_dano.png)
-[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_dano.png)
+![ Versão 2 ](../img/diagramas_de_classe/UML_dano_2.png)
+[Visualizar em tamanho maior](../img/diagramas_de_classe/UML_dano_2.png)
 
 ## Tabela de Versionamento 
 
@@ -69,6 +73,9 @@
 | 11/11/2019 | 1.4 | Atualizando diagrama de classes do sistema de partidas com modelagem de combate | André de Sousa |
 | 11/11/2019 | 1.5 | Adiciona versões passadas dos diagramas de classe | André de Sousa |
 | 17/11/2019 | 1.6 |Adiciona diagrama de classe do sistema de cálculo de dano|Eduardo Yoshida|
+| 18/11/2019 | 1.7 | Adiciona versão | André de Sousa; André Bargas |
+| 18/11/2019 | 1.8 | Atualiza diagrama de classe do sistema de cálculo de dano | Eduardo Yoshida |
+| 18/11/2019 | 1.9 | Atualização diagrama de classe dos recursos | Mateus Nóbrega, André Bargas e André Filho |
 
 ## Referências
 
